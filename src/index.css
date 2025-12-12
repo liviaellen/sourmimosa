@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Manrope:wght@200;300;400;500;600&display=swap');
+
+@theme {
+  --color-brand-gold: #d4af37;
+  --color-brand-cream: #f2f0ea;
+  --color-brand-dark: #050505;
+  --color-brand-gray: #1a1a1a;
+
+  --font-sans: 'Manrope', sans-serif;
+  --font-display: 'Anton', sans-serif;
+  --font-bebas: 'Bebas Neue', sans-serif;
+}
+
+:root {
+  background-color: var(--color-brand-dark);
+  color: #fff;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
