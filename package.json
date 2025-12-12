@@ -2,12 +2,14 @@
   "name": "sourmimosa",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://www.sourmimosa.com",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "update-data": "node scripts/update-portfolio.cjs",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
@@ -28,6 +30,7 @@
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",
     "autoprefixer": "^10.4.22",
+    "csv-parse": "^6.1.0",
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",

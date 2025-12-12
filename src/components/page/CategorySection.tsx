@@ -1,12 +1,14 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { ArrowRight, Instagram } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 
 // Define the interface for a single highlight/portfolio item
 interface Highlight {
   id: string;
   embedUrl: string;
   title: string;
+  imageUrl?: string;
+  isReel?: boolean;
 }
 
 interface CategorySectionProps {
@@ -43,7 +45,7 @@ const CategorySection: React.FC<CategorySectionProps> = ({ id, title, subtitle, 
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
           >
-            <h2 className="text-6xl md:text-8xl font-display uppercase text-brand-cream">{title}</h2>
+            <h2 className="text-4xl md:text-8xl font-display uppercase text-brand-cream">{title}</h2>
             {subtitle && <p className="text-xl text-gray-400 font-light mt-2 max-w-xl">{subtitle}</p>}
           </motion.div>
 

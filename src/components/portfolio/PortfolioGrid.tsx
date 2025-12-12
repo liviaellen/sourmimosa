@@ -1,4 +1,4 @@
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import { getPortfolio } from '../../data';
 import PortfolioItem from './PortfolioItem';
 import type { PortfolioItem as PortfolioItemType } from '../../types';
@@ -14,6 +14,7 @@ interface PortfolioGridProps {
 const PortfolioGrid: React.FC<PortfolioGridProps> = ({ title, subtitle }) => {
   const allItems = getPortfolio();
   const [searchParams] = useSearchParams();
+  const gridRef = useRef<HTMLDivElement>(null);
 
   // State
   // Initialize category from URL param if present, otherwise 'all'
@@ -34,14 +35,42 @@ const PortfolioGrid: React.FC<PortfolioGridProps> = ({ title, subtitle }) => {
   const itemsPerPage = 12;
   const [selectedItem, setSelectedItem] = useState<PortfolioItemType | null>(null);
 
-  // Derived options
-  const cities = useMemo(() => Array.from(new Set(allItems.map(i => i.city))).filter(Boolean).sort(), [allItems]);
+  // Scroll to grid top on filter change
+  useEffect(() => {
+    if (gridRef.current) {
+      const yOffset = -100; // Offset for sticky header
+      const element = gridRef.current;
+      const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;
 
-  // Dynamic types based on selected category (or allItems if category is 'all')
+      // Only scroll if we are below the start of the grid (checking implies user might have scrolled down to see filters)
+      if (window.scrollY > y) {
+        window.scrollTo({ top: y, behavior: 'smooth' });
+      }
+    }
+  }, [category, city, type, search, page]);
+
+  // Derived options (Dynamic Filtering)
+  const cities = useMemo(() => {
+    const itemsToConsider = allItems.filter(item => {
+      if (category !== 'all' && item.category !== category) return false;
+      if (type) {
+        const itemType = item.type || item.brandCategory || '';
+        if (itemType !== type) return false;
+      }
+      return true;
+    });
+    return Array.from(new Set(itemsToConsider.map(i => i.city))).filter(Boolean).sort();
+  }, [allItems, category, type]);
+
+  // Dynamic types based on selected category and city
   const types = useMemo(() => {
-    const itemsToConsider = category === 'all' ? allItems : allItems.filter(i => i.category === category);
+    const itemsToConsider = allItems.filter(item => {
+      if (category !== 'all' && item.category !== category) return false;
+      if (city && item.city !== city) return false;
+      return true;
+    });
     return Array.from(new Set(itemsToConsider.map(i => i.type || i.brandCategory))).filter(Boolean).sort();
-  }, [allItems, category]);
+  }, [allItems, category, city]);
 
   // Filter Logic
   const filteredItems = useMemo(() => {
@@ -92,8 +121,8 @@ const PortfolioGrid: React.FC<PortfolioGridProps> = ({ title, subtitle }) => {
                 key={cat}
                 onClick={() => { setCategory(cat); setPage(1); }}
                 className={`px-4 py-2 rounded-full border text-sm transition-all ${category === cat
-                  ? 'bg-brand-gold border-brand-gold text-brand-dark font-bold'
-                  : 'bg-transparent border-white/20 text-gray-400 hover:border-white/40'
+                    ? 'bg-brand-gold border-brand-gold text-brand-dark font-bold'
+                    : 'bg-transparent border-white/20 text-gray-400 hover:border-white/40'
                   }`}
               >
                 {cat === 'all' ? 'All' : cat}
@@ -135,7 +164,7 @@ const PortfolioGrid: React.FC<PortfolioGridProps> = ({ title, subtitle }) => {
         </div>
 
         {/* Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        <div ref={gridRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           <AnimatePresence>
             {displayedItems.map((item) => (
               <motion.div
@@ -220,7 +249,7 @@ const PortfolioGrid: React.FC<PortfolioGridProps> = ({ title, subtitle }) => {
                             scrolling="no"
                             allowTransparency={true}
                           />
-                        </div>
+                        </div >
                       );
                     })
                   ) : (
@@ -228,27 +257,29 @@ const PortfolioGrid: React.FC<PortfolioGridProps> = ({ title, subtitle }) => {
                       No preview available
                     </div>
                   )}
-                </div>
+                </div >
 
-                {selectedItem.googleMaps && (
-                  <div className="mt-8 flex justify-center">
-                    <a
-                      href={selectedItem.googleMaps}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="px-6 py-3 bg-brand-gold text-brand-dark font-bold rounded-lg hover:bg-white transition-colors"
-                    >
-                      View on Google Maps
-                    </a>
-                  </div>
-                )}
-              </div>
-            </motion.div>
-          </motion.div>
+                {
+                  selectedItem.googleMaps && (
+                    <div className="mt-8 flex justify-center">
+                      <a
+                        href={selectedItem.googleMaps}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="px-6 py-3 bg-brand-gold text-brand-dark font-bold rounded-lg hover:bg-white transition-colors"
+                      >
+                        View on Google Maps
+                      </a>
+                    </div>
+                  )
+                }
+              </div >
+            </motion.div >
+          </motion.div >
         )}
-      </AnimatePresence>
+      </AnimatePresence >
 
-    </section>
+    </section >
   );
 };
 

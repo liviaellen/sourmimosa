@@ -20,11 +20,10 @@ const About = () => {
               It's Me
             </div>
 
-            {/* Image Frame */}
             <div className="relative border-8 border-brand-cream/5 shadow-2xl bg-[#1a1a1a]">
               <div className="aspect-[3/4] overflow-hidden grayscale hover:grayscale-0 transition-all duration-700">
                 <img
-                  src="/images/profile.png"
+                  src={`${import.meta.env.BASE_URL}images/profile.png`}
                   alt="Genta"
                   className="w-full h-full object-cover"
                 />
@@ -41,7 +40,7 @@ const About = () => {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8 }}
               viewport={{ once: true }}
-              className="text-[8rem] leading-[0.8] font-display uppercase text-brand-cream mb-8 mix-blend-difference"
+              className="text-5xl md:text-[8rem] leading-[0.8] font-display uppercase text-brand-cream mb-8 mix-blend-difference"
             >
               Who I Am?
             </motion.h2>
@@ -86,7 +85,7 @@ const About = () => {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.4 }}
               viewport={{ once: true }}
-              className="grid grid-cols-3 gap-4 mt-12 border-t border-brand-cream/10 pt-8"
+              className="grid grid-cols-3 gap-2 md:gap-4 mt-12 border-t border-brand-cream/10 pt-8"
             >
               {[
                 { label: 'Collaborations', value: '230', sub: 'Hotels & Resorts' },
@@ -94,8 +93,8 @@ const About = () => {
                 { label: 'Followers', value: '560K', sub: 'Audience' },
               ].map((stat, i) => (
                 <div key={i} className="flex flex-col items-center text-center group">
-                  <div className="w-24 h-24 rounded-full border border-brand-gold/30 flex flex-col items-center justify-center bg-brand-dark/50 group-hover:border-brand-gold group-hover:bg-brand-gold/10 transition-all duration-500 mb-3 relative overflow-hidden">
-                    <span className="font-display text-3xl text-brand-cream z-10">{stat.value}</span>
+                  <div className="w-20 h-20 md:w-24 md:h-24 rounded-full border border-brand-gold/30 flex flex-col items-center justify-center bg-brand-dark/50 group-hover:border-brand-gold group-hover:bg-brand-gold/10 transition-all duration-500 mb-3 relative overflow-hidden">
+                    <span className="font-display text-2xl md:text-3xl text-brand-cream z-10">{stat.value}</span>
                     <div className="absolute inset-0 bg-brand-gold/5 scale-0 group-hover:scale-100 transition-transform duration-500 rounded-full" />
                   </div>
                   <span className="text-brand-gold font-bebas tracking-wide text-lg">{stat.label}</span>

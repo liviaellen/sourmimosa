@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/sourmimosa/', // Base path for GitHub Pages
+  base: '/', // Base path for custom domain
 })

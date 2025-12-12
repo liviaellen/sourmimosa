@@ -86,7 +86,7 @@ const LuxuryDining = () => {
             Previous Partners
           </div>
           <img
-            src="/images/partners-dining.png"
+            src={`${import.meta.env.BASE_URL}images/partners-dining.png`}
             alt="Previous Dining Partners including Amber, Odette, Gao, and more"
             className="w-full h-auto object-cover"
           />
