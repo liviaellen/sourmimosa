@@ -1,14 +1,12 @@
-import React, { useEffect, useState } from 'react';
-import { motion } from 'framer-motion';
-import { ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { motion } from 'framer-motion';
+import { ArrowRight, Instagram } from 'lucide-react';
 
+// Define the interface for a single highlight/portfolio item
 interface Highlight {
   id: string;
-  embedUrl?: string; // For Instagram embeds (url to post)
-  imageUrl?: string; // Fallback or direct image
-  title?: string;
-  isReel?: boolean; // Force 9:16 aspect ratio
+  embedUrl: string;
+  title: string;
 }
 
 interface CategorySectionProps {
@@ -20,7 +18,7 @@ interface CategorySectionProps {
   filterCategory?: string;
 }
 
-const CategorySection: React.FC<CategorySectionProps> = ({ id, title, subtitle, highlights, reversed = false, filterCategory }) => {
+const CategorySection: React.FC<CategorySectionProps> = ({ id, title, subtitle, highlights, filterCategory }) => {
 
   // Helper to extract Instagram ID and create embed URL
   const getEmbedSrc = (url: string) => {

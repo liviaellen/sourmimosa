@@ -4,6 +4,7 @@ import PortfolioItem from './PortfolioItem';
 import type { PortfolioItem as PortfolioItemType } from '../../types';
 import { Search, X } from 'lucide-react';
 import { useSearchParams } from 'react-router-dom';
+import { AnimatePresence, motion } from 'framer-motion';
 
 interface PortfolioGridProps {
   title?: string;

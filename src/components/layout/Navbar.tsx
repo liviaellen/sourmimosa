@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Menu, X } from 'lucide-react';
 import { useNavigate, useLocation } from 'react-router-dom';
@@ -92,8 +92,8 @@ const Navbar = () => {
                 key={link.name}
                 onClick={() => handleNavClick(link)}
                 className={`uppercase tracking-widest transition-all ${link.highlight
-                    ? 'px-5 py-2 border border-brand-gold text-brand-gold text-xs font-bold hover:bg-brand-gold hover:text-black rounded-sm'
-                    : 'text-sm font-medium text-gray-300 hover:text-brand-gold'
+                  ? 'px-5 py-2 border border-brand-gold text-brand-gold text-xs font-bold hover:bg-brand-gold hover:text-black rounded-sm'
+                  : 'text-sm font-medium text-gray-300 hover:text-brand-gold'
                   }`}
               >
                 {link.name}

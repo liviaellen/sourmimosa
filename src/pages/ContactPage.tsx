@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import Navbar from '../components/layout/Navbar';
 import { Mail, ArrowRight } from 'lucide-react';
 import { motion } from 'framer-motion';

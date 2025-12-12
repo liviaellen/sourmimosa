@@ -1,4 +1,3 @@
-import React from 'react';
 import Hero from '../components/page/Hero';
 import CategorySection from '../components/page/CategorySection';
 import PortfolioGrid from '../components/portfolio/PortfolioGrid';

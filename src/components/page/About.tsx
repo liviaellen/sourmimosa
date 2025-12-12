@@ -1,19 +1,4 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-
-const stats = [
-  { label: 'Total Projects', value: '688' },
-  { label: 'Luxury Hotels', value: '233' },
-  { label: 'F&B Destinations', value: '387' },
-  { label: 'Beyond Experiences', value: '68' },
-];
-
-const demographics = [
-  { label: 'Japan', value: '15.3%' },
-  { label: 'South Korea', value: '13.1%' },
-  { label: 'Singapore', value: '12.1%' },
-  { label: 'China', value: '10.2%' },
-];
 
 const About = () => {
   return (
