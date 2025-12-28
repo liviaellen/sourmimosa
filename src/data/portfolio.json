@@ -888,8 +888,8 @@
       "instagramLinks": [
         "https://www.instagram.com/p/DRpEZ5jCTD1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "https://www.instagram.com/stories/highlights/17950829982005403/",
-        "https://www.instagram.com/reel/DRrtq2iCWbE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/reel/DRrlZaiCcAz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        "https://www.instagram.com/p/DRrlZaiCcAz/",
+        "https://www.instagram.com/p/DRrtq2iCWbE/"
       ],
       "googleMaps": "https://maps.app.goo.gl/5y1C5HZpJsLiWWp97"
     },
@@ -1164,7 +1164,7 @@
         "https://www.instagram.com/reel/DSWahd-Cecz/?igsh=cW42OXA1dWk3empy",
         "https://www.instagram.com/reel/DSWbVsbCVii/?igsh=MWlqOXNhbmgxbnBibA=="
       ],
-      "googleMaps": "SOON"
+      "googleMaps": "https://maps.app.goo.gl/m87As9hpumKrgMoA9"
     },
     {
       "id": "hotel_70",
@@ -1626,7 +1626,7 @@
       "instagramLinks": [
         "https://www.instagram.com/p/DRjThubiX65/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "https://www.instagram.com/stories/highlights/17880730428425382/",
-        "https://www.instagram.com/reel/DRk_0pYk_v_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        "https://www.instagram.com/p/DRk_0pYk_v_/"
       ],
       "googleMaps": "https://maps.app.goo.gl/Qb8LGgbd8VCFd6q47"
     },
@@ -2515,7 +2515,7 @@
     {
       "id": "hotel_147",
       "brand": "Langham",
-      "property": "The Langham, Jakarta 🗝️🗝️",
+      "property": "The Langham, Jakarta 🗝️🗝��",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
       "brandCategory": "C Lower Luxury",
@@ -3202,7 +3202,7 @@
       "instagramLinks": [
         "https://www.instagram.com/p/DSL6b0uCeb6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "https://www.instagram.com/stories/highlights/18065837690172290/",
-        "https://www.instagram.com/reel/DSL68VACUtE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        "https://www.instagram.com/p/DSL68VACUtE/"
       ],
       "googleMaps": "https://maps.app.goo.gl/y48ErW6rqBYRkhSz5"
     },
@@ -3631,7 +3631,7 @@
       "instagramLinks": [
         "https://www.instagram.com/p/DR1OCkDie_z/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "https://www.instagram.com/stories/highlights/18139813972462000/",
-        "https://www.instagram.com/reel/DR1OZsiCfzN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        "https://www.instagram.com/p/DR1OZsiCfzN/"
       ],
       "googleMaps": "https://maps.app.goo.gl/rJsPp3BSwQd6LGVr5"
     },
@@ -3652,8 +3652,8 @@
     },
     {
       "id": "hotel_218",
-      "brand": "Five Elements",
-      "property": "Five Elements Ubud",
+      "brand": "Fivelements",
+      "property": "Fivelements Ubud",
       "city": "Bali",
       "category": "Hotels & Resorts",
       "brandCategory": "E Premium",
