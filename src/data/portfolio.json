@@ -1428,7 +1428,7 @@
       "instagramLinks": [
         "https://www.instagram.com/p/DUQZQ-mic72/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "https://www.instagram.com/stories/highlights/17857911738547904/",
-        "https://www.instagram.com/reel/DUQaBgIicBi/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/reel/DUQaBgIicBi/?igsh=YWg0cGppM3Z0aDJl",
         "https://www.instagram.com/reel/DUQbEMSibk3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
       ],
       "googleMaps": "https://maps.app.goo.gl/RYcjTMv95iMJFTaY7?g_st=ic"
@@ -2581,7 +2581,7 @@
     {
       "id": "hotel_149",
       "brand": "Kempinski",
-      "property": "Sindorn Kempinski Hotel Bangkok",
+      "property": "Sindhorn Kempinski Hotel Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
       "brandCategory": "C Lower Luxury",
