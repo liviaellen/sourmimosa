@@ -401,8 +401,12 @@
       "category": "Hotels & Resorts",
       "brandCategory": "A Ultra Luxury",
       "type": "hotel",
-      "instagramLinks": [],
-      "googleMaps": "SOON"
+      "instagramLinks": [
+        "https://www.instagram.com/p/DYhg72JGzrD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/stories/highlights/18124916701717490/",
+        "https://www.instagram.com/reel/DYhhMlQS9CX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/nV2uieNtEJrJv3A28"
     },
     {
       "id": "hotel_27",
@@ -2503,9 +2507,12 @@
       "brandCategory": "C Lower Luxury",
       "type": "hotel",
       "instagramLinks": [
-        "https://www.instagram.com/stories/highlights/17856681819644643/"
+        "https://www.instagram.com/p/DYNDv59CTyv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/stories/highlights/17856681819644643/",
+        "https://www.instagram.com/reel/DYNEIu4JWpR/?utm_source=ig_web_copy_link",
+        "https://www.instagram.com/reel/DYNEQbNJU1G/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
       ],
-      "googleMaps": "SOON"
+      "googleMaps": "https://maps.app.goo.gl/uUa7WwaehGJSKnTh6"
     },
     {
       "id": "hotel_153",
@@ -2679,8 +2686,13 @@
       "category": "Hotels & Resorts",
       "brandCategory": "C Lower Luxury",
       "type": "hotel",
-      "instagramLinks": [],
-      "googleMaps": "SOON"
+      "instagramLinks": [
+        "https://www.instagram.com/p/DYXVqjUiVya/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/stories/highlights/18152125042479240/",
+        "https://www.instagram.com/reel/DYXVydfJfWU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/reel/DYXV-TGp2wc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/Hb8JN84ehs3gh6Bk6"
     },
     {
       "id": "hotel_164",
@@ -2890,8 +2902,13 @@
       "category": "Hotels & Resorts",
       "brandCategory": "C Lower Luxury",
       "type": "hotel",
-      "instagramLinks": [],
-      "googleMaps": "SOON"
+      "instagramLinks": [
+        "https://www.instagram.com/p/DYdj6vTCcVO/?utm_source=ig_web_copy_link",
+        "https://www.instagram.com/stories/highlights/18063123830440958/",
+        "https://www.instagram.com/reel/DYdkAnwJJHA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/reel/DYdkRXdpJ_3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/XuR1igzxQeqhSkfCA"
     },
     {
       "id": "hotel_176",
@@ -4531,10 +4548,12 @@
       "instagramLinks": [
         "https://www.instagram.com/p/DJN5UZApKiN/?utm_source=ig_web_copy_link",
         "https://www.instagram.com/p/DJMU1pUhz0G/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/p/DYSHgk_icKQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         "https://www.instagram.com/stories/highlights/18043576949434129/",
         "https://www.instagram.com/reel/DJRSCI4JBA9/?utm_source=ig_web_copy_link",
         "https://www.instagram.com/reel/DJMqrdjS9Bt/?utm_source=ig_web_copy_link",
-        "https://www.instagram.com/reel/DJMnNLrSZ0S/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        "https://www.instagram.com/reel/DJMnNLrSZ0S/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/reel/DYTteszpRrd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
       ],
       "googleMaps": "https://maps.app.goo.gl/cZ9q46cu5ufTu99G7"
     },
