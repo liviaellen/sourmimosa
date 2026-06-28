@@ -692,8 +692,11 @@
       "category": "Hotels & Resorts",
       "brandCategory": "A Ultra Luxury",
       "type": "hotel",
-      "instagramLinks": [],
-      "googleMaps": "SOON"
+      "instagramLinks": [
+        "https://www.instagram.com/p/DaGYx68n0y0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/reel/DaGZXb7y76x/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/9J33LeeMN8BhgDjb9"
     },
     {
       "id": "hotel_45",
@@ -1908,7 +1911,7 @@
     {
       "id": "hotel_118",
       "brand": "PARKROYAL COLLECTION",
-      "property": "PARKROYAL COLLECTION Pickering Singapore ���️",
+      "property": "PARKROYAL COLLECTION Pickering Singapore 🗝️",
       "city": "Singapore",
       "category": "Hotels & Resorts",
       "brandCategory": "",
