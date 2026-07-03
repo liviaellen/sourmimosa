@@ -1382,6 +1382,93 @@
     },
     {
       "id": "hotel_87",
+      "brand": "Leading Hotels of The World",
+      "property": "J Hotel Shanghai Tower",
+      "city": "Shanghai",
+      "category": "Hotels & Resorts",
+      "brandCategory": "A Ultra Luxury",
+      "type": "hotel",
+      "instagramLinks": [
+        "https://www.instagram.com/p/DXisMBACaje/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/stories/highlights/18000325934927264/",
+        "https://www.instagram.com/reel/DXitUBQiVy-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/yhyeBJFpTvVuwHPp9"
+    },
+    {
+      "id": "hotel_88",
+      "brand": "Leading Hotels of The World",
+      "property": "SIGNIEL SEOUL 🗝️🗝️",
+      "city": "Seoul",
+      "category": "Hotels & Resorts",
+      "brandCategory": "A Ultra Luxury",
+      "type": "hotel",
+      "instagramLinks": [
+        "https://www.instagram.com/p/DUitIZ_iRmN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/stories/highlights/17955063366068162/",
+        "https://www.instagram.com/reel/DUitsO9iVXV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/Z77SSfXm3JY7swup8?g_st=ic"
+    },
+    {
+      "id": "hotel_89",
+      "brand": "Leading Hotels of The World",
+      "property": "The Capitol Kempinski Hotel Singapore",
+      "city": "Singapore",
+      "category": "Hotels & Resorts",
+      "brandCategory": "A Ultra Luxury",
+      "type": "hotel",
+      "instagramLinks": [
+        "https://www.instagram.com/p/DLIa3PuSTkN/?igsh=aWIxcnlzYmQ3anVh",
+        "https://www.instagram.com/p/DLFpR5fJGzO/?igsh=MTQ3amY5bm85NG50Yg==",
+        "https://www.instagram.com/stories/highlights/18074092765694721/",
+        "https://www.instagram.com/reel/DLIcJIjzITb/?igsh=MTJ0NHpqN2tsYXNmZA==",
+        "https://www.instagram.com/reel/DLIbDqtSfDI/?igsh=eGFsMmZjc2Fubmhw",
+        "https://www.instagram.com/reel/DLFqt7xphpG/?igsh=MTZrcW95Mmdxdnd6ZQ==",
+        "https://www.instagram.com/reel/DLFpjCNpHpf/?igsh=MXY3NHJ4ejFmamYwbA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/ZksME8UmY5FQ4F4z5?g_st=ic"
+    },
+    {
+      "id": "hotel_90",
+      "brand": "Leading Hotels of The World",
+      "property": "The Hotel Seiryu Kyoto Kiyomizu 🗝️",
+      "city": "Kyoto",
+      "category": "Hotels & Resorts",
+      "brandCategory": "A Ultra Luxury",
+      "type": "hotel",
+      "instagramLinks": [
+        "https://www.instagram.com/p/DHvZo1Op7Ps/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/p/DHvYQBYJTD_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/p/DOOljIHifag/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/p/DOSd2D2CRV9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTYwNzM5ODA2OTEyNDY3?igsh=MTB4Y2VlaTFhZjI2MA==",
+        "https://www.instagram.com/reel/DHvaEQapRow/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/reel/DHvZOzkpaia/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/reel/DOTOEuFiSh0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/reel/DOOu4zLCcNT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/reel/DOQcj6mCffZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/usPk2QjG4n5zdqVv7"
+    },
+    {
+      "id": "hotel_91",
+      "brand": "Leading Hotels of The World",
+      "property": "The Okura Prestige Bangkok 🗝️🗝️",
+      "city": "Bangkok",
+      "category": "Hotels & Resorts",
+      "brandCategory": "A Ultra Luxury",
+      "type": "hotel",
+      "instagramLinks": [
+        "https://www.instagram.com/p/DUQZQ-mic72/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/stories/highlights/17857911738547904/",
+        "https://www.instagram.com/reel/DUQaBgIicBi/?igsh=YWg0cGppM3Z0aDJl",
+        "https://www.instagram.com/reel/DUQbEMSibk3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/RYcjTMv95iMJFTaY7?g_st=ic"
+    },
+    {
+      "id": "hotel_92",
       "brand": "EDITION",
       "property": "The Riviera Maya EDITION at Kanai",
       "city": "Riviera Maya",
@@ -1392,7 +1479,7 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_88",
+      "id": "hotel_93",
       "brand": "EDITION",
       "property": "The Shanghai EDITION",
       "city": "Shanghai",
@@ -1412,7 +1499,7 @@
       "googleMaps": "https://maps.app.goo.gl/D64khHMaYBfa1d5PA"
     },
     {
-      "id": "hotel_89",
+      "id": "hotel_94",
       "brand": "EDITION",
       "property": "The Singapore EDITION",
       "city": "Singapore",
@@ -1432,7 +1519,7 @@
       "googleMaps": "https://maps.app.goo.gl/jokd6hCFaqmq3UiR9"
     },
     {
-      "id": "hotel_90",
+      "id": "hotel_95",
       "brand": "EDITION",
       "property": "The Tokyo EDITION, Ginza",
       "city": "Tokyo",
@@ -1449,7 +1536,7 @@
       "googleMaps": "https://maps.app.goo.gl/AMYDu2kt9JsYH2i97"
     },
     {
-      "id": "hotel_91",
+      "id": "hotel_96",
       "brand": "EDITION",
       "property": "The Tokyo EDITION, Toranomon",
       "city": "Tokyo",
@@ -1466,7 +1553,7 @@
       "googleMaps": "https://maps.app.goo.gl/4aFNvWRduoJXhxxg9?g_st=ic"
     },
     {
-      "id": "hotel_92",
+      "id": "hotel_97",
       "brand": "Fairmont",
       "property": "Fairmont Jakarta",
       "city": "Jakarta",
@@ -1485,7 +1572,7 @@
       "googleMaps": "https://maps.app.goo.gl/pmBWDMf2mpTqZgjD7"
     },
     {
-      "id": "hotel_93",
+      "id": "hotel_98",
       "brand": "Fairmont",
       "property": "Fairmont Makati 🗝️",
       "city": "Manila",
@@ -1500,7 +1587,7 @@
       "googleMaps": "https://maps.app.goo.gl/e2JokNRnEeKMzaAf9"
     },
     {
-      "id": "hotel_94",
+      "id": "hotel_99",
       "brand": "Fairmont",
       "property": "Fairmont Peace Hotel",
       "city": "Shanghai",
@@ -1516,7 +1603,7 @@
       "googleMaps": "https://maps.app.goo.gl/syn5zGzsrNTrcgCg9"
     },
     {
-      "id": "hotel_95",
+      "id": "hotel_100",
       "brand": "Galaxy",
       "property": "Galaxy Hotel Macau",
       "city": "Macau",
@@ -1539,7 +1626,7 @@
       "googleMaps": "https://maps.app.goo.gl/hRMXYsbKuQgNj3TA7"
     },
     {
-      "id": "hotel_96",
+      "id": "hotel_101",
       "brand": "Grand Hyatt",
       "property": "Grand Hyatt Bali",
       "city": "Bali",
@@ -1555,7 +1642,7 @@
       "googleMaps": "https://maps.app.goo.gl/m87As9hpumKrgMoA9"
     },
     {
-      "id": "hotel_97",
+      "id": "hotel_102",
       "brand": "Grand Hyatt",
       "property": "Grand Hyatt Beijing",
       "city": "Beijing",
@@ -1572,7 +1659,7 @@
       "googleMaps": "https://maps.app.goo.gl/mZ1yTPjRTqozTgex7"
     },
     {
-      "id": "hotel_98",
+      "id": "hotel_103",
       "brand": "Grand Hyatt",
       "property": "Grand Hyatt Chengdu",
       "city": "Chengdu",
@@ -1587,7 +1674,7 @@
       "googleMaps": "https://maps.app.goo.gl/oXAbrHNKaXv4bs547"
     },
     {
-      "id": "hotel_99",
+      "id": "hotel_104",
       "brand": "Grand Hyatt",
       "property": "Grand Hyatt Erawan Bangkok",
       "city": "Bangkok",
@@ -1604,7 +1691,7 @@
       "googleMaps": "https://maps.app.goo.gl/xGHn2qCAE34mXCao7"
     },
     {
-      "id": "hotel_100",
+      "id": "hotel_105",
       "brand": "Grand Hyatt",
       "property": "Grand Hyatt Hong Kong",
       "city": "Hong Kong",
@@ -1623,7 +1710,7 @@
       "googleMaps": "https://maps.app.goo.gl/ecogacTEM778Ar3k9"
     },
     {
-      "id": "hotel_101",
+      "id": "hotel_106",
       "brand": "Grand Hyatt",
       "property": "Grand Hyatt Jakarta",
       "city": "Jakarta",
@@ -1638,7 +1725,7 @@
       "googleMaps": "https://maps.app.goo.gl/WyDw4fjZVLEKJSX8A?g_st=ic"
     },
     {
-      "id": "hotel_102",
+      "id": "hotel_107",
       "brand": "Grand Hyatt",
       "property": "Grand Hyatt Kuala Lumpur",
       "city": "Kuala Lumpur",
@@ -1658,7 +1745,7 @@
       "googleMaps": "https://maps.app.goo.gl/R7DdGmjRauCC7Qv86"
     },
     {
-      "id": "hotel_103",
+      "id": "hotel_108",
       "brand": "Grand Hyatt",
       "property": "Grand Hyatt Manila",
       "city": "Manila",
@@ -1675,7 +1762,7 @@
       "googleMaps": "https://maps.app.goo.gl/XGhw1VvbqnvkiZm17?g_st=ic"
     },
     {
-      "id": "hotel_104",
+      "id": "hotel_109",
       "brand": "Grand Hyatt",
       "property": "Grand Hyatt Shanghai",
       "city": "Shanghai",
@@ -1690,7 +1777,7 @@
       "googleMaps": "https://maps.app.goo.gl/L5uCVNnZhKCiJsEY8"
     },
     {
-      "id": "hotel_105",
+      "id": "hotel_110",
       "brand": "Grand Hyatt",
       "property": "Grand Hyatt Tokyo",
       "city": "Tokyo",
@@ -1708,7 +1795,7 @@
       "googleMaps": "https://maps.app.goo.gl/Wqbs7nhxiGLyFukj8"
     },
     {
-      "id": "hotel_106",
+      "id": "hotel_111",
       "brand": "Grand Hyatt",
       "property": "Grand Hyatt Xi'an",
       "city": "Xi'an",
@@ -1725,93 +1812,6 @@
         "https://www.instagram.com/reel/DGGna8RTYLo/?igsh=MTVocG53NmNpdmJoOQ=="
       ],
       "googleMaps": "https://maps.app.goo.gl/yNNrMy6CQHKoprHj6?g_st=ic"
-    },
-    {
-      "id": "hotel_107",
-      "brand": "Leading Hotels of The World",
-      "property": "J Hotel Shanghai Tower",
-      "city": "Shanghai",
-      "category": "Hotels & Resorts",
-      "brandCategory": "B Luxury",
-      "type": "hotel",
-      "instagramLinks": [
-        "https://www.instagram.com/p/DXisMBACaje/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/stories/highlights/18000325934927264/",
-        "https://www.instagram.com/reel/DXitUBQiVy-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-      ],
-      "googleMaps": "https://maps.app.goo.gl/yhyeBJFpTvVuwHPp9"
-    },
-    {
-      "id": "hotel_108",
-      "brand": "Leading Hotels of The World",
-      "property": "SIGNIEL SEOUL 🗝️🗝️",
-      "city": "Seoul",
-      "category": "Hotels & Resorts",
-      "brandCategory": "B Luxury",
-      "type": "hotel",
-      "instagramLinks": [
-        "https://www.instagram.com/p/DUitIZ_iRmN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/stories/highlights/17955063366068162/",
-        "https://www.instagram.com/reel/DUitsO9iVXV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-      ],
-      "googleMaps": "https://maps.app.goo.gl/Z77SSfXm3JY7swup8?g_st=ic"
-    },
-    {
-      "id": "hotel_109",
-      "brand": "Leading Hotels of The World",
-      "property": "The Capitol Kempinski Hotel Singapore",
-      "city": "Singapore",
-      "category": "Hotels & Resorts",
-      "brandCategory": "B Luxury",
-      "type": "hotel",
-      "instagramLinks": [
-        "https://www.instagram.com/p/DLIa3PuSTkN/?igsh=aWIxcnlzYmQ3anVh",
-        "https://www.instagram.com/p/DLFpR5fJGzO/?igsh=MTQ3amY5bm85NG50Yg==",
-        "https://www.instagram.com/stories/highlights/18074092765694721/",
-        "https://www.instagram.com/reel/DLIcJIjzITb/?igsh=MTJ0NHpqN2tsYXNmZA==",
-        "https://www.instagram.com/reel/DLIbDqtSfDI/?igsh=eGFsMmZjc2Fubmhw",
-        "https://www.instagram.com/reel/DLFqt7xphpG/?igsh=MTZrcW95Mmdxdnd6ZQ==",
-        "https://www.instagram.com/reel/DLFpjCNpHpf/?igsh=MXY3NHJ4ejFmamYwbA=="
-      ],
-      "googleMaps": "https://maps.app.goo.gl/ZksME8UmY5FQ4F4z5?g_st=ic"
-    },
-    {
-      "id": "hotel_110",
-      "brand": "Leading Hotels of The World",
-      "property": "The Hotel Seiryu Kyoto Kiyomizu 🗝️",
-      "city": "Kyoto",
-      "category": "Hotels & Resorts",
-      "brandCategory": "B Luxury",
-      "type": "hotel",
-      "instagramLinks": [
-        "https://www.instagram.com/p/DHvZo1Op7Ps/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/p/DHvYQBYJTD_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/p/DOOljIHifag/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/p/DOSd2D2CRV9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTYwNzM5ODA2OTEyNDY3?igsh=MTB4Y2VlaTFhZjI2MA==",
-        "https://www.instagram.com/reel/DHvaEQapRow/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/reel/DHvZOzkpaia/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/reel/DOTOEuFiSh0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/reel/DOOu4zLCcNT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/reel/DOQcj6mCffZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-      ],
-      "googleMaps": "https://maps.app.goo.gl/usPk2QjG4n5zdqVv7"
-    },
-    {
-      "id": "hotel_111",
-      "brand": "Leading Hotels of The World",
-      "property": "The Okura Prestige Bangkok 🗝️🗝️",
-      "city": "Bangkok",
-      "category": "Hotels & Resorts",
-      "brandCategory": "B Luxury",
-      "type": "hotel",
-      "instagramLinks": [
-        "https://www.instagram.com/p/DUQZQ-mic72/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/stories/highlights/17857911738547904/",
-        "https://www.instagram.com/reel/DUQaBgIicBi/?igsh=YWg0cGppM3Z0aDJl",
-        "https://www.instagram.com/reel/DUQbEMSibk3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-      ],
-      "googleMaps": "https://maps.app.goo.gl/RYcjTMv95iMJFTaY7?g_st=ic"
     },
     {
       "id": "hotel_112",
