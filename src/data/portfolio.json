@@ -2,7 +2,7 @@
   "portfolio": [
     {
       "id": "hotel_1",
-      "brand": "Aman",
+      "brand": "",
       "property": "Amankora 🗝️🗝️",
       "city": "Thimphu",
       "category": "Hotels & Resorts",
@@ -17,7 +17,7 @@
     },
     {
       "id": "hotel_2",
-      "brand": "Aman",
+      "brand": "",
       "property": "Amanyangyun 🗝️",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -28,7 +28,7 @@
     },
     {
       "id": "hotel_3",
-      "brand": "Ritz-Carlton Reserve",
+      "brand": "",
       "property": "Higashiyama Niseko Village, a Ritz-Carlton Reserve 🗝️",
       "city": "Niseko",
       "category": "Hotels & Resorts",
@@ -39,7 +39,7 @@
     },
     {
       "id": "hotel_4",
-      "brand": "Ritz-Carlton Reserve",
+      "brand": "",
       "property": "Mandapa, a Ritz-Carlton Reserve 🗝️🗝️🗝️",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -55,7 +55,7 @@
     },
     {
       "id": "hotel_5",
-      "brand": "Ritz-Carlton Reserve",
+      "brand": "",
       "property": "Nekajui, a Ritz-Carlton Reserve 🗝️🗝️",
       "city": "Guanacaste",
       "category": "Hotels & Resorts",
@@ -66,7 +66,7 @@
     },
     {
       "id": "hotel_6",
-      "brand": "Ritz-Carlton Reserve",
+      "brand": "",
       "property": "Rissai Valley, a Ritz-Carlton Reserve 🗝️🗝️🗝️",
       "city": "Jiuzhaigou",
       "category": "Hotels & Resorts",
@@ -82,7 +82,7 @@
     },
     {
       "id": "hotel_7",
-      "brand": "The Set Collection",
+      "brand": "",
       "property": "Hotel Café Royal 🗝️🗝️",
       "city": "London",
       "category": "Hotels & Resorts",
@@ -93,7 +93,7 @@
     },
     {
       "id": "hotel_8",
-      "brand": "The Set Collection",
+      "brand": "",
       "property": "The Siam 🗝️🗝️🗝️",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -110,7 +110,7 @@
     },
     {
       "id": "hotel_9",
-      "brand": "The Set Collection",
+      "brand": "",
       "property": "The Upper House Chengdu 🗝️",
       "city": "Chengdu",
       "category": "Hotels & Resorts",
@@ -127,7 +127,7 @@
     },
     {
       "id": "hotel_10",
-      "brand": "The Set Collection",
+      "brand": "",
       "property": "The Upper House Shanghai 🗝️",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -138,7 +138,7 @@
     },
     {
       "id": "hotel_11",
-      "brand": "Banyan Tree",
+      "brand": "",
       "property": "Banyan Tree Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -155,7 +155,7 @@
     },
     {
       "id": "hotel_12",
-      "brand": "Banyan Tree",
+      "brand": "",
       "property": "Banyan Tree Macau 🗝️",
       "city": "Macau",
       "category": "Hotels & Resorts",
@@ -174,7 +174,7 @@
     },
     {
       "id": "hotel_13",
-      "brand": "Banyan Tree",
+      "brand": "",
       "property": "Buahan, A Banyan Tree Escape - Bali 🗝️🗝️",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -193,7 +193,7 @@
     },
     {
       "id": "hotel_14",
-      "brand": "Banyan Tree",
+      "brand": "",
       "property": "Mandai Rainforest Resort by Banyan Tree",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -215,7 +215,7 @@
     },
     {
       "id": "hotel_15",
-      "brand": "Belmond",
+      "brand": "",
       "property": "Jimbaran Puri, A Belmond Hotel 🗝️",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -231,7 +231,7 @@
     },
     {
       "id": "hotel_16",
-      "brand": "Bvlgari",
+      "brand": "",
       "property": "Bvlgari Resort Bali 🗝️",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -247,7 +247,7 @@
     },
     {
       "id": "hotel_17",
-      "brand": "Capella",
+      "brand": "",
       "property": "Capella at Galaxy Macau",
       "city": "Macau",
       "category": "Hotels & Resorts",
@@ -263,7 +263,7 @@
     },
     {
       "id": "hotel_18",
-      "brand": "Capella",
+      "brand": "",
       "property": "Capella Shanghai, Jian Ye Li 🗝️🗝️",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -274,7 +274,7 @@
     },
     {
       "id": "hotel_19",
-      "brand": "Capella",
+      "brand": "",
       "property": "Capella Taipei 🗝️",
       "city": "Taipei",
       "category": "Hotels & Resorts",
@@ -293,7 +293,7 @@
     },
     {
       "id": "hotel_20",
-      "brand": "Capella",
+      "brand": "",
       "property": "Capella Ubud 🗝️",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -309,7 +309,7 @@
     },
     {
       "id": "hotel_21",
-      "brand": "Four Seasons",
+      "brand": "",
       "property": "Beverly Wilshire, A Four Seasons Hotel",
       "city": "Los Angeles",
       "category": "Hotels & Resorts",
@@ -327,7 +327,7 @@
     },
     {
       "id": "hotel_22",
-      "brand": "Four Seasons",
+      "brand": "",
       "property": "Four Seasons Bali at Jimbaran Bay 🗝️",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -342,7 +342,7 @@
     },
     {
       "id": "hotel_23",
-      "brand": "Four Seasons",
+      "brand": "",
       "property": "Four Seasons Bangkok 🗝️🗝️",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -357,7 +357,7 @@
     },
     {
       "id": "hotel_24",
-      "brand": "Four Seasons",
+      "brand": "",
       "property": "Four Seasons Beijing",
       "city": "Beijing",
       "category": "Hotels & Resorts",
@@ -371,7 +371,7 @@
     },
     {
       "id": "hotel_25",
-      "brand": "Four Seasons",
+      "brand": "",
       "property": "Four Seasons Chiang Mai 🗝️🗝️🗝️",
       "city": "Chiang Mai",
       "category": "Hotels & Resorts",
@@ -386,7 +386,7 @@
     },
     {
       "id": "hotel_26",
-      "brand": "Four Seasons",
+      "brand": "",
       "property": "Four Seasons Jakarta 🗝️🗝️",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -400,7 +400,7 @@
     },
     {
       "id": "hotel_27",
-      "brand": "Four Seasons",
+      "brand": "",
       "property": "Four Seasons Kuala Lumpur 🗝️",
       "city": "Kuala Lumpur",
       "category": "Hotels & Resorts",
@@ -421,7 +421,7 @@
     },
     {
       "id": "hotel_28",
-      "brand": "Four Seasons",
+      "brand": "",
       "property": "Four Seasons San Francisco at Embarcadero 🗝️🗝️",
       "city": "San Francisco",
       "category": "Hotels & Resorts",
@@ -439,7 +439,7 @@
     },
     {
       "id": "hotel_29",
-      "brand": "Four Seasons",
+      "brand": "",
       "property": "Four Seasons Suzhou",
       "city": "Suzhou",
       "category": "Hotels & Resorts",
@@ -454,7 +454,7 @@
     },
     {
       "id": "hotel_30",
-      "brand": "Leading Hotels of The World",
+      "brand": "",
       "property": "J Hotel Shanghai Tower",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -469,7 +469,18 @@
     },
     {
       "id": "hotel_31",
-      "brand": "Leading Hotels of The World",
+      "brand": "",
+      "property": "Palace Hotel Tokyo 🗝️🗝️🗝️",
+      "city": "Tokyo",
+      "category": "Hotels & Resorts",
+      "brandCategory": "",
+      "type": "hotel",
+      "instagramLinks": [],
+      "googleMaps": "SOON"
+    },
+    {
+      "id": "hotel_32",
+      "brand": "",
       "property": "SIGNIEL SEOUL 🗝️🗝️",
       "city": "Seoul",
       "category": "Hotels & Resorts",
@@ -483,8 +494,8 @@
       "googleMaps": "https://maps.app.goo.gl/Z77SSfXm3JY7swup8?g_st=ic"
     },
     {
-      "id": "hotel_32",
-      "brand": "Leading Hotels of The World",
+      "id": "hotel_33",
+      "brand": "",
       "property": "The Adria 🗝️",
       "city": "London",
       "category": "Hotels & Resorts",
@@ -494,8 +505,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_33",
-      "brand": "Leading Hotels of The World",
+      "id": "hotel_34",
+      "brand": "",
       "property": "The Capitol Kempinski Hotel Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -513,8 +524,8 @@
       "googleMaps": "https://maps.app.goo.gl/ZksME8UmY5FQ4F4z5?g_st=ic"
     },
     {
-      "id": "hotel_34",
-      "brand": "Leading Hotels of The World",
+      "id": "hotel_35",
+      "brand": "",
       "property": "The Hotel Seiryu Kyoto Kiyomizu 🗝️",
       "city": "Kyoto",
       "category": "Hotels & Resorts",
@@ -535,8 +546,8 @@
       "googleMaps": "https://maps.app.goo.gl/usPk2QjG4n5zdqVv7"
     },
     {
-      "id": "hotel_35",
-      "brand": "Leading Hotels of The World",
+      "id": "hotel_36",
+      "brand": "",
       "property": "The Okura Prestige Bangkok 🗝️🗝️",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -551,8 +562,8 @@
       "googleMaps": "https://maps.app.goo.gl/RYcjTMv95iMJFTaY7?g_st=ic"
     },
     {
-      "id": "hotel_36",
-      "brand": "Mandarin Oriental",
+      "id": "hotel_37",
+      "brand": "",
       "property": "Mandarin Oriental Mayfair, London 🗝️🗝️",
       "city": "London",
       "category": "Hotels & Resorts",
@@ -562,8 +573,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_37",
-      "brand": "Mandarin Oriental",
+      "id": "hotel_38",
+      "brand": "",
       "property": "Mandarin Oriental, Hong Kong 🗝️",
       "city": "Hong Kong",
       "category": "Hotels & Resorts",
@@ -577,8 +588,8 @@
       "googleMaps": "https://maps.app.goo.gl/nV2uieNtEJrJv3A28"
     },
     {
-      "id": "hotel_38",
-      "brand": "Mandarin Oriental",
+      "id": "hotel_39",
+      "brand": "",
       "property": "Mandarin Oriental, Macau",
       "city": "Macau",
       "category": "Hotels & Resorts",
@@ -596,8 +607,8 @@
       "googleMaps": "https://maps.app.goo.gl/ws7LvyNMDMn1TusQ8"
     },
     {
-      "id": "hotel_39",
-      "brand": "Mandarin Oriental",
+      "id": "hotel_40",
+      "brand": "",
       "property": "Mandarin Oriental, Singapore 🗝️",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -615,8 +626,8 @@
       "googleMaps": "https://maps.app.goo.gl/DPaSAMATn8vVPqQWA"
     },
     {
-      "id": "hotel_40",
-      "brand": "Mandarin Oriental",
+      "id": "hotel_41",
+      "brand": "",
       "property": "Mandarin Oriental, Taipei 🗝️",
       "city": "Taipei",
       "category": "Hotels & Resorts",
@@ -633,8 +644,8 @@
       "googleMaps": "https://maps.app.goo.gl/CFFm9jDDVdJe8kBj8"
     },
     {
-      "id": "hotel_41",
-      "brand": "Mandarin Oriental",
+      "id": "hotel_42",
+      "brand": "",
       "property": "Mandarin Oriental, The Landmark",
       "city": "Hong Kong",
       "category": "Hotels & Resorts",
@@ -648,8 +659,8 @@
       "googleMaps": "https://maps.app.goo.gl/kronyucCx6RQc8Wn6"
     },
     {
-      "id": "hotel_42",
-      "brand": "Maybourne Hotel Group",
+      "id": "hotel_43",
+      "brand": "",
       "property": "The Berkeley 🗝️🗝️",
       "city": "London",
       "category": "Hotels & Resorts",
@@ -659,8 +670,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_43",
-      "brand": "Melco Resorts",
+      "id": "hotel_44",
+      "brand": "",
       "property": "Morpheus - City of Dreams 🗝️🗝️",
       "city": "Macau",
       "category": "Hotels & Resorts",
@@ -675,8 +686,8 @@
       "googleMaps": "https://maps.app.goo.gl/MP3WXDeFNSjtaozp6"
     },
     {
-      "id": "hotel_44",
-      "brand": "Park Hyatt",
+      "id": "hotel_45",
+      "brand": "",
       "property": "Park Hyatt Bangkok 🗝️🗝️",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -694,8 +705,8 @@
       "googleMaps": "https://maps.app.goo.gl/9uErCeTsE6JWkv128"
     },
     {
-      "id": "hotel_45",
-      "brand": "Park Hyatt",
+      "id": "hotel_46",
+      "brand": "",
       "property": "Park Hyatt Changsha 🗝️",
       "city": "Changsha",
       "category": "Hotels & Resorts",
@@ -705,8 +716,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_46",
-      "brand": "Park Hyatt",
+      "id": "hotel_47",
+      "brand": "",
       "property": "Park Hyatt Kuala Lumpur",
       "city": "Kuala Lumpur",
       "category": "Hotels & Resorts",
@@ -721,8 +732,8 @@
       "googleMaps": "https://maps.app.goo.gl/JZm54syjZsAV6nAn6"
     },
     {
-      "id": "hotel_47",
-      "brand": "Park Hyatt",
+      "id": "hotel_48",
+      "brand": "",
       "property": "Park Hyatt London River Thames",
       "city": "London",
       "category": "Hotels & Resorts",
@@ -732,8 +743,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_48",
-      "brand": "Park Hyatt",
+      "id": "hotel_49",
+      "brand": "",
       "property": "Park Hyatt New York",
       "city": "New York",
       "category": "Hotels & Resorts",
@@ -743,8 +754,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_49",
-      "brand": "Park Hyatt",
+      "id": "hotel_50",
+      "brand": "",
       "property": "Park Hyatt Suzhou",
       "city": "Suzhou",
       "category": "Hotels & Resorts",
@@ -754,8 +765,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_50",
-      "brand": "Raffles",
+      "id": "hotel_51",
+      "brand": "",
       "property": "Raffles at Galaxy Macau",
       "city": "Macau",
       "category": "Hotels & Resorts",
@@ -774,8 +785,8 @@
       "googleMaps": "https://maps.app.goo.gl/N2x7c8dFLe2nccj89"
     },
     {
-      "id": "hotel_51",
-      "brand": "Raffles",
+      "id": "hotel_52",
+      "brand": "",
       "property": "Raffles Bali 🗝️🗝️",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -794,8 +805,8 @@
       "googleMaps": "https://maps.app.goo.gl/3rDqBCHKbunPPy7S8?g_st=ic"
     },
     {
-      "id": "hotel_52",
-      "brand": "Raffles",
+      "id": "hotel_53",
+      "brand": "",
       "property": "Raffles Jakarta 🗝️",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -814,8 +825,8 @@
       "googleMaps": "https://maps.app.goo.gl/vEnhtXZtTnixVrKm8"
     },
     {
-      "id": "hotel_53",
-      "brand": "Raffles",
+      "id": "hotel_54",
+      "brand": "",
       "property": "Raffles Makati 🗝️",
       "city": "Manila",
       "category": "Hotels & Resorts",
@@ -831,8 +842,8 @@
       "googleMaps": "https://maps.app.goo.gl/EBypFHJxQPSrp9g59"
     },
     {
-      "id": "hotel_54",
-      "brand": "Raffles",
+      "id": "hotel_55",
+      "brand": "",
       "property": "Raffles Sentosa Singapore  🗝️",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -847,8 +858,8 @@
       "googleMaps": "https://maps.app.goo.gl/9J33LeeMN8BhgDjb9"
     },
     {
-      "id": "hotel_55",
-      "brand": "Raffles",
+      "id": "hotel_56",
+      "brand": "",
       "property": "Raffles Shenzhen 🗝️",
       "city": "Shenzhen",
       "category": "Hotels & Resorts",
@@ -866,8 +877,8 @@
       "googleMaps": "https://maps.app.goo.gl/EWY94GVXnEhopuyA9"
     },
     {
-      "id": "hotel_56",
-      "brand": "Raffles",
+      "id": "hotel_57",
+      "brand": "",
       "property": "Raffles Singapore 🗝️🗝️🗝️",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -883,8 +894,8 @@
       "googleMaps": "https://maps.app.goo.gl/SnTi9UxsneqqULdt8"
     },
     {
-      "id": "hotel_57",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_58",
+      "brand": "",
       "property": "The Portman Ritz-Carlton, Shanghai",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -898,8 +909,8 @@
       "googleMaps": "https://maps.app.goo.gl/puxvmSTnKMoKC6ak9"
     },
     {
-      "id": "hotel_58",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_59",
+      "brand": "",
       "property": "The Ritz-Carlton Jakarta, Mega Kuningan",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -918,8 +929,8 @@
       "googleMaps": "https://maps.app.goo.gl/VpAw5Sfwh9U2G4LE7"
     },
     {
-      "id": "hotel_59",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_60",
+      "brand": "",
       "property": "The Ritz-Carlton Jakarta, Pacific Place",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -935,8 +946,8 @@
       "googleMaps": "https://maps.app.goo.gl/9x1q9ts6s5mM1Xz7A?g_st=ic"
     },
     {
-      "id": "hotel_60",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_61",
+      "brand": "",
       "property": "The Ritz-Carlton Millenia, Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -954,8 +965,8 @@
       "googleMaps": "https://maps.app.goo.gl/hUqk5uhTtdUSPKwj7?g_st=ic"
     },
     {
-      "id": "hotel_61",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_62",
+      "brand": "",
       "property": "The Ritz-Carlton Shanghai, Pudong 🗝️",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -969,8 +980,8 @@
       "googleMaps": "https://maps.app.goo.gl/PyHgGd6ie5WP1XHA6"
     },
     {
-      "id": "hotel_62",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_63",
+      "brand": "",
       "property": "The Ritz-Carlton, Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -984,8 +995,8 @@
       "googleMaps": "https://maps.app.goo.gl/UPox8FKcq36pLKc36?g_st=ic"
     },
     {
-      "id": "hotel_63",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_64",
+      "brand": "",
       "property": "The Ritz-Carlton, Bangkok 🗝️",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -1006,8 +1017,8 @@
       "googleMaps": "https://maps.app.goo.gl/wX12m43vkwcoC27h6"
     },
     {
-      "id": "hotel_64",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_65",
+      "brand": "",
       "property": "The Ritz-Carlton, Fukuoka 🗝️",
       "city": "Fukuoka",
       "category": "Hotels & Resorts",
@@ -1025,8 +1036,8 @@
       "googleMaps": "https://maps.app.goo.gl/e2fnxfTbaNcqZqc78"
     },
     {
-      "id": "hotel_65",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_66",
+      "brand": "",
       "property": "The Ritz-Carlton, Guangzhou",
       "city": "Guangzhou",
       "category": "Hotels & Resorts",
@@ -1036,8 +1047,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_66",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_67",
+      "brand": "",
       "property": "The Ritz-Carlton, Half Moon Bay",
       "city": "San Francisco",
       "category": "Hotels & Resorts",
@@ -1057,8 +1068,8 @@
       "googleMaps": "https://maps.app.goo.gl/h9NrXWEwX54hkzYX6"
     },
     {
-      "id": "hotel_67",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_68",
+      "brand": "",
       "property": "The Ritz-Carlton, Harbin",
       "city": "Harbin",
       "category": "Hotels & Resorts",
@@ -1074,8 +1085,8 @@
       "googleMaps": "https://maps.app.goo.gl/Nv6aKnLh88tGZx3S8?g_st=ic"
     },
     {
-      "id": "hotel_68",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_69",
+      "brand": "",
       "property": "The Ritz-Carlton, Kyoto 🗝️",
       "city": "Kyoto",
       "category": "Hotels & Resorts",
@@ -1094,8 +1105,8 @@
       "googleMaps": "https://maps.app.goo.gl/ZzTRThXX74zpoTXc9?g_st=ic"
     },
     {
-      "id": "hotel_69",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_70",
+      "brand": "",
       "property": "The Ritz-Carlton, Langkawi",
       "city": "Langkawi",
       "category": "Hotels & Resorts",
@@ -1110,8 +1121,8 @@
       "googleMaps": "https://maps.app.goo.gl/iSTBkZfqoWxrB3DS6"
     },
     {
-      "id": "hotel_70",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_71",
+      "brand": "",
       "property": "The Ritz-Carlton, Macau 🗝️",
       "city": "Macau",
       "category": "Hotels & Resorts",
@@ -1126,8 +1137,8 @@
       "googleMaps": "https://maps.app.goo.gl/YC7WhZEPZai23Ve29"
     },
     {
-      "id": "hotel_71",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_72",
+      "brand": "",
       "property": "The Ritz-Carlton, Nikko 🗝️🗝️",
       "city": "Nikko",
       "category": "Hotels & Resorts",
@@ -1145,8 +1156,8 @@
       "googleMaps": "https://maps.app.goo.gl/bgimuD4AcdDv4R6N7"
     },
     {
-      "id": "hotel_72",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_73",
+      "brand": "",
       "property": "The Ritz-Carlton, Osaka 🗝️",
       "city": "Osaka",
       "category": "Hotels & Resorts",
@@ -1164,8 +1175,8 @@
       "googleMaps": "https://maps.app.goo.gl/voC69boa28wNSX3q6?g_st=ic"
     },
     {
-      "id": "hotel_73",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_74",
+      "brand": "",
       "property": "The Ritz-Carlton, San Francisco",
       "city": "San Francisco",
       "category": "Hotels & Resorts",
@@ -1184,8 +1195,8 @@
       "googleMaps": "https://maps.app.goo.gl/n6syCWRkAuLxdUNp6"
     },
     {
-      "id": "hotel_74",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_75",
+      "brand": "",
       "property": "The Ritz-Carlton, Shenzhen",
       "city": "Shenzhen",
       "category": "Hotels & Resorts",
@@ -1195,8 +1206,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_75",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_76",
+      "brand": "",
       "property": "The Ritz-Carlton, Suzhou",
       "city": "Suzhou",
       "category": "Hotels & Resorts",
@@ -1210,8 +1221,8 @@
       "googleMaps": "https://maps.app.goo.gl/9Hkw5KCqbzp629hH8"
     },
     {
-      "id": "hotel_76",
-      "brand": "Ritz-Carlton",
+      "id": "hotel_77",
+      "brand": "",
       "property": "The Ritz-Carlton, Tokyo 🗝️",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -1229,8 +1240,8 @@
       "googleMaps": "https://maps.app.goo.gl/p5Yno3ZNmdYytd3f9"
     },
     {
-      "id": "hotel_77",
-      "brand": "Six Senses",
+      "id": "hotel_78",
+      "brand": "",
       "property": "Six Senses Qing Cheng Mountain 🗝️",
       "city": "Chengdu",
       "category": "Hotels & Resorts",
@@ -1245,8 +1256,8 @@
       "googleMaps": "https://maps.app.goo.gl/PB1n7mp7X46jVUtU8"
     },
     {
-      "id": "hotel_78",
-      "brand": "St. Regis",
+      "id": "hotel_79",
+      "brand": "",
       "property": "The St. Regis Beijing",
       "city": "Beijing",
       "category": "Hotels & Resorts",
@@ -1263,8 +1274,8 @@
       "googleMaps": "https://maps.app.goo.gl/j46bfiWe2gD6HzWe6"
     },
     {
-      "id": "hotel_79",
-      "brand": "St. Regis",
+      "id": "hotel_80",
+      "brand": "",
       "property": "The St. Regis Chengdu",
       "city": "Chengdu",
       "category": "Hotels & Resorts",
@@ -1283,8 +1294,8 @@
       "googleMaps": "https://maps.app.goo.gl/2m5x3pT2MDZ8R5d89?g_st=ic"
     },
     {
-      "id": "hotel_80",
-      "brand": "St. Regis",
+      "id": "hotel_81",
+      "brand": "",
       "property": "The St. Regis Dubai The Palm 🗝️",
       "city": "Dubai",
       "category": "Hotels & Resorts",
@@ -1294,8 +1305,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_81",
-      "brand": "St. Regis",
+      "id": "hotel_82",
+      "brand": "",
       "property": "The St. Regis Jakarta 🗝️",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -1315,8 +1326,8 @@
       "googleMaps": "https://maps.app.goo.gl/7q1xvNKV2vuaRxqs5?g_st=ic"
     },
     {
-      "id": "hotel_82",
-      "brand": "St. Regis",
+      "id": "hotel_83",
+      "brand": "",
       "property": "The St. Regis Kanai 🗝️",
       "city": "Riviera Maya",
       "category": "Hotels & Resorts",
@@ -1326,8 +1337,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_83",
-      "brand": "St. Regis",
+      "id": "hotel_84",
+      "brand": "",
       "property": "The St. Regis Kuala Lumpur",
       "city": "Kuala Lumpur",
       "category": "Hotels & Resorts",
@@ -1342,8 +1353,8 @@
       "googleMaps": "https://maps.app.goo.gl/5y1C5HZpJsLiWWp97"
     },
     {
-      "id": "hotel_84",
-      "brand": "St. Regis",
+      "id": "hotel_85",
+      "brand": "",
       "property": "The St. Regis Langkawi",
       "city": "Langkawi",
       "category": "Hotels & Resorts",
@@ -1358,8 +1369,8 @@
       "googleMaps": "https://maps.app.goo.gl/ZGrP1hBt2unupcAy9"
     },
     {
-      "id": "hotel_85",
-      "brand": "St. Regis",
+      "id": "hotel_86",
+      "brand": "",
       "property": "The St. Regis on the Bund, Shanghai ",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -1373,8 +1384,8 @@
       "googleMaps": "https://maps.app.goo.gl/deaaPeghaZCbeMMg7"
     },
     {
-      "id": "hotel_86",
-      "brand": "St. Regis",
+      "id": "hotel_87",
+      "brand": "",
       "property": "The St. Regis Osaka",
       "city": "Osaka",
       "category": "Hotels & Resorts",
@@ -1391,8 +1402,8 @@
       "googleMaps": "https://maps.app.goo.gl/BQW9jKMHvveCwFFz9?g_st=ic"
     },
     {
-      "id": "hotel_87",
-      "brand": "St. Regis",
+      "id": "hotel_88",
+      "brand": "",
       "property": "The St. Regis Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -1408,8 +1419,8 @@
       "googleMaps": "https://maps.app.goo.gl/y17N3gWjtCbAMKRm6?g_st=ic"
     },
     {
-      "id": "hotel_88",
-      "brand": "St. Regis",
+      "id": "hotel_89",
+      "brand": "",
       "property": "The St. Regis Zhuhai",
       "city": "Zhuhai",
       "category": "Hotels & Resorts",
@@ -1428,8 +1439,8 @@
       "googleMaps": "https://maps.app.goo.gl/uCSijYhpLd5qUiHL8?g_st=ic"
     },
     {
-      "id": "hotel_89",
-      "brand": "Waldorf Astoria",
+      "id": "hotel_90",
+      "brand": "",
       "property": "Waldorf Astoria Beijing 🗝️",
       "city": "Beijing",
       "category": "Hotels & Resorts",
@@ -1442,8 +1453,8 @@
       "googleMaps": "https://maps.app.goo.gl/jr5FmvmLeCeQymj69"
     },
     {
-      "id": "hotel_90",
-      "brand": "Waldorf Astoria",
+      "id": "hotel_91",
+      "brand": "",
       "property": "Waldorf Astoria Shanghai on the Bund",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -1453,8 +1464,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_91",
-      "brand": "Waldorf Astoria",
+      "id": "hotel_92",
+      "brand": "",
       "property": "Waldorf Astoria Xiamen",
       "city": "Xiamen",
       "category": "Hotels & Resorts",
@@ -1472,9 +1483,9 @@
       "googleMaps": "https://maps.app.goo.gl/w5YHWhu7GDPvDh3t9"
     },
     {
-      "id": "hotel_92",
-      "brand": "1 Hotels",
-      "property": "1 Hotels Tokyo",
+      "id": "hotel_93",
+      "brand": "",
+      "property": "1 Hotel Tokyo",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
       "brandCategory": "",
@@ -1483,8 +1494,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_93",
-      "brand": "EDITION",
+      "id": "hotel_94",
+      "brand": "",
       "property": "The Riviera Maya EDITION at Kanai",
       "city": "Riviera Maya",
       "category": "Hotels & Resorts",
@@ -1494,8 +1505,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_94",
-      "brand": "EDITION",
+      "id": "hotel_95",
+      "brand": "",
       "property": "The Shanghai EDITION",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -1514,8 +1525,8 @@
       "googleMaps": "https://maps.app.goo.gl/D64khHMaYBfa1d5PA"
     },
     {
-      "id": "hotel_95",
-      "brand": "EDITION",
+      "id": "hotel_96",
+      "brand": "",
       "property": "The Singapore EDITION",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -1534,8 +1545,8 @@
       "googleMaps": "https://maps.app.goo.gl/jokd6hCFaqmq3UiR9"
     },
     {
-      "id": "hotel_96",
-      "brand": "EDITION",
+      "id": "hotel_97",
+      "brand": "",
       "property": "The Tokyo EDITION, Ginza",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -1551,8 +1562,8 @@
       "googleMaps": "https://maps.app.goo.gl/AMYDu2kt9JsYH2i97"
     },
     {
-      "id": "hotel_97",
-      "brand": "EDITION",
+      "id": "hotel_98",
+      "brand": "",
       "property": "The Tokyo EDITION, Toranomon",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -1568,8 +1579,8 @@
       "googleMaps": "https://maps.app.goo.gl/4aFNvWRduoJXhxxg9?g_st=ic"
     },
     {
-      "id": "hotel_98",
-      "brand": "Fairmont",
+      "id": "hotel_99",
+      "brand": "",
       "property": "Fairmont Jakarta",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -1587,8 +1598,8 @@
       "googleMaps": "https://maps.app.goo.gl/pmBWDMf2mpTqZgjD7"
     },
     {
-      "id": "hotel_99",
-      "brand": "Fairmont",
+      "id": "hotel_100",
+      "brand": "",
       "property": "Fairmont Makati 🗝️",
       "city": "Manila",
       "category": "Hotels & Resorts",
@@ -1602,8 +1613,8 @@
       "googleMaps": "https://maps.app.goo.gl/e2JokNRnEeKMzaAf9"
     },
     {
-      "id": "hotel_100",
-      "brand": "Fairmont",
+      "id": "hotel_101",
+      "brand": "",
       "property": "Fairmont Peace Hotel",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -1618,8 +1629,8 @@
       "googleMaps": "https://maps.app.goo.gl/syn5zGzsrNTrcgCg9"
     },
     {
-      "id": "hotel_101",
-      "brand": "Galaxy",
+      "id": "hotel_102",
+      "brand": "",
       "property": "Galaxy Hotel Macau",
       "city": "Macau",
       "category": "Hotels & Resorts",
@@ -1641,8 +1652,8 @@
       "googleMaps": "https://maps.app.goo.gl/hRMXYsbKuQgNj3TA7"
     },
     {
-      "id": "hotel_102",
-      "brand": "Grand Hyatt",
+      "id": "hotel_103",
+      "brand": "",
       "property": "Grand Hyatt Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -1657,8 +1668,8 @@
       "googleMaps": "https://maps.app.goo.gl/m87As9hpumKrgMoA9"
     },
     {
-      "id": "hotel_103",
-      "brand": "Grand Hyatt",
+      "id": "hotel_104",
+      "brand": "",
       "property": "Grand Hyatt Beijing",
       "city": "Beijing",
       "category": "Hotels & Resorts",
@@ -1674,8 +1685,8 @@
       "googleMaps": "https://maps.app.goo.gl/mZ1yTPjRTqozTgex7"
     },
     {
-      "id": "hotel_104",
-      "brand": "Grand Hyatt",
+      "id": "hotel_105",
+      "brand": "",
       "property": "Grand Hyatt Chengdu",
       "city": "Chengdu",
       "category": "Hotels & Resorts",
@@ -1689,8 +1700,8 @@
       "googleMaps": "https://maps.app.goo.gl/oXAbrHNKaXv4bs547"
     },
     {
-      "id": "hotel_105",
-      "brand": "Grand Hyatt",
+      "id": "hotel_106",
+      "brand": "",
       "property": "Grand Hyatt Erawan Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -1706,8 +1717,8 @@
       "googleMaps": "https://maps.app.goo.gl/xGHn2qCAE34mXCao7"
     },
     {
-      "id": "hotel_106",
-      "brand": "Grand Hyatt",
+      "id": "hotel_107",
+      "brand": "",
       "property": "Grand Hyatt Hong Kong",
       "city": "Hong Kong",
       "category": "Hotels & Resorts",
@@ -1725,8 +1736,8 @@
       "googleMaps": "https://maps.app.goo.gl/ecogacTEM778Ar3k9"
     },
     {
-      "id": "hotel_107",
-      "brand": "Grand Hyatt",
+      "id": "hotel_108",
+      "brand": "",
       "property": "Grand Hyatt Jakarta",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -1740,8 +1751,8 @@
       "googleMaps": "https://maps.app.goo.gl/WyDw4fjZVLEKJSX8A?g_st=ic"
     },
     {
-      "id": "hotel_108",
-      "brand": "Grand Hyatt",
+      "id": "hotel_109",
+      "brand": "",
       "property": "Grand Hyatt Kuala Lumpur",
       "city": "Kuala Lumpur",
       "category": "Hotels & Resorts",
@@ -1760,8 +1771,8 @@
       "googleMaps": "https://maps.app.goo.gl/R7DdGmjRauCC7Qv86"
     },
     {
-      "id": "hotel_109",
-      "brand": "Grand Hyatt",
+      "id": "hotel_110",
+      "brand": "",
       "property": "Grand Hyatt Manila",
       "city": "Manila",
       "category": "Hotels & Resorts",
@@ -1777,8 +1788,8 @@
       "googleMaps": "https://maps.app.goo.gl/XGhw1VvbqnvkiZm17?g_st=ic"
     },
     {
-      "id": "hotel_110",
-      "brand": "Grand Hyatt",
+      "id": "hotel_111",
+      "brand": "",
       "property": "Grand Hyatt Shanghai",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -1792,8 +1803,8 @@
       "googleMaps": "https://maps.app.goo.gl/L5uCVNnZhKCiJsEY8"
     },
     {
-      "id": "hotel_111",
-      "brand": "Grand Hyatt",
+      "id": "hotel_112",
+      "brand": "",
       "property": "Grand Hyatt Tokyo",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -1810,8 +1821,8 @@
       "googleMaps": "https://maps.app.goo.gl/Wqbs7nhxiGLyFukj8"
     },
     {
-      "id": "hotel_112",
-      "brand": "Grand Hyatt",
+      "id": "hotel_113",
+      "brand": "",
       "property": "Grand Hyatt Xi'an",
       "city": "Xi'an",
       "category": "Hotels & Resorts",
@@ -1829,8 +1840,8 @@
       "googleMaps": "https://maps.app.goo.gl/yNNrMy6CQHKoprHj6?g_st=ic"
     },
     {
-      "id": "hotel_113",
-      "brand": "Luxury Collection",
+      "id": "hotel_114",
+      "brand": "",
       "property": "HOTEL THE MITSUI 🗝️🗝️🗝️",
       "city": "Kyoto",
       "category": "Hotels & Resorts",
@@ -1846,8 +1857,8 @@
       "googleMaps": "https://maps.app.goo.gl/ifNeSPrj294rQVTC8?g_st=ic"
     },
     {
-      "id": "hotel_114",
-      "brand": "Luxury Collection",
+      "id": "hotel_115",
+      "brand": "",
       "property": "Sheraton Grande Sukhumvit",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -1862,8 +1873,8 @@
       "googleMaps": "https://maps.app.goo.gl/FHqk9aioRec5saNB7?g_st=ia"
     },
     {
-      "id": "hotel_115",
-      "brand": "Luxury Collection",
+      "id": "hotel_116",
+      "brand": "",
       "property": "Shisui",
       "city": "Nara",
       "category": "Hotels & Resorts",
@@ -1880,8 +1891,8 @@
       "googleMaps": "https://maps.app.goo.gl/jD1AT3G3jPGpnpyj7"
     },
     {
-      "id": "hotel_116",
-      "brand": "Luxury Collection",
+      "id": "hotel_117",
+      "brand": "",
       "property": "The Hongta",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -1895,8 +1906,8 @@
       "googleMaps": "https://maps.app.goo.gl/dcKizAbhtFNzJqoj6?g_st=ic"
     },
     {
-      "id": "hotel_117",
-      "brand": "Luxury Collection",
+      "id": "hotel_118",
+      "brand": "",
       "property": "The Londoner Grand 🗝️",
       "city": "Macau",
       "category": "Hotels & Resorts",
@@ -1906,8 +1917,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_118",
-      "brand": "Luxury Collection",
+      "id": "hotel_119",
+      "brand": "",
       "property": "The Prince Gallery, Tokyo Kioicho 🗝️",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -1929,8 +1940,8 @@
       "googleMaps": "https://maps.app.goo.gl/AXA3pshDeovzhwUW6"
     },
     {
-      "id": "hotel_119",
-      "brand": "Luxury Collection",
+      "id": "hotel_120",
+      "brand": "",
       "property": "The Sira",
       "city": "Lombok",
       "category": "Hotels & Resorts",
@@ -1945,8 +1956,8 @@
       "googleMaps": "https://maps.app.goo.gl/sb7z149vi8b1YbWaA"
     },
     {
-      "id": "hotel_120",
-      "brand": "LXR",
+      "id": "hotel_121",
+      "brand": "",
       "property": "Roku Kyoto, LXR Hotels & Resorts 🗝️",
       "city": "Kyoto",
       "category": "Hotels & Resorts",
@@ -1960,8 +1971,8 @@
       "googleMaps": "https://maps.app.goo.gl/Y8EUr2B3K31TW4uh6"
     },
     {
-      "id": "hotel_121",
-      "brand": "Oberoi",
+      "id": "hotel_122",
+      "brand": "",
       "property": "The Oberoi Beach Resort, Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -1976,8 +1987,8 @@
       "googleMaps": "https://maps.app.goo.gl/ywq9BAtZFaa1kSuw6"
     },
     {
-      "id": "hotel_122",
-      "brand": "Oberoi",
+      "id": "hotel_123",
+      "brand": "",
       "property": "The Oberoi Beach Resort, Lombok",
       "city": "Lombok",
       "category": "Hotels & Resorts",
@@ -1992,8 +2003,8 @@
       "googleMaps": "https://maps.app.goo.gl/gT6zXEPcW8REeCfM9"
     },
     {
-      "id": "hotel_123",
-      "brand": "Regent",
+      "id": "hotel_124",
+      "brand": "",
       "property": "Regent Chongqing 🗝️",
       "city": "Chongqing",
       "category": "Hotels & Resorts",
@@ -2010,8 +2021,8 @@
       "googleMaps": "https://maps.app.goo.gl/v5xARi5TyQ2AqEzq9?g_st=ic"
     },
     {
-      "id": "hotel_124",
-      "brand": "Regent",
+      "id": "hotel_125",
+      "brand": "",
       "property": "Regent Shanghai on the Bund",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -2025,8 +2036,8 @@
       "googleMaps": "https://maps.app.goo.gl/jaeQZqQdC4uaaYAp6"
     },
     {
-      "id": "hotel_125",
-      "brand": "Regent",
+      "id": "hotel_126",
+      "brand": "",
       "property": "Regent Shanghai Pudong",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -2036,8 +2047,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_126",
-      "brand": "SIGNIEL",
+      "id": "hotel_127",
+      "brand": "",
       "property": "SIGNIEL BUSAN 🗝️🗝️",
       "city": "Busan",
       "category": "Hotels & Resorts",
@@ -2052,8 +2063,8 @@
       "googleMaps": "https://maps.app.goo.gl/HKRmtsiE1qcUESYZA?g_st=ic"
     },
     {
-      "id": "hotel_127",
-      "brand": "SJM Resorts",
+      "id": "hotel_128",
+      "brand": "",
       "property": "Grand Lisboa Palace Resort 🗝️🗝️",
       "city": "Macau",
       "category": "Hotels & Resorts",
@@ -2068,8 +2079,8 @@
       "googleMaps": "https://maps.app.goo.gl/KRLkCtEYaicHPiAz8"
     },
     {
-      "id": "hotel_128",
-      "brand": "W",
+      "id": "hotel_129",
+      "brand": "",
       "property": "W Bali Seminyak",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -2087,8 +2098,8 @@
       "googleMaps": "https://maps.app.goo.gl/CiUgoGW7MLw9vjut9"
     },
     {
-      "id": "hotel_129",
-      "brand": "W",
+      "id": "hotel_130",
+      "brand": "",
       "property": "W Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -2109,8 +2120,8 @@
       "googleMaps": "https://maps.app.goo.gl/ZJ1UGkCtxrqapE6N7?g_st=ic"
     },
     {
-      "id": "hotel_130",
-      "brand": "W",
+      "id": "hotel_131",
+      "brand": "",
       "property": "W Chengdu",
       "city": "Chengdu",
       "category": "Hotels & Resorts",
@@ -2129,8 +2140,8 @@
       "googleMaps": "https://maps.app.goo.gl/XM8niSwr5Spt6aZg6"
     },
     {
-      "id": "hotel_131",
-      "brand": "W",
+      "id": "hotel_132",
+      "brand": "",
       "property": "W Dubai - The Palm",
       "city": "Dubai",
       "category": "Hotels & Resorts",
@@ -2140,8 +2151,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_132",
-      "brand": "W",
+      "id": "hotel_133",
+      "brand": "",
       "property": "W Kuala Lumpur",
       "city": "Kuala Lumpur",
       "category": "Hotels & Resorts",
@@ -2162,8 +2173,8 @@
       "googleMaps": "https://maps.app.goo.gl/MXyzu1U1VMe9n4zC7"
     },
     {
-      "id": "hotel_133",
-      "brand": "W",
+      "id": "hotel_134",
+      "brand": "",
       "property": "W Osaka 🗝️",
       "city": "Osaka",
       "category": "Hotels & Resorts",
@@ -2182,8 +2193,8 @@
       "googleMaps": "https://maps.app.goo.gl/bgXyh2uyt8NfEcky8"
     },
     {
-      "id": "hotel_134",
-      "brand": "W",
+      "id": "hotel_135",
+      "brand": "",
       "property": "W Shanghai - The Bund",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -2205,8 +2216,8 @@
       "googleMaps": "https://maps.app.goo.gl/KEjS6o9iJg2EwHwV8"
     },
     {
-      "id": "hotel_135",
-      "brand": "W",
+      "id": "hotel_136",
+      "brand": "",
       "property": "W Singapore - Sentosa Cove",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -2226,8 +2237,8 @@
       "googleMaps": "https://maps.app.goo.gl/4qg2miiVwDv4G4HN8?g_st=ic"
     },
     {
-      "id": "hotel_136",
-      "brand": "W",
+      "id": "hotel_137",
+      "brand": "",
       "property": "W Studio City - Macau",
       "city": "Macau",
       "category": "Hotels & Resorts",
@@ -2248,8 +2259,8 @@
       "googleMaps": "https://maps.app.goo.gl/VDTVGqUno5vzjRGD8"
     },
     {
-      "id": "hotel_137",
-      "brand": "W",
+      "id": "hotel_138",
+      "brand": "",
       "property": "W Taipei",
       "city": "Taipei",
       "category": "Hotels & Resorts",
@@ -2267,8 +2278,8 @@
       "googleMaps": "https://maps.app.goo.gl/zquKCT8gezumJS7X7"
     },
     {
-      "id": "hotel_138",
-      "brand": "W",
+      "id": "hotel_139",
+      "brand": "",
       "property": "W Xiamen",
       "city": "Xiamen",
       "category": "Hotels & Resorts",
@@ -2288,8 +2299,8 @@
       "googleMaps": "https://maps.app.goo.gl/ezbC3oqbUmUVS3da7"
     },
     {
-      "id": "hotel_139",
-      "brand": "W",
+      "id": "hotel_140",
+      "brand": "",
       "property": "W Xi'an",
       "city": "Xi'an",
       "category": "Hotels & Resorts",
@@ -2309,8 +2320,8 @@
       "googleMaps": "https://maps.app.goo.gl/oypJtYEfcFDw4wxp9"
     },
     {
-      "id": "hotel_140",
-      "brand": "Alila",
+      "id": "hotel_141",
+      "brand": "",
       "property": "Alila Bangsar Kuala Lumpur",
       "city": "Kuala Lumpur",
       "category": "Hotels & Resorts",
@@ -2325,8 +2336,8 @@
       "googleMaps": "https://maps.app.goo.gl/U8iGrAJUoUoBXNYG6"
     },
     {
-      "id": "hotel_141",
-      "brand": "Alila",
+      "id": "hotel_142",
+      "brand": "",
       "property": "Alila SCBD Jakarta",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -2339,8 +2350,8 @@
       "googleMaps": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURqLXJfMUN3EAE!2m1!1s0x0:0x8b806823aab21af6!3m1!1s2@1:CIHM0ogKEICAgIDj-r_1Cw%7CCgwIn--ZswYQ6I7A1gE%7C?hl=en-US&g_st=ic"
     },
     {
-      "id": "hotel_142",
-      "brand": "Alila",
+      "id": "hotel_143",
+      "brand": "",
       "property": "Alila Seminyak",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -2354,8 +2365,8 @@
       "googleMaps": "https://maps.app.goo.gl/a1BvbEbgqQ5YFTEW9?g_st=ic"
     },
     {
-      "id": "hotel_143",
-      "brand": "Alila",
+      "id": "hotel_144",
+      "brand": "",
       "property": "Alila Shanghai",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -2365,8 +2376,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_144",
-      "brand": "Aoyama",
+      "id": "hotel_145",
+      "brand": "",
       "property": "The Aoyama Grand Hotel 🗝️",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -2380,8 +2391,8 @@
       "googleMaps": "https://maps.app.goo.gl/7pxbHmRRqNZ1aVER6"
     },
     {
-      "id": "hotel_145",
-      "brand": "ARTUS",
+      "id": "hotel_146",
+      "brand": "",
       "property": "K11 Artus",
       "city": "Hong Kong",
       "category": "Hotels & Resorts",
@@ -2396,8 +2407,8 @@
       "googleMaps": "https://maps.app.goo.gl/uUa7WwaehGJSKnTh6"
     },
     {
-      "id": "hotel_146",
-      "brand": "Conrad",
+      "id": "hotel_147",
+      "brand": "",
       "property": "Conrad Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -2413,8 +2424,8 @@
       "googleMaps": "https://maps.app.goo.gl/KDWi3yXL7rqSgzVdA?g_st=ic"
     },
     {
-      "id": "hotel_147",
-      "brand": "Conrad",
+      "id": "hotel_148",
+      "brand": "",
       "property": "Conrad Beijing",
       "city": "Beijing",
       "category": "Hotels & Resorts",
@@ -2429,8 +2440,8 @@
       "googleMaps": "https://maps.app.goo.gl/Bba2ggSZEbmU6yoP9"
     },
     {
-      "id": "hotel_148",
-      "brand": "Conrad",
+      "id": "hotel_149",
+      "brand": "",
       "property": "Conrad Jiuzhaigou",
       "city": "Jiuzhaigou",
       "category": "Hotels & Resorts",
@@ -2444,8 +2455,8 @@
       "googleMaps": "https://maps.app.goo.gl/LrRrcPQWpSyGjED97"
     },
     {
-      "id": "hotel_149",
-      "brand": "Conrad",
+      "id": "hotel_150",
+      "brand": "",
       "property": "Conrad Los Angeles",
       "city": "Los Angeles",
       "category": "Hotels & Resorts",
@@ -2460,8 +2471,8 @@
       "googleMaps": "https://maps.app.goo.gl/4J4DYJPTjie9jJgL7"
     },
     {
-      "id": "hotel_150",
-      "brand": "Conrad",
+      "id": "hotel_151",
+      "brand": "",
       "property": "Conrad Shanghai",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -2471,8 +2482,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_151",
-      "brand": "Conrad",
+      "id": "hotel_152",
+      "brand": "",
       "property": "Conrad Tokyo",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -2490,8 +2501,8 @@
       "googleMaps": "https://maps.app.goo.gl/kTAj7LoAfstEG7EH6"
     },
     {
-      "id": "hotel_152",
-      "brand": "Hoshinoya",
+      "id": "hotel_153",
+      "brand": "",
       "property": "Hoshinoya Bali, Ubud",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -2508,8 +2519,8 @@
       "googleMaps": "https://maps.app.goo.gl/xNYHQgHq1aXTqRLb9?g_st=ic"
     },
     {
-      "id": "hotel_153",
-      "brand": "Hoshinoya",
+      "id": "hotel_154",
+      "brand": "",
       "property": "Hoshinoya Tokyo",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -2526,8 +2537,8 @@
       "googleMaps": "https://maps.app.goo.gl/LjGqtDELXGuexJJS8"
     },
     {
-      "id": "hotel_154",
-      "brand": "ICON Hotels",
+      "id": "hotel_155",
+      "brand": "",
       "property": "Hotel ICON 🗝️",
       "city": "Hong Kong",
       "category": "Hotels & Resorts",
@@ -2542,8 +2553,8 @@
       "googleMaps": "https://maps.app.goo.gl/Hb8JN84ehs3gh6Bk6"
     },
     {
-      "id": "hotel_155",
-      "brand": "Jumeirah",
+      "id": "hotel_156",
+      "brand": "",
       "property": "Jumeirah Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -2558,8 +2569,8 @@
       "googleMaps": "https://maps.app.goo.gl/hEpXEZycfQr2bbNZ6?g_st=ic"
     },
     {
-      "id": "hotel_156",
-      "brand": "JW Marriott",
+      "id": "hotel_157",
+      "brand": "",
       "property": "JW Marriott Hanoi",
       "city": "Hanoi",
       "category": "Hotels & Resorts",
@@ -2573,8 +2584,8 @@
       "googleMaps": "https://maps.app.goo.gl/TncwhndRihrmtxuj7?g_st=ic"
     },
     {
-      "id": "hotel_157",
-      "brand": "JW Marriott",
+      "id": "hotel_158",
+      "brand": "",
       "property": "JW Marriott Hong Kong",
       "city": "Hong Kong",
       "category": "Hotels & Resorts",
@@ -2589,8 +2600,8 @@
       "googleMaps": "https://maps.app.goo.gl/XuR1igzxQeqhSkfCA"
     },
     {
-      "id": "hotel_158",
-      "brand": "JW Marriott",
+      "id": "hotel_159",
+      "brand": "",
       "property": "JW Marriott Jakarta",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -2604,8 +2615,8 @@
       "googleMaps": "https://maps.app.goo.gl/JbhwZMX2zwFB5U9y8"
     },
     {
-      "id": "hotel_159",
-      "brand": "JW Marriott",
+      "id": "hotel_160",
+      "brand": "",
       "property": "JW Marriott Medan",
       "city": "Medan",
       "category": "Hotels & Resorts",
@@ -2618,8 +2629,8 @@
       "googleMaps": "https://maps.app.goo.gl/foNQxry1bVz2kKTKA"
     },
     {
-      "id": "hotel_160",
-      "brand": "JW Marriott",
+      "id": "hotel_161",
+      "brand": "",
       "property": "JW Marriott Shenzhen Bao'an",
       "city": "Shenzhen",
       "category": "Hotels & Resorts",
@@ -2638,8 +2649,8 @@
       "googleMaps": "https://maps.app.goo.gl/kcFsFT9KVAi97ZTA9"
     },
     {
-      "id": "hotel_161",
-      "brand": "JW Marriott",
+      "id": "hotel_162",
+      "brand": "",
       "property": "JW Marriott Surabaya",
       "city": "Surabaya",
       "category": "Hotels & Resorts",
@@ -2652,8 +2663,8 @@
       "googleMaps": "https://maps.app.goo.gl/iQFw1mpNvXTufFo29"
     },
     {
-      "id": "hotel_162",
-      "brand": "JW Marriott",
+      "id": "hotel_163",
+      "brand": "",
       "property": "JW Marriott, Harbin River North",
       "city": "Harbin",
       "category": "Hotels & Resorts",
@@ -2669,8 +2680,8 @@
       "googleMaps": "https://maps.app.goo.gl/yzu48jKo83imL8MFA"
     },
     {
-      "id": "hotel_163",
-      "brand": "JW Marriott",
+      "id": "hotel_164",
+      "brand": "",
       "property": "JW Marriott, South Beach Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -2686,8 +2697,8 @@
       "googleMaps": "https://maps.app.goo.gl/EQgZcetCp6MZEog9A"
     },
     {
-      "id": "hotel_164",
-      "brand": "Kempinski",
+      "id": "hotel_165",
+      "brand": "",
       "property": "Hotel Indonesia, Kempinski Jakarta",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -2699,8 +2710,8 @@
       "googleMaps": "https://maps.app.goo.gl/Fhqdor2qTNKadpfAA"
     },
     {
-      "id": "hotel_165",
-      "brand": "Kempinski",
+      "id": "hotel_166",
+      "brand": "",
       "property": "Siam Kempinski Hotel Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -2715,8 +2726,8 @@
       "googleMaps": "https://maps.app.goo.gl/VMvWgdeXUh31Znk19?g_st=ic"
     },
     {
-      "id": "hotel_166",
-      "brand": "Kempinski",
+      "id": "hotel_167",
+      "brand": "",
       "property": "Sindhorn Kempinski Hotel Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -2730,8 +2741,8 @@
       "googleMaps": "https://maps.app.goo.gl/oBnhLj84EXb192v48?g_st=ic"
     },
     {
-      "id": "hotel_167",
-      "brand": "Kempinski",
+      "id": "hotel_168",
+      "brand": "",
       "property": "The Apurva Kempinski",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -2750,8 +2761,8 @@
       "googleMaps": "https://maps.app.goo.gl/1LsJTiBSVUWYLtRv5"
     },
     {
-      "id": "hotel_168",
-      "brand": "Langham",
+      "id": "hotel_169",
+      "brand": "",
       "property": "The Langham, Jakarta 🗝️🗝️",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -2770,8 +2781,8 @@
       "googleMaps": "https://maps.app.goo.gl/zvN2uy1nS7hm5B3z7?g_st=ic"
     },
     {
-      "id": "hotel_169",
-      "brand": "Nirjhara",
+      "id": "hotel_170",
+      "brand": "",
       "property": "Nirjhara 🗝️",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -2785,8 +2796,8 @@
       "googleMaps": "https://maps.app.goo.gl/y48ErW6rqBYRkhSz5"
     },
     {
-      "id": "hotel_170",
-      "brand": "Pan Pacific",
+      "id": "hotel_171",
+      "brand": "",
       "property": "Pan Pacific London",
       "city": "London",
       "category": "Hotels & Resorts",
@@ -2796,8 +2807,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_171",
-      "brand": "Potato Head",
+      "id": "hotel_172",
+      "brand": "",
       "property": "Desa Potato Head Seminyak, Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -2819,8 +2830,8 @@
       "googleMaps": "https://maps.app.goo.gl/Pp4AxRYEFheRT6TE7"
     },
     {
-      "id": "hotel_172",
-      "brand": "Preferred Hotel",
+      "id": "hotel_173",
+      "brand": "",
       "property": "Artyzen Singapore 🗝️",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -2836,8 +2847,8 @@
       "googleMaps": "https://maps.app.goo.gl/mkuViqi1XK5LgQua6?g_st=ic"
     },
     {
-      "id": "hotel_173",
-      "brand": "Preferred Hotel",
+      "id": "hotel_174",
+      "brand": "",
       "property": "Ayana Midplaza Jakarta",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -2858,8 +2869,8 @@
       "googleMaps": "https://maps.app.goo.gl/yLfRLxMbJ5CB3weFA"
     },
     {
-      "id": "hotel_174",
-      "brand": "Preferred Hotel",
+      "id": "hotel_175",
+      "brand": "",
       "property": "Discovery Primea, Makati",
       "city": "Manila",
       "category": "Hotels & Resorts",
@@ -2872,8 +2883,8 @@
       "googleMaps": "https://maps.app.goo.gl/kukXmdySGD5ZLHgy9"
     },
     {
-      "id": "hotel_175",
-      "brand": "Preferred Hotel",
+      "id": "hotel_176",
+      "brand": "",
       "property": "Dusit Thani Bangkok 🗝️",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -2891,8 +2902,8 @@
       "googleMaps": "https://maps.app.goo.gl/1cysGZ8oZgYVULVv6"
     },
     {
-      "id": "hotel_176",
-      "brand": "Preferred Hotel",
+      "id": "hotel_177",
+      "brand": "",
       "property": "Hotel Chinzanso",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -2910,8 +2921,8 @@
       "googleMaps": "https://maps.app.goo.gl/i9foNpeceg7WbpS17"
     },
     {
-      "id": "hotel_177",
-      "brand": "Preferred Hotel",
+      "id": "hotel_178",
+      "brand": "",
       "property": "New Otani Tokyo Executive House Zen 🗝️",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -2925,8 +2936,8 @@
       "googleMaps": "https://maps.app.goo.gl/QjzKR96qj59DQqM39"
     },
     {
-      "id": "hotel_178",
-      "brand": "Preferred Hotel",
+      "id": "hotel_179",
+      "brand": "",
       "property": "The Fullerton Hotel Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -2944,8 +2955,8 @@
       "googleMaps": "https://maps.app.goo.gl/yx8uEASeQEFDvfrU6"
     },
     {
-      "id": "hotel_179",
-      "brand": "Preferred Hotel",
+      "id": "hotel_180",
+      "brand": "",
       "property": "The Prince Park Tower Tokyo",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -2955,8 +2966,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_180",
-      "brand": "Preferred Hotel",
+      "id": "hotel_181",
+      "brand": "",
       "property": "The RuMa Hotel & Residences 🗝️",
       "city": "Kuala Lumpur",
       "category": "Hotels & Resorts",
@@ -2970,8 +2981,8 @@
       "googleMaps": "https://maps.app.goo.gl/Qb8LGgbd8VCFd6q47"
     },
     {
-      "id": "hotel_181",
-      "brand": "Sands",
+      "id": "hotel_182",
+      "brand": "",
       "property": "Marina Bay Sands",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -2985,8 +2996,8 @@
       "googleMaps": "https://maps.app.goo.gl/h5nRS8FAuuTyZHwc6?g_st=ic"
     },
     {
-      "id": "hotel_182",
-      "brand": "Shangri-La",
+      "id": "hotel_183",
+      "brand": "",
       "property": "Edsa Shangri-La, Manila",
       "city": "Manila",
       "category": "Hotels & Resorts",
@@ -3001,8 +3012,8 @@
       "googleMaps": "https://maps.app.goo.gl/1wapENneUhDU5TG36?g_st=ic"
     },
     {
-      "id": "hotel_183",
-      "brand": "Shangri-La",
+      "id": "hotel_184",
+      "brand": "",
       "property": "Island Shangri-La, Hong Kong",
       "city": "Hong Kong",
       "category": "Hotels & Resorts",
@@ -3012,8 +3023,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_184",
-      "brand": "Shangri-La",
+      "id": "hotel_185",
+      "brand": "",
       "property": "Kowloon, Shangri-La Hong Kong",
       "city": "Hong Kong",
       "category": "Hotels & Resorts",
@@ -3033,8 +3044,8 @@
       "googleMaps": "https://maps.app.goo.gl/McNA6veBwEeMagRM8"
     },
     {
-      "id": "hotel_185",
-      "brand": "Shangri-La",
+      "id": "hotel_186",
+      "brand": "",
       "property": "Shangri-La Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -3050,8 +3061,8 @@
       "googleMaps": "https://maps.app.goo.gl/Di4rNw3zgjqr8cDV6"
     },
     {
-      "id": "hotel_186",
-      "brand": "Shangri-La",
+      "id": "hotel_187",
+      "brand": "",
       "property": "Shangri-La Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -3071,8 +3082,8 @@
       "googleMaps": "https://maps.app.goo.gl/SnvMkF66Lqg4zf3i9?g_st=ic"
     },
     {
-      "id": "hotel_187",
-      "brand": "Shangri-La",
+      "id": "hotel_188",
+      "brand": "",
       "property": "Shangri-La, Far Eastern Plaza Taipei",
       "city": "Taipei",
       "category": "Hotels & Resorts",
@@ -3088,8 +3099,8 @@
       "googleMaps": "https://maps.app.goo.gl/D987qTMcLm2PqSa18"
     },
     {
-      "id": "hotel_188",
-      "brand": "Shangri-La",
+      "id": "hotel_189",
+      "brand": "",
       "property": "Shangri-La, Mactan",
       "city": "Cebu",
       "category": "Hotels & Resorts",
@@ -3103,8 +3114,8 @@
       "googleMaps": "https://maps.app.goo.gl/fBpNxM5QqSLpyuQGA?g_st=ic"
     },
     {
-      "id": "hotel_189",
-      "brand": "Shangri-La",
+      "id": "hotel_190",
+      "brand": "",
       "property": "The Silk Lakehouse, Shangri-La Hangzhou",
       "city": "Hangzhou",
       "category": "Hotels & Resorts",
@@ -3114,8 +3125,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_190",
-      "brand": "Small Luxury Hotel",
+      "id": "hotel_191",
+      "brand": "",
       "property": "137 Pillars Suites & Residences 🗝️",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -3130,8 +3141,8 @@
       "googleMaps": "https://maps.app.goo.gl/DG4HSzZ7mGsh4fuBA?g_st=ic"
     },
     {
-      "id": "hotel_191",
-      "brand": "Small Luxury Hotel",
+      "id": "hotel_192",
+      "brand": "",
       "property": "Hotel Éclat Beijing 🗝️",
       "city": "Beijing",
       "category": "Hotels & Resorts",
@@ -3146,8 +3157,8 @@
       "googleMaps": "https://maps.app.goo.gl/itsiUmNCopZ4VMSQ8"
     },
     {
-      "id": "hotel_192",
-      "brand": "Small Luxury Hotel",
+      "id": "hotel_193",
+      "brand": "",
       "property": "MUU Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -3162,8 +3173,8 @@
       "googleMaps": "https://maps.app.goo.gl/J3kgaZfACDWdVG5J7?g_st=ic"
     },
     {
-      "id": "hotel_193",
-      "brand": "Small Luxury Hotel",
+      "id": "hotel_194",
+      "brand": "",
       "property": "Sowaka Ryokan Kyoto",
       "city": "Kyoto",
       "category": "Hotels & Resorts",
@@ -3180,8 +3191,8 @@
       "googleMaps": "https://maps.app.goo.gl/z4nZSMQThh4ZrK459"
     },
     {
-      "id": "hotel_194",
-      "brand": "Small Luxury Hotel",
+      "id": "hotel_195",
+      "brand": "",
       "property": "The Sukhothai Bangkok 🗝️🗝️",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -3199,8 +3210,8 @@
       "googleMaps": "https://maps.app.goo.gl/6VHLNyDW2Bh6b9GY8?g_st=ic"
     },
     {
-      "id": "hotel_195",
-      "brand": "Small Luxury Hotel",
+      "id": "hotel_196",
+      "brand": "",
       "property": "Viceroy Bali 🗝️",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -3219,8 +3230,8 @@
       "googleMaps": "https://maps.app.goo.gl/dR7xKGwWKXrvSB5D6?g_st=ic"
     },
     {
-      "id": "hotel_196",
-      "brand": "SO/",
+      "id": "hotel_197",
+      "brand": "",
       "property": "SO/ Bangkok 🗝️",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -3238,8 +3249,8 @@
       "googleMaps": "https://maps.app.goo.gl/4U8vf18pJqNjcFai7?g_st=ic"
     },
     {
-      "id": "hotel_197",
-      "brand": "Sofitel",
+      "id": "hotel_198",
+      "brand": "",
       "property": "Sofitel Ambassador Seoul",
       "city": "Seoul",
       "category": "Hotels & Resorts",
@@ -3254,8 +3265,8 @@
       "googleMaps": "https://maps.app.goo.gl/WbxEi2y4yL71rFMT7?g_st=ic"
     },
     {
-      "id": "hotel_198",
-      "brand": "Sofitel",
+      "id": "hotel_199",
+      "brand": "",
       "property": "Sofitel Bali, Nusa Dua Resort",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -3272,8 +3283,8 @@
       "googleMaps": "https://maps.app.goo.gl/1YhmFksDaQdC9nUM8"
     },
     {
-      "id": "hotel_199",
-      "brand": "Sofitel",
+      "id": "hotel_200",
+      "brand": "",
       "property": "Sofitel Phnom Penh Phokeethra",
       "city": "Phnom Penh",
       "category": "Hotels & Resorts",
@@ -3289,8 +3300,8 @@
       "googleMaps": "https://maps.app.goo.gl/Mbpsxs3uPFVHsdCY7?g_st=ic"
     },
     {
-      "id": "hotel_200",
-      "brand": "Sofitel",
+      "id": "hotel_201",
+      "brand": "",
       "property": "Sofitel Saigon Plaza",
       "city": "Ho Chi Minh City",
       "category": "Hotels & Resorts",
@@ -3303,8 +3314,8 @@
       "googleMaps": "https://maps.app.goo.gl/yPmNj2t41eKsyTrT9?g_st=ic"
     },
     {
-      "id": "hotel_201",
-      "brand": "Anantara",
+      "id": "hotel_202",
+      "brand": "",
       "property": "Anantara Angkor Resort & Spa",
       "city": "Siem Reap",
       "category": "Hotels & Resorts",
@@ -3322,8 +3333,8 @@
       "googleMaps": "https://maps.app.goo.gl/g6d4RZdukoadGsFc8?g_st=ic"
     },
     {
-      "id": "hotel_202",
-      "brand": "Ananti",
+      "id": "hotel_203",
+      "brand": "",
       "property": "Ananti at Busan Village",
       "city": "Busan",
       "category": "Hotels & Resorts",
@@ -3337,8 +3348,8 @@
       "googleMaps": "https://maps.app.goo.gl/rTs4FNrXJVukVPtbA?g_st=ic"
     },
     {
-      "id": "hotel_203",
-      "brand": "Andaz",
+      "id": "hotel_204",
+      "brand": "",
       "property": "Andaz Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -3353,8 +3364,8 @@
       "googleMaps": "https://maps.app.goo.gl/ADKb9dRXGu3DhoLr6"
     },
     {
-      "id": "hotel_204",
-      "brand": "Andaz",
+      "id": "hotel_205",
+      "brand": "",
       "property": "Andaz Macau",
       "city": "Macau",
       "category": "Hotels & Resorts",
@@ -3372,8 +3383,8 @@
       "googleMaps": "https://maps.app.goo.gl/AaUFwqSCm3kU7FZXA"
     },
     {
-      "id": "hotel_205",
-      "brand": "Andaz",
+      "id": "hotel_206",
+      "brand": "",
       "property": "Andaz Peninsula Papagayo Resort",
       "city": "Papagayo",
       "category": "Hotels & Resorts",
@@ -3383,8 +3394,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_206",
-      "brand": "Andaz",
+      "id": "hotel_207",
+      "brand": "",
       "property": "Andaz Shanghai ITC",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
@@ -3394,8 +3405,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_207",
-      "brand": "Andaz",
+      "id": "hotel_208",
+      "brand": "",
       "property": "Andaz West Holywood",
       "city": "Los Angeles",
       "category": "Hotels & Resorts",
@@ -3412,8 +3423,8 @@
       "googleMaps": "https://maps.app.goo.gl/2ihhhhrdRHasFcZh6"
     },
     {
-      "id": "hotel_208",
-      "brand": "Autograph Collection",
+      "id": "hotel_209",
+      "brand": "",
       "property": "Habtoor Grand Resort, Dubai",
       "city": "Dubai",
       "category": "Hotels & Resorts",
@@ -3426,8 +3437,8 @@
       "googleMaps": "https://maps.app.goo.gl/NGZaL3pMcu6MAcv47?g_st=ic"
     },
     {
-      "id": "hotel_209",
-      "brand": "Autograph Collection",
+      "id": "hotel_210",
+      "brand": "",
       "property": "Hotel Muse Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -3442,8 +3453,8 @@
       "googleMaps": "https://maps.app.goo.gl/XRbkLdgeo8PQvRBx6?g_st=ic"
     },
     {
-      "id": "hotel_210",
-      "brand": "Autograph Collection",
+      "id": "hotel_211",
+      "brand": "",
       "property": "Sari Pacific Jakarta",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -3457,8 +3468,8 @@
       "googleMaps": "https://maps.app.goo.gl/zz9VeMsTMwi1wah87"
     },
     {
-      "id": "hotel_211",
-      "brand": "Autograph Collection",
+      "id": "hotel_212",
+      "brand": "",
       "property": "The Osaka Station Hotel",
       "city": "Osaka",
       "category": "Hotels & Resorts",
@@ -3472,8 +3483,8 @@
       "googleMaps": "https://maps.app.goo.gl/NcvAJqAeLWTCKSme9"
     },
     {
-      "id": "hotel_212",
-      "brand": "Autograph Collection",
+      "id": "hotel_213",
+      "brand": "",
       "property": "Vinpearl Landmark 81 Hotel",
       "city": "Ho Chi Minh City",
       "category": "Hotels & Resorts",
@@ -3491,8 +3502,8 @@
       "googleMaps": "https://maps.app.goo.gl/gFeRgaY9L8xXBy586?g_st=ic"
     },
     {
-      "id": "hotel_213",
-      "brand": "Ayana",
+      "id": "hotel_214",
+      "brand": "",
       "property": "Ayana Komodo Waecicu Beach",
       "city": "Labuan Bajo",
       "category": "Hotels & Resorts",
@@ -3513,8 +3524,8 @@
       "googleMaps": "https://maps.app.goo.gl/5VMRzQwssZrAEquB8"
     },
     {
-      "id": "hotel_214",
-      "brand": "Ayana",
+      "id": "hotel_215",
+      "brand": "",
       "property": "Ayana Resorts",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -3531,8 +3542,8 @@
       "googleMaps": "https://maps.app.goo.gl/k3AgrHfePQGmcMAD9"
     },
     {
-      "id": "hotel_215",
-      "brand": "Ayana",
+      "id": "hotel_216",
+      "brand": "",
       "property": "Ayana Rimba",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -3549,8 +3560,8 @@
       "googleMaps": "https://maps.app.goo.gl/anTYmPts7pduSD177"
     },
     {
-      "id": "hotel_216",
-      "brand": "Ayana",
+      "id": "hotel_217",
+      "brand": "",
       "property": "Ayana Segara",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -3565,8 +3576,8 @@
       "googleMaps": "https://maps.app.goo.gl/UoKPNG5i18atgJD3A"
     },
     {
-      "id": "hotel_217",
-      "brand": "Ayana",
+      "id": "hotel_218",
+      "brand": "",
       "property": "Ayana Villas",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -3580,8 +3591,8 @@
       "googleMaps": "https://maps.app.goo.gl/r1rBLscUB8PbLXS99"
     },
     {
-      "id": "hotel_218",
-      "brand": "Club Med",
+      "id": "hotel_219",
+      "brand": "",
       "property": "Club Med Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -3595,8 +3606,8 @@
       "googleMaps": "https://maps.app.goo.gl/KB5LHdspje312Bca7"
     },
     {
-      "id": "hotel_219",
-      "brand": "COMO",
+      "id": "hotel_220",
+      "brand": "",
       "property": "COMO Metropolitan Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -3615,8 +3626,8 @@
       "googleMaps": "https://maps.app.goo.gl/cazrjhbcBVUq1PDU6"
     },
     {
-      "id": "hotel_220",
-      "brand": "Hilton",
+      "id": "hotel_221",
+      "brand": "",
       "property": "Hilton Kyoto",
       "city": "Kyoto",
       "category": "Hotels & Resorts",
@@ -3630,8 +3641,8 @@
       "googleMaps": "https://maps.app.goo.gl/RNMMTPYU4hmwP137A"
     },
     {
-      "id": "hotel_221",
-      "brand": "Hilton",
+      "id": "hotel_222",
+      "brand": "",
       "property": "Hilton Singapore Orchard",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -3649,8 +3660,8 @@
       "googleMaps": "https://maps.app.goo.gl/mYJKyRmtvNS5SArU6"
     },
     {
-      "id": "hotel_222",
-      "brand": "Hilton",
+      "id": "hotel_223",
+      "brand": "",
       "property": "Millenium Hilton Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -3667,8 +3678,8 @@
       "googleMaps": "https://maps.app.goo.gl/anvxdwMFrqQW8UM18"
     },
     {
-      "id": "hotel_223",
-      "brand": "Hyatt Centric",
+      "id": "hotel_224",
+      "brand": "",
       "property": "Hyatt Centric Ginza Tokyo",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -3678,8 +3689,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_224",
-      "brand": "Hyatt Regency",
+      "id": "hotel_225",
+      "brand": "",
       "property": "Hyatt Regency Bangkok Sukhumvit",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -3697,8 +3708,8 @@
       "googleMaps": "https://maps.app.goo.gl/fRz1Gpy7vqzqpwx66"
     },
     {
-      "id": "hotel_225",
-      "brand": "Hyatt Regency",
+      "id": "hotel_226",
+      "brand": "",
       "property": "Hyatt Regency Phnom Penh",
       "city": "Phnom Penh",
       "category": "Hotels & Resorts",
@@ -3715,8 +3726,8 @@
       "googleMaps": "https://maps.app.goo.gl/uh9ocRx1p7HJgjsA9?g_st=ic"
     },
     {
-      "id": "hotel_226",
-      "brand": "Hyatt Regency",
+      "id": "hotel_227",
+      "brand": "",
       "property": "Hyatt Regency, Yogyakarta",
       "city": "Yogyakarta",
       "category": "Hotels & Resorts",
@@ -3732,8 +3743,8 @@
       "googleMaps": "https://maps.app.goo.gl/VZcqfvahNSno8cvt5?g_st=ic"
     },
     {
-      "id": "hotel_227",
-      "brand": "Indigo",
+      "id": "hotel_228",
+      "brand": "",
       "property": "Hotel Indigo Bali Seminyak Beach",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -3747,8 +3758,8 @@
       "googleMaps": "https://maps.app.goo.gl/fyWsc6gTrwx2RUoH6"
     },
     {
-      "id": "hotel_228",
-      "brand": "InterContinental",
+      "id": "hotel_229",
+      "brand": "",
       "property": "ANA InterContinental Tokyo",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -3762,8 +3773,8 @@
       "googleMaps": "https://maps.app.goo.gl/Jp9Q4fuAC5mgUSZL6"
     },
     {
-      "id": "hotel_229",
-      "brand": "InterContinental",
+      "id": "hotel_230",
+      "brand": "",
       "property": "InterContinental Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -3782,8 +3793,8 @@
       "googleMaps": "https://maps.app.goo.gl/ivebLMdyzt3F7hr99"
     },
     {
-      "id": "hotel_230",
-      "brand": "InterContinental",
+      "id": "hotel_231",
+      "brand": "",
       "property": "InterContinental Bandung",
       "city": "Bandung",
       "category": "Hotels & Resorts",
@@ -3800,8 +3811,8 @@
       "googleMaps": "https://maps.app.goo.gl/zrS2aTKF9Ce6AEou7?g_st=ic"
     },
     {
-      "id": "hotel_231",
-      "brand": "InterContinental",
+      "id": "hotel_232",
+      "brand": "",
       "property": "InterContinental Bangkok Sukhumvit",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -3820,8 +3831,8 @@
       "googleMaps": "https://maps.app.goo.gl/3pcbamyjGebvzkFTA"
     },
     {
-      "id": "hotel_232",
-      "brand": "InterContinental",
+      "id": "hotel_233",
+      "brand": "",
       "property": "InterContinental Century City Chengdu",
       "city": "Chengdu",
       "category": "Hotels & Resorts",
@@ -3837,8 +3848,8 @@
       "googleMaps": "https://maps.app.goo.gl/gZ4soXnNFS7CjijU6?g_st=ic"
     },
     {
-      "id": "hotel_233",
-      "brand": "InterContinental",
+      "id": "hotel_234",
+      "brand": "",
       "property": "InterContinental Jakarta Pondok Indah",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -3854,8 +3865,8 @@
       "googleMaps": "https://maps.app.goo.gl/nVwXrJUgTXsrNi5P7"
     },
     {
-      "id": "hotel_234",
-      "brand": "InterContinental",
+      "id": "hotel_235",
+      "brand": "",
       "property": "InterContinental Khao Yai Resort 🗝️",
       "city": "Khao Yai",
       "category": "Hotels & Resorts",
@@ -3875,8 +3886,8 @@
       "googleMaps": "https://maps.app.goo.gl/Z8cyErmseFv8mF486"
     },
     {
-      "id": "hotel_235",
-      "brand": "InterContinental",
+      "id": "hotel_236",
+      "brand": "",
       "property": "InterContinental Mark Hopkins San Francisco",
       "city": "San Francisco",
       "category": "Hotels & Resorts",
@@ -3894,8 +3905,8 @@
       "googleMaps": "https://maps.app.goo.gl/PXD6UosxPcyd3qUG7"
     },
     {
-      "id": "hotel_236",
-      "brand": "InterContinental",
+      "id": "hotel_237",
+      "brand": "",
       "property": "InterContinental Osaka 🗝️",
       "city": "Osaka",
       "category": "Hotels & Resorts",
@@ -3913,8 +3924,8 @@
       "googleMaps": "https://maps.app.goo.gl/LKd7iQmXr751EhXx7"
     },
     {
-      "id": "hotel_237",
-      "brand": "InterContinental",
+      "id": "hotel_238",
+      "brand": "",
       "property": "InterContinental Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -3932,8 +3943,8 @@
       "googleMaps": "https://maps.app.goo.gl/cDb6ivaVoVr6FwJ77"
     },
     {
-      "id": "hotel_238",
-      "brand": "Kimpton",
+      "id": "hotel_239",
+      "brand": "",
       "property": "Kimpton Maa-Lai",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -3951,8 +3962,8 @@
       "googleMaps": "https://maps.app.goo.gl/CdSF72avMWsna27PA"
     },
     {
-      "id": "hotel_239",
-      "brand": "MGallery",
+      "id": "hotel_240",
+      "brand": "",
       "property": "AKI - MGallery Hong Kong",
       "city": "Hong Kong",
       "category": "Hotels & Resorts",
@@ -3969,8 +3980,8 @@
       "googleMaps": "https://maps.app.goo.gl/9ReNCUcw7ziaGd7W6"
     },
     {
-      "id": "hotel_240",
-      "brand": "MGallery",
+      "id": "hotel_241",
+      "brand": "",
       "property": "Hotel Naru Seoul MGallery Ambassador",
       "city": "Seoul",
       "category": "Hotels & Resorts",
@@ -3985,8 +3996,8 @@
       "googleMaps": "https://maps.app.goo.gl/DjumDdsZTaYXff9k9?g_st=ic"
     },
     {
-      "id": "hotel_241",
-      "brand": "Mondrian",
+      "id": "hotel_242",
+      "brand": "",
       "property": "Mondrian Hong Kong",
       "city": "Hong Kong",
       "category": "Hotels & Resorts",
@@ -4005,8 +4016,8 @@
       "googleMaps": "https://maps.app.goo.gl/cZ9q46cu5ufTu99G7"
     },
     {
-      "id": "hotel_242",
-      "brand": "Mondrian",
+      "id": "hotel_243",
+      "brand": "",
       "property": "Mondrian Los Angeles",
       "city": "Los Angeles",
       "category": "Hotels & Resorts",
@@ -4022,8 +4033,8 @@
       "googleMaps": "https://maps.app.goo.gl/Cw5sPvS8diRaHq4f6"
     },
     {
-      "id": "hotel_243",
-      "brand": "Mondrian",
+      "id": "hotel_244",
+      "brand": "",
       "property": "Mondrian Seoul Itaewon",
       "city": "Seoul",
       "category": "Hotels & Resorts",
@@ -4037,8 +4048,8 @@
       "googleMaps": "https://maps.app.goo.gl/uadxgY18djq7DhS49?g_st=ic"
     },
     {
-      "id": "hotel_244",
-      "brand": "Mondrian",
+      "id": "hotel_245",
+      "brand": "",
       "property": "Mondrian Singapore Duxton",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -4055,8 +4066,8 @@
       "googleMaps": "https://maps.app.goo.gl/31JmCK8vAqwRFvq77"
     },
     {
-      "id": "hotel_245",
-      "brand": "PARKROYAL COLLECTION",
+      "id": "hotel_246",
+      "brand": "",
       "property": "PARKROYAL COLLECTION Pickering Singapore 🗝️",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -4066,8 +4077,8 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "hotel_246",
-      "brand": "Pullman",
+      "id": "hotel_247",
+      "brand": "",
       "property": "Pullman Bali, Legian Beach",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -4080,8 +4091,8 @@
       "googleMaps": "https://maps.app.goo.gl/jMhPsJ8uSPL6Atzr8"
     },
     {
-      "id": "hotel_247",
-      "brand": "Pullman",
+      "id": "hotel_248",
+      "brand": "",
       "property": "Pullman Bangkok, Hotel G",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -4096,8 +4107,8 @@
       "googleMaps": "https://maps.app.goo.gl/KASDSwhZbXkZqtHe9"
     },
     {
-      "id": "hotel_248",
-      "brand": "Pullman",
+      "id": "hotel_249",
+      "brand": "",
       "property": "Pullman Grand Central, Bandung",
       "city": "Bandung",
       "category": "Hotels & Resorts",
@@ -4111,8 +4122,8 @@
       "googleMaps": "https://maps.app.goo.gl/yaNUNSj7WrB55FRN6"
     },
     {
-      "id": "hotel_249",
-      "brand": "Pullman",
+      "id": "hotel_250",
+      "brand": "",
       "property": "Pullman Jakarta, Central Park",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4125,8 +4136,8 @@
       "googleMaps": "https://maps.app.goo.gl/F6U7ByWUQQLkV9eu5?g_st=ic"
     },
     {
-      "id": "hotel_250",
-      "brand": "Pullman",
+      "id": "hotel_251",
+      "brand": "",
       "property": "Pullman Jakarta, Thamrin",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4139,8 +4150,8 @@
       "googleMaps": "https://maps.app.goo.gl/oJfEb4abDnCANWig9"
     },
     {
-      "id": "hotel_251",
-      "brand": "Pullman",
+      "id": "hotel_252",
+      "brand": "",
       "property": "Pullman Kuala Lumpur City Centre",
       "city": "Kuala Lumpur",
       "category": "Hotels & Resorts",
@@ -4159,8 +4170,8 @@
       "googleMaps": "https://maps.app.goo.gl/dugNWmQHqPtiP8GQ9"
     },
     {
-      "id": "hotel_252",
-      "brand": "Pullman",
+      "id": "hotel_253",
+      "brand": "",
       "property": "Pullman Lombok Merunjani Mandalika",
       "city": "Lombok",
       "category": "Hotels & Resorts",
@@ -4174,8 +4185,8 @@
       "googleMaps": "https://maps.app.goo.gl/RrbmFfbFQzqWQcq46"
     },
     {
-      "id": "hotel_253",
-      "brand": "Pullman",
+      "id": "hotel_254",
+      "brand": "",
       "property": "Pullman Orchard Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -4191,8 +4202,8 @@
       "googleMaps": "https://maps.app.goo.gl/ThXVjuvz8CJYkQAW6"
     },
     {
-      "id": "hotel_254",
-      "brand": "The Standard",
+      "id": "hotel_255",
+      "brand": "",
       "property": "The Standard Bangkok Mahanakhon",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -4207,8 +4218,8 @@
       "googleMaps": "https://maps.app.goo.gl/ZiZm5JPUMAD4nhx3A?g_st=ic"
     },
     {
-      "id": "hotel_255",
-      "brand": "The Standard",
+      "id": "hotel_256",
+      "brand": "",
       "property": "The Standard Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -4225,8 +4236,8 @@
       "googleMaps": "https://maps.app.goo.gl/ThXVjuvz8CJYkQAW6"
     },
     {
-      "id": "hotel_256",
-      "brand": "Tribute Portfolio",
+      "id": "hotel_257",
+      "brand": "",
       "property": "The Hermitage, A Tribute Portfolio Hotel",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4242,8 +4253,8 @@
       "googleMaps": "https://maps.app.goo.gl/B4Z4UVt8sYSgwgRW7?g_st=ic"
     },
     {
-      "id": "hotel_257",
-      "brand": "Westin",
+      "id": "hotel_258",
+      "brand": "",
       "property": "The Westin Jakarta",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4261,8 +4272,8 @@
       "googleMaps": "https://maps.app.goo.gl/fhfKKuWqJq16Pcaa6?g_st=ic"
     },
     {
-      "id": "hotel_258",
-      "brand": "Westin",
+      "id": "hotel_259",
+      "brand": "",
       "property": "The Westin Miyako, Kyoto",
       "city": "Kyoto",
       "category": "Hotels & Resorts",
@@ -4276,8 +4287,8 @@
       "googleMaps": "https://maps.app.goo.gl/oRUTd2wXkPdabFZz5?g_st=ic"
     },
     {
-      "id": "hotel_259",
-      "brand": "Westin",
+      "id": "hotel_260",
+      "brand": "",
       "property": "The Westin Resort Ubud, Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -4296,8 +4307,8 @@
       "googleMaps": "https://maps.app.goo.gl/NS2BuzkGTiUMxUk29"
     },
     {
-      "id": "hotel_260",
-      "brand": "Westin",
+      "id": "hotel_261",
+      "brand": "",
       "property": "The Westin Surabaya",
       "city": "Surabaya",
       "category": "Hotels & Resorts",
@@ -4311,8 +4322,8 @@
       "googleMaps": "https://maps.app.goo.gl/8aS9HpCnDQgnJY3C6"
     },
     {
-      "id": "hotel_261",
-      "brand": "Westin",
+      "id": "hotel_262",
+      "brand": "",
       "property": "The Westin Tokyo",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -4326,8 +4337,8 @@
       "googleMaps": "https://maps.app.goo.gl/rw2Qgoi9YwE7Ydqz9"
     },
     {
-      "id": "hotel_262",
-      "brand": "Westin",
+      "id": "hotel_263",
+      "brand": "",
       "property": "The Westin Xi'an",
       "city": "Xi'an",
       "category": "Hotels & Resorts",
@@ -4347,8 +4358,8 @@
       "googleMaps": "https://maps.app.goo.gl/f6t97RWcVp3hKruA7"
     },
     {
-      "id": "hotel_263",
-      "brand": "25hours",
+      "id": "hotel_264",
+      "brand": "",
       "property": "25hours Hotel The Oddbird",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4362,8 +4373,8 @@
       "googleMaps": "https://maps.app.goo.gl/FnqsQm89gm8zvD1N9"
     },
     {
-      "id": "hotel_264",
-      "brand": "Ascott",
+      "id": "hotel_265",
+      "brand": "",
       "property": "Ascott Chongqing Raffles City",
       "city": "Chongqing",
       "category": "Hotels & Resorts",
@@ -4378,8 +4389,8 @@
       "googleMaps": "https://maps.app.goo.gl/fPwPUgDMkbfiw29U9?g_st=ic"
     },
     {
-      "id": "hotel_265",
-      "brand": "Canopy",
+      "id": "hotel_266",
+      "brand": "",
       "property": "Canopy by Hilton Osaka Umeda",
       "city": "Osaka",
       "category": "Hotels & Resorts",
@@ -4393,8 +4404,8 @@
       "googleMaps": "https://maps.app.goo.gl/iQvob4gsREhRoXnP9"
     },
     {
-      "id": "hotel_266",
-      "brand": "Carlton",
+      "id": "hotel_267",
+      "brand": "",
       "property": "Carlton Bangkok Sukumvit",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -4407,8 +4418,8 @@
       "googleMaps": "https://maps.app.goo.gl/dib9DRPdotMD3Qj18"
     },
     {
-      "id": "hotel_267",
-      "brand": "Cross",
+      "id": "hotel_268",
+      "brand": "",
       "property": "Cross Breakers Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -4422,8 +4433,8 @@
       "googleMaps": "https://maps.app.goo.gl/QUR4sxuKbWdKN2hT7"
     },
     {
-      "id": "hotel_268",
-      "brand": "Crowne Plaza",
+      "id": "hotel_269",
+      "brand": "",
       "property": "Crowne Plaza Changi Airport Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -4439,8 +4450,8 @@
       "googleMaps": "https://maps.app.goo.gl/ihp8NDEqZVphwpiA7?g_st=ic"
     },
     {
-      "id": "hotel_269",
-      "brand": "Design Hotels",
+      "id": "hotel_270",
+      "brand": "",
       "property": "21 Carpenter Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -4455,8 +4466,8 @@
       "googleMaps": "https://maps.app.goo.gl/8Mep4DHc3W2AVKPk6?g_st=ic"
     },
     {
-      "id": "hotel_270",
-      "brand": "Design Hotels",
+      "id": "hotel_271",
+      "brand": "",
       "property": "Else Kuala Lumpur 🗝️",
       "city": "Kuala Lumpur",
       "category": "Hotels & Resorts",
@@ -4470,8 +4481,8 @@
       "googleMaps": "https://maps.app.goo.gl/rJsPp3BSwQd6LGVr5"
     },
     {
-      "id": "hotel_271",
-      "brand": "Eastin",
+      "id": "hotel_272",
+      "brand": "",
       "property": "Eastin Grand Hotel Sathorn, Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -4485,8 +4496,8 @@
       "googleMaps": "https://maps.app.goo.gl/MFsSwGH367cMRrqv8?g_st=ic"
     },
     {
-      "id": "hotel_272",
-      "brand": "Fivelements",
+      "id": "hotel_273",
+      "brand": "",
       "property": "Fivelements Ubud",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -4502,8 +4513,8 @@
       "googleMaps": "https://maps.app.goo.gl/AwKio69jCiy3enpa8"
     },
     {
-      "id": "hotel_273",
-      "brand": "Gaia",
+      "id": "hotel_274",
+      "brand": "",
       "property": "The Gaia Hotel Beitou",
       "city": "Taipei",
       "category": "Hotels & Resorts",
@@ -4519,8 +4530,8 @@
       "googleMaps": "https://maps.app.goo.gl/YqgWqjPbUxaECA2d6?g_st=ic"
     },
     {
-      "id": "hotel_274",
-      "brand": "Garrya",
+      "id": "hotel_275",
+      "brand": "",
       "property": "Garrya Bianti Yogyakarta 🗝️",
       "city": "Yogyakarta",
       "category": "Hotels & Resorts",
@@ -4539,8 +4550,8 @@
       "googleMaps": "https://maps.app.goo.gl/QcXcefQxSFRrwLfNA?g_st=ic"
     },
     {
-      "id": "hotel_275",
-      "brand": "iNi Vie Hospitality",
+      "id": "hotel_276",
+      "brand": "",
       "property": "Kaamala Resort",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -4556,8 +4567,8 @@
       "googleMaps": "https://maps.app.goo.gl/YXay3mDrKTohwdBY6?g_st=ic"
     },
     {
-      "id": "hotel_276",
-      "brand": "JDV by Hyatt",
+      "id": "hotel_277",
+      "brand": "",
       "property": "EPISODE Daan Taipei",
       "city": "Taipei",
       "category": "Hotels & Resorts",
@@ -4572,8 +4583,8 @@
       "googleMaps": "https://maps.app.goo.gl/Tt3LfSt9TqMKkbXX8"
     },
     {
-      "id": "hotel_277",
-      "brand": "JEN",
+      "id": "hotel_278",
+      "brand": "",
       "property": "JEN Beijing by Shangri-La",
       "city": "Beijing",
       "category": "Hotels & Resorts",
@@ -4591,8 +4602,8 @@
       "googleMaps": "https://maps.app.goo.gl/4AiV8fMSs6ztLAsDA"
     },
     {
-      "id": "hotel_278",
-      "brand": "Le Méridien",
+      "id": "hotel_279",
+      "brand": "",
       "property": "Le Méridien Jakarta",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4610,8 +4621,8 @@
       "googleMaps": "https://maps.app.goo.gl/FdsRnSjv5P6Pvyei7"
     },
     {
-      "id": "hotel_279",
-      "brand": "Le Méridien",
+      "id": "hotel_280",
+      "brand": "",
       "property": "Le Méridien Saigon",
       "city": "Ho Chi Minh City",
       "category": "Hotels & Resorts",
@@ -4627,8 +4638,8 @@
       "googleMaps": "https://maps.app.goo.gl/iLWVz14sj7dm2qLm8"
     },
     {
-      "id": "hotel_280",
-      "brand": "Marco Polo",
+      "id": "hotel_281",
+      "brand": "",
       "property": "Marco Polo Ortigas Manila",
       "city": "Manila",
       "category": "Hotels & Resorts",
@@ -4642,8 +4653,8 @@
       "googleMaps": "https://maps.app.goo.gl/qm3J2uApmbaFYqbP7?g_st=ic"
     },
     {
-      "id": "hotel_281",
-      "brand": "Marriott",
+      "id": "hotel_282",
+      "brand": "",
       "property": "Phuket Marriott Resort, Merlin Beach",
       "city": "Phuket",
       "category": "Hotels & Resorts",
@@ -4657,8 +4668,8 @@
       "googleMaps": "https://maps.app.goo.gl/cyaaMnucSGCCAfRc7"
     },
     {
-      "id": "hotel_282",
-      "brand": "Marriott",
+      "id": "hotel_283",
+      "brand": "",
       "property": "Taipei Marriott",
       "city": "Taipei",
       "category": "Hotels & Resorts",
@@ -4675,8 +4686,8 @@
       "googleMaps": "https://maps.app.goo.gl/EPTpfVcyNrbtKd79A?g_st=ic"
     },
     {
-      "id": "hotel_283",
-      "brand": "Marriott",
+      "id": "hotel_284",
+      "brand": "",
       "property": "Yogyakarta Marriott",
       "city": "Yogyakarta",
       "category": "Hotels & Resorts",
@@ -4690,8 +4701,8 @@
       "googleMaps": "https://maps.app.goo.gl/i7Ag9cddnGKLxgUq6"
     },
     {
-      "id": "hotel_284",
-      "brand": "Mövenpick",
+      "id": "hotel_285",
+      "brand": "",
       "property": "Mövenpick City Center Jakarta",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4709,8 +4720,8 @@
       "googleMaps": "https://maps.app.goo.gl/Ue67adUAYUteUEHu5?g_st=ic"
     },
     {
-      "id": "hotel_285",
-      "brand": "Mulia",
+      "id": "hotel_286",
+      "brand": "",
       "property": "Hotel Mulia Jakarta",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4723,8 +4734,8 @@
       "googleMaps": "https://maps.app.goo.gl/DDKenZCgGWEAKgzx9"
     },
     {
-      "id": "hotel_286",
-      "brand": "Padma",
+      "id": "hotel_287",
+      "brand": "",
       "property": "Padma Bandung",
       "city": "Bandung",
       "category": "Hotels & Resorts",
@@ -4740,8 +4751,8 @@
       "googleMaps": "https://maps.app.goo.gl/qkpoK5L6WJDDJ9gX8?g_st=ic"
     },
     {
-      "id": "hotel_287",
-      "brand": "Ping Silhouette",
+      "id": "hotel_288",
+      "brand": "",
       "property": "Hotel des Artists",
       "city": "Chiang Mai",
       "category": "Hotels & Resorts",
@@ -4754,8 +4765,8 @@
       "googleMaps": "https://maps.app.goo.gl/7RtnRtd55tjvakbp8"
     },
     {
-      "id": "hotel_288",
-      "brand": "Renaissance",
+      "id": "hotel_289",
+      "brand": "",
       "property": "Renaissance Bali, Uluwatu",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -4767,8 +4778,8 @@
       "googleMaps": "https://maps.app.goo.gl/wzLRtG3ufmW3gEXm7?g_st=ic"
     },
     {
-      "id": "hotel_289",
-      "brand": "RIHGA Hotels",
+      "id": "hotel_290",
+      "brand": "",
       "property": "Park Hotel Tokyo",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -4782,8 +4793,8 @@
       "googleMaps": "https://maps.app.goo.gl/K8ThPmX8rzVQ9XhdA"
     },
     {
-      "id": "hotel_290",
-      "brand": "Sala",
+      "id": "hotel_291",
+      "brand": "",
       "property": "Sala Chaweng, Samui",
       "city": "Samui",
       "category": "Hotels & Resorts",
@@ -4800,8 +4811,8 @@
       "googleMaps": "https://maps.app.goo.gl/ZMnwLnrzPWtXkXZw9"
     },
     {
-      "id": "hotel_291",
-      "brand": "Sala",
+      "id": "hotel_292",
+      "brand": "",
       "property": "Sala Lanna, Chiang Mai",
       "city": "Chiang Mai",
       "category": "Hotels & Resorts",
@@ -4815,8 +4826,8 @@
       "googleMaps": "https://maps.app.goo.gl/8UMoouf4D5dBbxuf8"
     },
     {
-      "id": "hotel_292",
-      "brand": "Sala",
+      "id": "hotel_293",
+      "brand": "",
       "property": "Sala Rattanakhosin",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -4831,8 +4842,8 @@
       "googleMaps": "https://maps.app.goo.gl/fLY2YcWL78195KTj7"
     },
     {
-      "id": "hotel_293",
-      "brand": "Sheraton",
+      "id": "hotel_294",
+      "brand": "",
       "property": "Sheraton Bali Kuta Resort",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -4848,8 +4859,8 @@
       "googleMaps": "https://maps.app.goo.gl/HVS7MZiiw3Y5P2kd9?g_st=ic"
     },
     {
-      "id": "hotel_294",
-      "brand": "Sheraton",
+      "id": "hotel_295",
+      "brand": "",
       "property": "Sheraton Bandung Hotel & Towers",
       "city": "Bandung",
       "category": "Hotels & Resorts",
@@ -4862,8 +4873,8 @@
       "googleMaps": "https://maps.app.goo.gl/DWv9WqAFkY2Fgg76A?g_st=ic"
     },
     {
-      "id": "hotel_295",
-      "brand": "Sheraton",
+      "id": "hotel_296",
+      "brand": "",
       "property": "Sheraton Grand Jakarta, Gandaria City",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4875,8 +4886,8 @@
       "googleMaps": "https://maps.app.goo.gl/pNfdmFQ7z2i7vdhC8?g_st=ic"
     },
     {
-      "id": "hotel_296",
-      "brand": "Sheraton",
+      "id": "hotel_297",
+      "brand": "",
       "property": "Sheraton Jakarta Soekarno-Hatta Airport",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4891,8 +4902,8 @@
       "googleMaps": "https://maps.app.goo.gl/qHyFtft86Jbowzsx5"
     },
     {
-      "id": "hotel_297",
-      "brand": "Sheraton",
+      "id": "hotel_298",
+      "brand": "",
       "property": "Sheraton Manila Bay",
       "city": "Manila",
       "category": "Hotels & Resorts",
@@ -4906,8 +4917,8 @@
       "googleMaps": "https://maps.app.goo.gl/uLNjuFFAhChTxHmD8"
     },
     {
-      "id": "hotel_298",
-      "brand": "Sheraton",
+      "id": "hotel_299",
+      "brand": "",
       "property": "Sheraton Mustika, Yogyakarta",
       "city": "Yogyakarta",
       "category": "Hotels & Resorts",
@@ -4921,8 +4932,8 @@
       "googleMaps": "https://maps.app.goo.gl/wS6mJsp6EQnh1uW38"
     },
     {
-      "id": "hotel_299",
-      "brand": "Sheraton",
+      "id": "hotel_300",
+      "brand": "",
       "property": "Sheraton Royal Orchid Hotel & Towers, Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -4936,8 +4947,8 @@
       "googleMaps": "https://maps.app.goo.gl/DxfUfUoJLZacb1NEA"
     },
     {
-      "id": "hotel_300",
-      "brand": "Swissôtel",
+      "id": "hotel_301",
+      "brand": "",
       "property": "Swissôtel Jakarta, PIK Avenue",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4951,8 +4962,8 @@
       "googleMaps": "https://maps.app.goo.gl/w5syRt2KUfAtV9cU8"
     },
     {
-      "id": "hotel_301",
-      "brand": "Swissôtel",
+      "id": "hotel_302",
+      "brand": "",
       "property": "Swissôtel Living Jakarta Mega Kuningan",
       "city": "Jakarta",
       "category": "Hotels & Resorts",
@@ -4967,8 +4978,8 @@
       "googleMaps": "https://maps.app.goo.gl/vAgfiqesEPnipz7Z7"
     },
     {
-      "id": "hotel_302",
-      "brand": "Swissôtel",
+      "id": "hotel_303",
+      "brand": "",
       "property": "Swissôtel Nankai, Osaka",
       "city": "Osaka",
       "category": "Hotels & Resorts",
@@ -4983,8 +4994,8 @@
       "googleMaps": "https://maps.app.goo.gl/LpYyZ9J8pHMrYYu38"
     },
     {
-      "id": "hotel_303",
-      "brand": "Swissôtel",
+      "id": "hotel_304",
+      "brand": "",
       "property": "Swissôtel The Stamford, Singapore",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -4999,8 +5010,8 @@
       "googleMaps": "https://maps.app.goo.gl/idEUp5ufRrV7uXHMA?g_st=ic"
     },
     {
-      "id": "hotel_304",
-      "brand": "Traders",
+      "id": "hotel_305",
+      "brand": "",
       "property": "Traders Kuala Lumpur",
       "city": "Kuala Lumpur",
       "category": "Hotels & Resorts",
@@ -5018,8 +5029,8 @@
       "googleMaps": "https://maps.app.goo.gl/isecrCPtk8e9KV7u8"
     },
     {
-      "id": "hotel_305",
-      "brand": "Villa",
+      "id": "hotel_306",
+      "brand": "",
       "property": "Arita Villa & Uma Santai",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5032,8 +5043,8 @@
       "googleMaps": "https://maps.app.goo.gl/FhFiqDDdpMRTHHmY8"
     },
     {
-      "id": "hotel_306",
-      "brand": "Villa",
+      "id": "hotel_307",
+      "brand": "",
       "property": "Ease Villas Uluwatu, Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5049,8 +5060,8 @@
       "googleMaps": "https://maps.app.goo.gl/PC9spuqYhRALQqbZA?g_st=ic"
     },
     {
-      "id": "hotel_307",
-      "brand": "Villa",
+      "id": "hotel_308",
+      "brand": "",
       "property": "Huntley Villas",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5062,8 +5073,8 @@
       "googleMaps": "https://maps.app.goo.gl/8KZXpBsrQQU8JNAR9"
     },
     {
-      "id": "hotel_308",
-      "brand": "Villa",
+      "id": "hotel_309",
+      "brand": "",
       "property": "Nour Villas Uluwatu",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5077,8 +5088,8 @@
       "googleMaps": "https://maps.app.goo.gl/7iUpwPnS2rBt5f8D7"
     },
     {
-      "id": "hotel_309",
-      "brand": "Villa",
+      "id": "hotel_310",
+      "brand": "",
       "property": "Suluban Cliff Bali Villa",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5093,8 +5104,8 @@
       "googleMaps": "https://maps.app.goo.gl/gHtjezFtRJLHNaJX8?g_st=ic"
     },
     {
-      "id": "hotel_310",
-      "brand": "Villa",
+      "id": "hotel_311",
+      "brand": "",
       "property": "The Sankara Resort Ubud, Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5109,8 +5120,8 @@
       "googleMaps": "https://maps.app.goo.gl/Q35Q92e8eS2H8U6M9"
     },
     {
-      "id": "hotel_311",
-      "brand": "Villa",
+      "id": "hotel_312",
+      "brand": "",
       "property": "Villa Boya, Seminyak",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5124,8 +5135,8 @@
       "googleMaps": "https://maps.app.goo.gl/2H5xkjRKkNTcdsE39?g_st=ic"
     },
     {
-      "id": "hotel_312",
-      "brand": "voco",
+      "id": "hotel_313",
+      "brand": "",
       "property": "voco Singapore Orchard",
       "city": "Singapore",
       "category": "Hotels & Resorts",
@@ -5140,8 +5151,8 @@
       "googleMaps": "https://maps.app.goo.gl/L2DJqQs7GJju1yqu5?g_st=ic"
     },
     {
-      "id": "hotel_313",
-      "brand": "Aloft",
+      "id": "hotel_314",
+      "brand": "",
       "property": "Aloft Balli, Seminyak",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5154,8 +5165,8 @@
       "googleMaps": "https://maps.app.goo.gl/t4qc1qPZywbtJwbR6"
     },
     {
-      "id": "hotel_314",
-      "brand": "ASTON",
+      "id": "hotel_315",
+      "brand": "",
       "property": "ASTON Bogor Hotel & Resort",
       "city": "Bogor",
       "category": "Hotels & Resorts",
@@ -5167,8 +5178,8 @@
       "googleMaps": "https://maps.app.goo.gl/Ai6wb9pcgBUGeKk1A"
     },
     {
-      "id": "hotel_315",
-      "brand": "DoubleTree",
+      "id": "hotel_316",
+      "brand": "",
       "property": "DoubleTree by Hilton Tokyo Ariake",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -5182,8 +5193,8 @@
       "googleMaps": "https://maps.app.goo.gl/n1NZKYtdd7SD9RRT6"
     },
     {
-      "id": "hotel_316",
-      "brand": "Henann",
+      "id": "hotel_317",
+      "brand": "",
       "property": "Henann Palm Beach Resort, Boracay",
       "city": "Boracay",
       "category": "Hotels & Resorts",
@@ -5196,8 +5207,8 @@
       "googleMaps": "https://maps.app.goo.gl/E9nymnr56t3M2PZL6"
     },
     {
-      "id": "hotel_317",
-      "brand": "Klapa",
+      "id": "hotel_318",
+      "brand": "",
       "property": "Klapa Resort",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5209,8 +5220,8 @@
       "googleMaps": "https://maps.app.goo.gl/GgQruVN1Hy44jhCz6"
     },
     {
-      "id": "hotel_318",
-      "brand": "Library",
+      "id": "hotel_319",
+      "brand": "",
       "property": "The Library, Samui",
       "city": "Samui",
       "category": "Hotels & Resorts",
@@ -5224,8 +5235,8 @@
       "googleMaps": "https://maps.app.goo.gl/mLRFpg7rPd3MowSb6?g_st=ic"
     },
     {
-      "id": "hotel_319",
-      "brand": "LV8",
+      "id": "hotel_320",
+      "brand": "",
       "property": "LV8 Resort Bali",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5237,8 +5248,8 @@
       "googleMaps": "https://maps.app.goo.gl/xv57JSJTmXcHoaeL7"
     },
     {
-      "id": "hotel_320",
-      "brand": "M",
+      "id": "hotel_321",
+      "brand": "",
       "property": "M Silom, Bangkok",
       "city": "Bangkok",
       "category": "Hotels & Resorts",
@@ -5251,8 +5262,8 @@
       "googleMaps": "https://maps.app.goo.gl/A5MrMM4MEBsE55vDA"
     },
     {
-      "id": "hotel_321",
-      "brand": "Mira",
+      "id": "hotel_322",
+      "brand": "",
       "property": "Mira Bingin",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5266,8 +5277,8 @@
       "googleMaps": "https://maps.app.goo.gl/YstswuswvxU4VECf8"
     },
     {
-      "id": "hotel_322",
-      "brand": "Savoy",
+      "id": "hotel_323",
+      "brand": "",
       "property": "Hotel Savoy Homann, Bandung",
       "city": "Bandung",
       "category": "Hotels & Resorts",
@@ -5279,8 +5290,8 @@
       "googleMaps": "https://maps.app.goo.gl/mRP1RViK3Xzo6uYV9"
     },
     {
-      "id": "hotel_323",
-      "brand": "Seda",
+      "id": "hotel_324",
+      "brand": "",
       "property": "Seda Bonifacio Global City, Manila",
       "city": "Manila",
       "category": "Hotels & Resorts",
@@ -5292,8 +5303,8 @@
       "googleMaps": "https://maps.app.goo.gl/JUYkJVkgMnFcjyRG9"
     },
     {
-      "id": "hotel_324",
-      "brand": "sequence",
+      "id": "hotel_325",
+      "brand": "",
       "property": "sequence MIYASHITA PARK",
       "city": "Tokyo",
       "category": "Hotels & Resorts",
@@ -5307,8 +5318,8 @@
       "googleMaps": "https://maps.app.goo.gl/axuuKetLgLn2ZfjH6"
     },
     {
-      "id": "hotel_325",
-      "brand": "Tinidee",
+      "id": "hotel_326",
+      "brand": "",
       "property": "Tinidee Hide away Tonsai Beach, Krabi",
       "city": "Krabi",
       "category": "Hotels & Resorts",
@@ -5324,8 +5335,8 @@
       "googleMaps": "https://maps.app.goo.gl/ZrDdkVxEHZp9Wi8r6"
     },
     {
-      "id": "hotel_326",
-      "brand": "TRIBE",
+      "id": "hotel_327",
+      "brand": "",
       "property": "TRIBE Bali Kuta Beach",
       "city": "Bali",
       "category": "Hotels & Resorts",
@@ -5339,8 +5350,8 @@
       "googleMaps": "https://maps.app.goo.gl/7RTWbeggkkoepAaYA?g_st=ic"
     },
     {
-      "id": "hotel_327",
-      "brand": "TRIBE",
+      "id": "hotel_328",
+      "brand": "",
       "property": "Tribe Phnom Penh Post Office",
       "city": "Phnom Penh",
       "category": "Hotels & Resorts",
@@ -5355,8 +5366,8 @@
       "googleMaps": "https://maps.app.goo.gl/YTNZ4og4dpHYDyzf9?g_st=ic"
     },
     {
-      "id": "hotel_328",
-      "brand": "TUNE STAY",
+      "id": "hotel_329",
+      "brand": "",
       "property": "HIDEOUT SUITE KYOTO",
       "city": "Kyoto",
       "category": "Hotels & Resorts",
@@ -5369,7 +5380,7 @@
       "googleMaps": "https://maps.app.goo.gl/kSVucQctKnZNrCkm8"
     },
     {
-      "id": "fnb_329",
+      "id": "fnb_330",
       "brand": "8 1/2 Otto e Mezzo Bombana Macau ⭐️ - Galaxy Macau",
       "property": "8 1/2 Otto e Mezzo Bombana Macau ⭐️ - Galaxy Macau",
       "city": "Macau",
@@ -5382,7 +5393,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_330",
+      "id": "fnb_331",
       "brand": "8 1/2 Otto e Mezzo Bombana Shanghai ⭐️⭐️",
       "property": "8 1/2 Otto e Mezzo Bombana Shanghai ⭐️⭐️",
       "city": "Shanghai",
@@ -5395,7 +5406,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_331",
+      "id": "fnb_332",
       "brand": "Amber ⭐️⭐️⭐️🍀 - The Landmark, Mandarin Oriental",
       "property": "Amber ⭐️⭐️⭐️🍀 - The Landmark, Mandarin Oriental",
       "city": "Hong Kong",
@@ -5408,7 +5419,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_332",
+      "id": "fnb_333",
       "brand": "Ănăn Saigon ⭐️",
       "property": "Ănăn Saigon ⭐️",
       "city": "Saigon",
@@ -5421,7 +5432,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_333",
+      "id": "fnb_334",
       "brand": "ando ⭐️",
       "property": "ando ⭐️",
       "city": "Hong Kong",
@@ -5434,7 +5445,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_334",
+      "id": "fnb_335",
       "brand": "Arcane ⭐️",
       "property": "Arcane ⭐️",
       "city": "Hong Kong",
@@ -5447,7 +5458,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_335",
+      "id": "fnb_336",
       "brand": "BORN ⭐️",
       "property": "BORN ⭐️",
       "city": "Singapore",
@@ -5460,7 +5471,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_336",
+      "id": "fnb_337",
       "brand": "Buona Terra ⭐️",
       "property": "Buona Terra ⭐️",
       "city": "Singapore",
@@ -5473,7 +5484,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_337",
+      "id": "fnb_338",
       "brand": "Chim by Chef Noom ⭐️",
       "property": "Chim by Chef Noom ⭐️",
       "city": "Kuala Lumpur",
@@ -5486,7 +5497,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_338",
+      "id": "fnb_339",
       "brand": "Chuan Ya ⭐️",
       "property": "Chuan Ya ⭐️",
       "city": "Taipei",
@@ -5499,7 +5510,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_339",
+      "id": "fnb_340",
       "brand": "Circum- ⭐️",
       "property": "Circum- ⭐️",
       "city": "Taipei",
@@ -5512,7 +5523,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_340",
+      "id": "fnb_341",
       "brand": "Cristal Room by Anne-Sophie Pic ⭐️⭐️",
       "property": "Cristal Room by Anne-Sophie Pic ⭐️⭐️",
       "city": "Hong Kong",
@@ -5525,7 +5536,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_341",
+      "id": "fnb_342",
       "brand": "Da Vittorio ⭐️⭐️",
       "property": "Da Vittorio ⭐️⭐️",
       "city": "Shanghai",
@@ -5536,7 +5547,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_342",
+      "id": "fnb_343",
       "brand": "DC Restaurant ⭐️",
       "property": "DC Restaurant ⭐️",
       "city": "Kuala Lumpur",
@@ -5549,7 +5560,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_343",
+      "id": "fnb_344",
       "brand": "de nuit ⭐️",
       "property": "de nuit ⭐️",
       "city": "Taipei",
@@ -5562,7 +5573,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_344",
+      "id": "fnb_345",
       "brand": "Duddell's⭐️",
       "property": "Duddell's⭐️",
       "city": "Hong Kong",
@@ -5575,7 +5586,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_345",
+      "id": "fnb_346",
       "brand": "Elements, Inspired by Ciel Bleu ⭐️ - The Okura Prestige Bangkok",
       "property": "Elements, Inspired by Ciel Bleu ⭐️ - The Okura Prestige Bangkok",
       "city": "Bangkok",
@@ -5588,7 +5599,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_346",
+      "id": "fnb_347",
       "brand": "FRASSI ⭐️",
       "property": "FRASSI ⭐️",
       "city": "Taipei",
@@ -5601,7 +5612,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_347",
+      "id": "fnb_348",
       "brand": "GAA ⭐️⭐️",
       "property": "GAA ⭐️⭐️",
       "city": "Bangkok",
@@ -5614,7 +5625,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_348",
+      "id": "fnb_349",
       "brand": "Héritage by Kei Kobayashi ⭐️ - The Ritz-Carlton Tokyo",
       "property": "Héritage by Kei Kobayashi ⭐️ - The Ritz-Carlton Tokyo",
       "city": "Tokyo",
@@ -5627,7 +5638,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_349",
+      "id": "fnb_350",
       "brand": "Hokklo ⭐️ - Waldorf Astoria Xiamen",
       "property": "Hokklo ⭐️ - Waldorf Astoria Xiamen",
       "city": "Xiamen",
@@ -5640,7 +5651,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_350",
+      "id": "fnb_351",
       "brand": "INDDEE ⭐️",
       "property": "INDDEE ⭐️",
       "city": "Bangkok",
@@ -5653,7 +5664,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_351",
+      "id": "fnb_352",
       "brand": "Jade Dragon ⭐️⭐️⭐️ - Morpheus City of Dreams",
       "property": "Jade Dragon ⭐️⭐️⭐️ - Morpheus City of Dreams",
       "city": "Macau",
@@ -5666,7 +5677,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_352",
+      "id": "fnb_353",
       "brand": "La Baie ⭐️ - The Ritz-Carlton Osaka",
       "property": "La Baie ⭐️ - The Ritz-Carlton Osaka",
       "city": "Osaka",
@@ -5679,7 +5690,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_353",
+      "id": "fnb_354",
       "brand": "Lai Heen ⭐️ - The Ritz-Carlton Macau",
       "property": "Lai Heen ⭐️ - The Ritz-Carlton Macau",
       "city": "Macau",
@@ -5692,7 +5703,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_354",
+      "id": "fnb_355",
       "brand": "Maison Dunand ⭐️",
       "property": "Maison Dunand ⭐️",
       "city": "Bangkok",
@@ -5705,7 +5716,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_355",
+      "id": "fnb_356",
       "brand": "Man Ho ⭐️ - JW Marriott Hong Kong",
       "property": "Man Ho ⭐️ - JW Marriott Hong Kong",
       "city": "Hong Kong",
@@ -5718,7 +5729,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_356",
+      "id": "fnb_357",
       "brand": "Mi Xun Teahouse ⭐️🍀 - The Upper House Chengdu",
       "property": "Mi Xun Teahouse ⭐️🍀 - The Upper House Chengdu",
       "city": "Chengdu",
@@ -5731,7 +5742,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_357",
+      "id": "fnb_358",
       "brand": "MUME ⭐️",
       "property": "MUME ⭐️",
       "city": "Taipei",
@@ -5744,7 +5755,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_358",
+      "id": "fnb_359",
       "brand": "Nawa ⭐️",
       "property": "Nawa ⭐️",
       "city": "Bangkok",
@@ -5757,7 +5768,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_359",
+      "id": "fnb_360",
       "brand": "Odette ⭐️⭐️⭐️",
       "property": "Odette ⭐️⭐️⭐️",
       "city": "Singapore",
@@ -5770,7 +5781,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_360",
+      "id": "fnb_361",
       "brand": "Palace Garden ⭐️ - Grand Lisboa Palace Resort",
       "property": "Palace Garden ⭐️ - Grand Lisboa Palace Resort",
       "city": "Macau",
@@ -5783,7 +5794,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_361",
+      "id": "fnb_362",
       "brand": "POTONG ⭐️",
       "property": "POTONG ⭐️",
       "city": "Bangkok",
@@ -5796,7 +5807,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_362",
+      "id": "fnb_363",
       "brand": "Selection by Du ⭐️⭐️",
       "property": "Selection by Du ⭐️⭐️",
       "city": "Shanghai",
@@ -5809,7 +5820,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_363",
+      "id": "fnb_364",
       "brand": "Shang Palace ⭐️ - Kowloon, Shangri-La Hong Kong",
       "property": "Shang Palace ⭐️ - Kowloon, Shangri-La Hong Kong",
       "city": "Hong Kong",
@@ -5822,7 +5833,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_364",
+      "id": "fnb_365",
       "brand": "Shang Palace ⭐️ - Shangri-La Singapore",
       "property": "Shang Palace ⭐️ - Shangri-La Singapore",
       "city": "Singapore",
@@ -5835,7 +5846,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_365",
+      "id": "fnb_366",
       "brand": "Shanghai Tavern ⭐️ - The Shanghai EDITION",
       "property": "Shanghai Tavern ⭐️ - The Shanghai EDITION",
       "city": "Shanghai",
@@ -5848,7 +5859,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_366",
+      "id": "fnb_367",
       "brand": "Sushi Kissho ⭐️ - Raffles at Galaxy Macau",
       "property": "Sushi Kissho ⭐️ - Raffles at Galaxy Macau",
       "city": "Macau",
@@ -5861,7 +5872,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_367",
+      "id": "fnb_368",
       "brand": "T+T ⭐️",
       "property": "T+T ⭐️",
       "city": "Taipei",
@@ -5874,7 +5885,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_368",
+      "id": "fnb_369",
       "brand": "Tanimoto ⭐️",
       "property": "Tanimoto ⭐️",
       "city": "Tokyo",
@@ -5887,7 +5898,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_369",
+      "id": "fnb_370",
       "brand": "TATE Dining Room ⭐️⭐️",
       "property": "TATE Dining Room ⭐️⭐️",
       "city": "Hong Kong",
@@ -5900,7 +5911,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_370",
+      "id": "fnb_371",
       "brand": "Ya Ge ⭐️ - Mandarin Oriental Taipei",
       "property": "Ya Ge ⭐️ - Mandarin Oriental Taipei",
       "city": "Taipei",
@@ -5913,7 +5924,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_371",
+      "id": "fnb_372",
       "brand": "Yong Fu (Hongkou) ⭐️",
       "property": "Yong Fu (Hongkou) ⭐️",
       "city": "Shanghai",
@@ -5926,7 +5937,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_372",
+      "id": "fnb_373",
       "brand": "Zijin Mansion ⭐️ - Waldorf Astoria Beijing",
       "property": "Zijin Mansion ⭐️ - Waldorf Astoria Beijing",
       "city": "Beijing",
@@ -5939,7 +5950,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_373",
+      "id": "fnb_374",
       "brand": "85TD",
       "property": "85TD",
       "city": "Taipei",
@@ -5952,7 +5963,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_374",
+      "id": "fnb_375",
       "brand": "Akara Sky Hanuman",
       "property": "Akara Sky Hanuman",
       "city": "Bangkok",
@@ -5965,7 +5976,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_375",
+      "id": "fnb_376",
       "brand": "AMUZ Gourmet",
       "property": "AMUZ Gourmet",
       "city": "Jakarta",
@@ -5978,7 +5989,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_376",
+      "id": "fnb_377",
       "brand": "ANTE",
       "property": "ANTE",
       "city": "Jakarta",
@@ -5991,7 +6002,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_377",
+      "id": "fnb_378",
       "brand": "FirePlay",
       "property": "FirePlay",
       "city": "Taipei",
@@ -6004,7 +6015,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_378",
+      "id": "fnb_379",
       "brand": "GALA Bangkok",
       "property": "GALA Bangkok",
       "city": "Bangkok",
@@ -6017,7 +6028,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_379",
+      "id": "fnb_380",
       "brand": "Ho Lee Fuk",
       "property": "Ho Lee Fuk",
       "city": "Hong Kong",
@@ -6030,7 +6041,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_380",
+      "id": "fnb_381",
       "brand": "HOME by Chef Wayan",
       "property": "HOME by Chef Wayan",
       "city": "Bali",
@@ -6043,7 +6054,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_381",
+      "id": "fnb_382",
       "brand": "Lahnyai by Nusara",
       "property": "Lahnyai by Nusara",
       "city": "Bangkok",
@@ -6056,7 +6067,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_382",
+      "id": "fnb_383",
       "brand": "Lapo Porsea",
       "property": "Lapo Porsea",
       "city": "Jakarta",
@@ -6069,7 +6080,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_383",
+      "id": "fnb_384",
       "brand": "Le Café at Louis Vuitton Boat Shanghai",
       "property": "Le Café at Louis Vuitton Boat Shanghai",
       "city": "Shanghai",
@@ -6080,7 +6091,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_384",
+      "id": "fnb_385",
       "brand": "Scilla",
       "property": "Scilla",
       "city": "Shanghai",
@@ -6093,7 +6104,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_385",
+      "id": "fnb_386",
       "brand": "Syrco BASÈ",
       "property": "Syrco BASÈ",
       "city": "Bali",
@@ -6106,7 +6117,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_386",
+      "id": "fnb_387",
       "brand": "The Long Table at John Hardy Boutique & Gallery",
       "property": "The Long Table at John Hardy Boutique & Gallery",
       "city": "Bali",
@@ -6119,7 +6130,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_387",
+      "id": "fnb_388",
       "brand": "1945 - Fairmont Jakarta",
       "property": "1945 - Fairmont Jakarta",
       "city": "Jakarta",
@@ -6132,7 +6143,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_388",
+      "id": "fnb_389",
       "brand": "Apéritif Restaurant - Viceroy Bali",
       "property": "Apéritif Restaurant - Viceroy Bali",
       "city": "Bali",
@@ -6145,7 +6156,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_389",
+      "id": "fnb_390",
       "brand": "Astor Grill - The St. Regis Singapore",
       "property": "Astor Grill - The St. Regis Singapore",
       "city": "Singapore",
@@ -6158,7 +6169,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_390",
+      "id": "fnb_391",
       "brand": "Bel Étage - The St. Regis Jakarta",
       "property": "Bel Étage - The St. Regis Jakarta",
       "city": "Jakarta",
@@ -6171,7 +6182,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_391",
+      "id": "fnb_392",
       "brand": "Celestial Court - The St. Regis Beijing",
       "property": "Celestial Court - The St. Regis Beijing",
       "city": "Beijing",
@@ -6184,7 +6195,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_392",
+      "id": "fnb_393",
       "brand": "Duet by David Tautain - The Ritz-Carlton, Bangkok",
       "property": "Duet by David Tautain - The Ritz-Carlton, Bangkok",
       "city": "Bangkok",
@@ -6197,7 +6208,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_393",
+      "id": "fnb_394",
       "brand": "FYSH - The Singapore EDITION",
       "property": "FYSH - The Singapore EDITION",
       "city": "Singapore",
@@ -6210,7 +6221,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_394",
+      "id": "fnb_395",
       "brand": "Gion Loka - SOWAKA Gion, Kyoto",
       "property": "Gion Loka - SOWAKA Gion, Kyoto",
       "city": "Kyoto",
@@ -6223,7 +6234,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_395",
+      "id": "fnb_396",
       "brand": "Grissini - Grand Hyatt Hong Kong",
       "property": "Grissini - Grand Hyatt Hong Kong",
       "city": "Hong Kong",
@@ -6236,7 +6247,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_396",
+      "id": "fnb_397",
       "brand": "Heavenly Jin - J Hotel Shanghai Tower",
       "property": "Heavenly Jin - J Hotel Shanghai Tower",
       "city": "Shanghai",
@@ -6249,7 +6260,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_397",
+      "id": "fnb_398",
       "brand": "Hoshinoya Tokyo - Hoshinoya Tokyo",
       "property": "Hoshinoya Tokyo - Hoshinoya Tokyo",
       "city": "Tokyo",
@@ -6262,7 +6273,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_398",
+      "id": "fnb_399",
       "brand": "JJA - The St. Regis Jakarta",
       "property": "JJA - The St. Regis Jakarta",
       "city": "Jakarta",
@@ -6275,7 +6286,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_399",
+      "id": "fnb_400",
       "brand": "Koral - Apurva Kempinski Bali",
       "property": "Koral - Apurva Kempinski Bali",
       "city": "Bali",
@@ -6288,7 +6299,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_400",
+      "id": "fnb_401",
       "brand": "La Brezza - The St. Regis Zhuhai",
       "property": "La Brezza - The St. Regis Zhuhai",
       "city": "Zhuhai",
@@ -6301,7 +6312,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_401",
+      "id": "fnb_402",
       "brand": "La Locanda - The Ritz-Carlton Kyoto",
       "property": "La Locanda - The Ritz-Carlton Kyoto",
       "city": "Kyoto",
@@ -6314,7 +6325,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_402",
+      "id": "fnb_403",
       "brand": "MIRÈIO - Raffles Makati",
       "property": "MIRÈIO - Raffles Makati",
       "city": "Manila",
@@ -6327,7 +6338,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_403",
+      "id": "fnb_404",
       "brand": "MO Bar - Mandarin Oriental Singapore",
       "property": "MO Bar - Mandarin Oriental Singapore",
       "city": "Singapore",
@@ -6340,7 +6351,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_404",
+      "id": "fnb_405",
       "brand": "Nadodi - Four Seasons Kuala Lumpur",
       "property": "Nadodi - Four Seasons Kuala Lumpur",
       "city": "Kuala Lumpur",
@@ -6353,7 +6364,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_405",
+      "id": "fnb_406",
       "brand": "Navio - The Ritz Carlton, Half Moon Bay",
       "property": "Navio - The Ritz Carlton, Half Moon Bay",
       "city": "San Francisco",
@@ -6366,7 +6377,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_406",
+      "id": "fnb_407",
       "brand": "Origin Grill & Origin Bar - Shangri-La Singapore",
       "property": "Origin Grill & Origin Bar - Shangri-La Singapore",
       "city": "Singapore",
@@ -6379,7 +6390,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_407",
+      "id": "fnb_408",
       "brand": "PAII - W Bangkok",
       "property": "PAII - W Bangkok",
       "city": "Bangkok",
@@ -6392,7 +6403,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_408",
+      "id": "fnb_409",
       "brand": "Quenino by Victor Long - Artyzen Singapore",
       "property": "Quenino by Victor Long - Artyzen Singapore",
       "city": "Singapore",
@@ -6405,7 +6416,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_409",
+      "id": "fnb_410",
       "brand": "Rong Ju - Capella Taipei",
       "property": "Rong Ju - Capella Taipei",
       "city": "Taipei",
@@ -6418,7 +6429,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_410",
+      "id": "fnb_411",
       "brand": "Sangkar - Bvlgari Resorts Bali",
       "property": "Sangkar - Bvlgari Resorts Bali",
       "city": "Bali",
@@ -6431,7 +6442,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_411",
+      "id": "fnb_412",
       "brand": "Seasons by Olivier E. - W Taipei",
       "property": "Seasons by Olivier E. - W Taipei",
       "city": "Taipei",
@@ -6444,7 +6455,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_412",
+      "id": "fnb_413",
       "brand": "Secret Cave Dinner - Raffles Bali",
       "property": "Secret Cave Dinner - Raffles Bali",
       "city": "Bali",
@@ -6457,7 +6468,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_413",
+      "id": "fnb_414",
       "brand": "SKIRT - W Singapore",
       "property": "SKIRT - W Singapore",
       "city": "Singapore",
@@ -6470,7 +6481,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_414",
+      "id": "fnb_415",
       "brand": "Suiyō - Shisui, A Luxury Collection Hotel, Nara",
       "property": "Suiyō - Shisui, A Luxury Collection Hotel, Nara",
       "city": "Nara",
@@ -6483,7 +6494,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_415",
+      "id": "fnb_416",
       "brand": "Teppanyaki Shou - Raffles Macau",
       "property": "Teppanyaki Shou - Raffles Macau",
       "city": "Macau",
@@ -6496,7 +6507,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_416",
+      "id": "fnb_417",
       "brand": "The Oak Door - Grand Hyatt Tokyo",
       "property": "The Oak Door - Grand Hyatt Tokyo",
       "city": "Tokyo",
@@ -6509,7 +6520,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_417",
+      "id": "fnb_418",
       "brand": "TOKI - THE MITSUI HOTEL KYOTO",
       "property": "TOKI - THE MITSUI HOTEL KYOTO",
       "city": "Kyoto",
@@ -6522,7 +6533,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_418",
+      "id": "fnb_419",
       "brand": "Vida Rica Restaurant - Mandarin Oriental Macau",
       "property": "Vida Rica Restaurant - Mandarin Oriental Macau",
       "city": "Macau",
@@ -6535,7 +6546,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_419",
+      "id": "fnb_420",
       "brand": "Wajo - The St. Regis Osaka",
       "property": "Wajo - The St. Regis Osaka",
       "city": "Osaka",
@@ -6548,7 +6559,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_420",
+      "id": "fnb_421",
       "brand": "Washoku Souten - The Prince Gallery Tokyo Kioicho",
       "property": "Washoku Souten - The Prince Gallery Tokyo Kioicho",
       "city": "Tokyo",
@@ -6561,7 +6572,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_421",
+      "id": "fnb_422",
       "brand": "ABar by Akira Back",
       "property": "ABar by Akira Back",
       "city": "Jakarta",
@@ -6574,7 +6585,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_422",
+      "id": "fnb_423",
       "brand": "Aether",
       "property": "Aether",
       "city": "Bangkok",
@@ -6587,7 +6598,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_423",
+      "id": "fnb_424",
       "brand": "DND do not disturb Bar",
       "property": "DND do not disturb Bar",
       "city": "Jakarta",
@@ -6600,7 +6611,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_424",
+      "id": "fnb_425",
       "brand": "Izzy Social Club",
       "property": "Izzy Social Club",
       "city": "Jakarta",
@@ -6613,7 +6624,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_425",
+      "id": "fnb_426",
       "brand": "Mahanakhon Sky Walk",
       "property": "Mahanakhon Sky Walk",
       "city": "Bangkok",
@@ -6626,7 +6637,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_426",
+      "id": "fnb_427",
       "brand": "Opium Bar",
       "property": "Opium Bar",
       "city": "Bangkok",
@@ -6639,7 +6650,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_427",
+      "id": "fnb_428",
       "brand": "The Curator Manila",
       "property": "The Curator Manila",
       "city": "Manila",
@@ -6652,7 +6663,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_428",
+      "id": "fnb_429",
       "brand": "Tichuca",
       "property": "Tichuca",
       "city": "Bangkok",
@@ -6665,18 +6676,20 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_429",
+      "id": "fnb_430",
       "brand": "Akasa - Jumeirah Bali",
       "property": "Akasa - Jumeirah Bali",
       "city": "Bali",
       "category": "F&B Destinations",
       "brandCategory": "",
       "type": "stay",
-      "instagramLinks": [],
+      "instagramLinks": [
+        "https://www.instagram.com/reel/DalElwvSXnd/?igsh=MTludGZtdXc2ZmxnNA=="
+      ],
       "googleMaps": ""
     },
     {
-      "id": "fnb_430",
+      "id": "fnb_431",
       "brand": "Allegro - Grand Hyatt Xi'an",
       "property": "Allegro - Grand Hyatt Xi'an",
       "city": "Xi'an",
@@ -6689,7 +6702,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_431",
+      "id": "fnb_432",
       "brand": "Artesian Bar - The Langham Jakarta",
       "property": "Artesian Bar - The Langham Jakarta",
       "city": "Jakarta",
@@ -6702,7 +6715,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_432",
+      "id": "fnb_433",
       "brand": "Asia Restaurant - The Ritz-Carlton Jakarta",
       "property": "Asia Restaurant - The Ritz-Carlton Jakarta",
       "city": "Jakarta",
@@ -6715,7 +6728,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_433",
+      "id": "fnb_434",
       "brand": "Bar Trigona - Four Seasons Kuala Lumpur",
       "property": "Bar Trigona - Four Seasons Kuala Lumpur",
       "city": "Kuala Lumpur",
@@ -6728,7 +6741,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_434",
+      "id": "fnb_435",
       "brand": "Blind Tiger - W Macau",
       "property": "Blind Tiger - W Macau",
       "city": "Macau",
@@ -6741,7 +6754,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_435",
+      "id": "fnb_436",
       "brand": "Brasserie One - Waldorf Astoria Xiamen",
       "property": "Brasserie One - Waldorf Astoria Xiamen",
       "city": "Xiamen",
@@ -6754,7 +6767,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_436",
+      "id": "fnb_437",
       "brand": "Caleō - The Ritz-Carlton, Bangkok",
       "property": "Caleō - The Ritz-Carlton, Bangkok",
       "city": "Bangkok",
@@ -6767,7 +6780,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_437",
+      "id": "fnb_438",
       "brand": "CasCades - Viceroy Bali",
       "property": "CasCades - Viceroy Bali",
       "city": "Bali",
@@ -6780,7 +6793,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_438",
+      "id": "fnb_439",
       "brand": "CÉ LA VI - Marina Bay Sands",
       "property": "CÉ LA VI - Marina Bay Sands",
       "city": "Singapore",
@@ -6793,7 +6806,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_439",
+      "id": "fnb_440",
       "brand": "Celadon - The Sukhothai Bangkok",
       "property": "Celadon - The Sukhothai Bangkok",
       "city": "Bangkok",
@@ -6806,7 +6819,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_440",
+      "id": "fnb_441",
       "brand": "CJ's Bar - Hotel Mulia Jakarta",
       "property": "CJ's Bar - Hotel Mulia Jakarta",
       "city": "Jakarta",
@@ -6819,7 +6832,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_441",
+      "id": "fnb_442",
       "brand": "DIVA - W Macau",
       "property": "DIVA - W Macau",
       "city": "Macau",
@@ -6832,7 +6845,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_442",
+      "id": "fnb_443",
       "brand": "Edogin - Hotel Mulia Jakarta",
       "property": "Edogin - Hotel Mulia Jakarta",
       "city": "Jakarta",
@@ -6845,7 +6858,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_443",
+      "id": "fnb_444",
       "brand": "Embassy Room La Marina - Park Hyatt Bangkok",
       "property": "Embassy Room La Marina - Park Hyatt Bangkok",
       "city": "Bangkok",
@@ -6858,7 +6871,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_444",
+      "id": "fnb_445",
       "brand": "EMBU - Mandarin Oriental Singapore",
       "property": "EMBU - Mandarin Oriental Singapore",
       "city": "Singapore",
@@ -6871,7 +6884,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_445",
+      "id": "fnb_446",
       "brand": "Erawan Tea Room - Grand Hyatt Erawan",
       "property": "Erawan Tea Room - Grand Hyatt Erawan",
       "city": "Bangkok",
@@ -6884,7 +6897,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_446",
+      "id": "fnb_447",
       "brand": "FLOCK - W Kuala Lumpur",
       "property": "FLOCK - W Kuala Lumpur",
       "city": "Kuala Lumpur",
@@ -6897,7 +6910,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_447",
+      "id": "fnb_448",
       "brand": "Hachi - Sofitel Phnom Penh Phokeethra",
       "property": "Hachi - Sofitel Phnom Penh Phokeethra",
       "city": "Phnom Penh",
@@ -6910,7 +6923,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_448",
+      "id": "fnb_449",
       "brand": "Hawker Hawker - W Macau",
       "property": "Hawker Hawker - W Macau",
       "city": "Macau",
@@ -6923,7 +6936,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_449",
+      "id": "fnb_450",
       "brand": "HEAT - W Xiamen",
       "property": "HEAT - W Xiamen",
       "city": "Xiamen",
@@ -6936,7 +6949,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_450",
+      "id": "fnb_451",
       "brand": "Izakaya by Oku  - Apurva Kempinski Bali",
       "property": "Izakaya by Oku  - Apurva Kempinski Bali",
       "city": "Bali",
@@ -6949,7 +6962,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_451",
+      "id": "fnb_452",
       "brand": "KiSara - Conrad Bangkok",
       "property": "KiSara - Conrad Bangkok",
       "city": "Bangkok",
@@ -6962,7 +6975,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_452",
+      "id": "fnb_453",
       "brand": "La Scala - The Sukhothai Bangkok",
       "property": "La Scala - The Sukhothai Bangkok",
       "city": "Bangkok",
@@ -6975,7 +6988,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_453",
+      "id": "fnb_454",
       "brand": "Langham Club - The Langham Jakarta",
       "property": "Langham Club - The Langham Jakarta",
       "city": "Jakarta",
@@ -6988,7 +7001,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_454",
+      "id": "fnb_455",
       "brand": "Le 17 Bistro - Sofitel Saigon Opera",
       "property": "Le 17 Bistro - Sofitel Saigon Opera",
       "city": "Saigon",
@@ -7001,7 +7014,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_455",
+      "id": "fnb_456",
       "brand": "Lily's - The Ritz-Carlton, Bangkok",
       "property": "Lily's - The Ritz-Carlton, Bangkok",
       "city": "Bangkok",
@@ -7014,7 +7027,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_456",
+      "id": "fnb_457",
       "brand": "Living Room - W Macau",
       "property": "Living Room - W Macau",
       "city": "Macau",
@@ -7027,7 +7040,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_457",
+      "id": "fnb_458",
       "brand": "Lobby Lounge - Mandarin Oriental Macau",
       "property": "Lobby Lounge - Mandarin Oriental Macau",
       "city": "Macau",
@@ -7040,7 +7053,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_458",
+      "id": "fnb_459",
       "brand": "Lobby Lounge - The St. Regis Beijing",
       "property": "Lobby Lounge - The St. Regis Beijing",
       "city": "Beijing",
@@ -7053,7 +7066,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_459",
+      "id": "fnb_460",
       "brand": "Lobo & Juno - The Ritz-Carlton Jakarta",
       "property": "Lobo & Juno - The Ritz-Carlton Jakarta",
       "city": "Jakarta",
@@ -7066,7 +7079,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_460",
+      "id": "fnb_461",
       "brand": "Long Bar - Raffles Macau",
       "property": "Long Bar - Raffles Macau",
       "city": "Macau",
@@ -7079,7 +7092,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_461",
+      "id": "fnb_462",
       "brand": "Long Bar - Raffles Shezhen",
       "property": "Long Bar - Raffles Shezhen",
       "city": "Shenzhen",
@@ -7092,7 +7105,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_462",
+      "id": "fnb_463",
       "brand": "Made in China - Grand Hyatt Beijing",
       "property": "Made in China - Grand Hyatt Beijing",
       "city": "Beijing",
@@ -7105,7 +7118,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_463",
+      "id": "fnb_464",
       "brand": "Nadaman - Kowloon, Shangri-La Hong Kong",
       "property": "Nadaman - Kowloon, Shangri-La Hong Kong",
       "city": "Hong Kong",
@@ -7118,7 +7131,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_464",
+      "id": "fnb_465",
       "brand": "Nammos - Four Seasons Dubai",
       "property": "Nammos - Four Seasons Dubai",
       "city": "Dubai",
@@ -7131,7 +7144,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_465",
+      "id": "fnb_466",
       "brand": "Nautilus Bar - Four Seasons Hotel Jakarta",
       "property": "Nautilus Bar - Four Seasons Hotel Jakarta",
       "city": "Jakarta",
@@ -7144,7 +7157,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_466",
+      "id": "fnb_467",
       "brand": "NINE - W Xiamen",
       "property": "NINE - W Xiamen",
       "city": "Xiamen",
@@ -7157,7 +7170,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_467",
+      "id": "fnb_468",
       "brand": "Oasis Garden - The Prince Gallery Tokyo Kioicho",
       "property": "Oasis Garden - The Prince Gallery Tokyo Kioicho",
       "city": "Tokyo",
@@ -7170,7 +7183,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_468",
+      "id": "fnb_469",
       "brand": "Oh La La - W Osaka",
       "property": "Oh La La - W Osaka",
       "city": "Osaka",
@@ -7183,7 +7196,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_469",
+      "id": "fnb_470",
       "brand": "Orafo - Four Seasons San Francisco at Embarcadero",
       "property": "Orafo - Four Seasons San Francisco at Embarcadero",
       "city": "San Francisco",
@@ -7196,7 +7209,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_470",
+      "id": "fnb_471",
       "brand": "Oriental Pearl - Vinpearl Landmark 81 Hotel",
       "property": "Oriental Pearl - Vinpearl Landmark 81 Hotel",
       "city": "Saigon",
@@ -7209,7 +7222,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_471",
+      "id": "fnb_472",
       "brand": "PA.SO.LA - The Ritz-Carlton Pacific Place",
       "property": "PA.SO.LA - The Ritz-Carlton Pacific Place",
       "city": "Jakarta",
@@ -7222,7 +7235,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_472",
+      "id": "fnb_473",
       "brand": "Pala - Apurva Kempinski Bali",
       "property": "Pala - Apurva Kempinski Bali",
       "city": "Bali",
@@ -7235,7 +7248,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_473",
+      "id": "fnb_474",
       "brand": "Peacock Alley - Waldorf Astoria Xiamen",
       "property": "Peacock Alley - Waldorf Astoria Xiamen",
       "city": "Xiamen",
@@ -7248,7 +7261,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_474",
+      "id": "fnb_475",
       "brand": "Penthouse Grill & Bar - Park Hyatt Bangkok",
       "property": "Penthouse Grill & Bar - Park Hyatt Bangkok",
       "city": "Bangkok",
@@ -7261,7 +7274,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_475",
+      "id": "fnb_476",
       "brand": "Pierre Hermé Paris - The RItz-Carlton Kyoto",
       "property": "Pierre Hermé Paris - The RItz-Carlton Kyoto",
       "city": "Kyoto",
@@ -7274,7 +7287,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_476",
+      "id": "fnb_477",
       "brand": "Pinstripe Bar - Viceroy Bali",
       "property": "Pinstripe Bar - Viceroy Bali",
       "city": "Bali",
@@ -7287,7 +7300,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_477",
+      "id": "fnb_478",
       "brand": "Pool Bar & Grill - Four Seasons Kuala Lumpur",
       "property": "Pool Bar & Grill - Four Seasons Kuala Lumpur",
       "city": "Kuala Lumpur",
@@ -7300,7 +7313,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_478",
+      "id": "fnb_479",
       "brand": "POOLHOUSE - Grand Hyatt Kuala Lumpur",
       "property": "POOLHOUSE - Grand Hyatt Kuala Lumpur",
       "city": "Kuala Lumpur",
@@ -7313,7 +7326,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_479",
+      "id": "fnb_480",
       "brand": "Punchroom - The Singapore EDITION",
       "property": "Punchroom - The Singapore EDITION",
       "city": "Singapore",
@@ -7326,7 +7339,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_480",
+      "id": "fnb_481",
       "brand": "Purnama Honeymoon Bale - Raffles Bali",
       "property": "Purnama Honeymoon Bale - Raffles Bali",
       "city": "Bali",
@@ -7339,7 +7352,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_481",
+      "id": "fnb_482",
       "brand": "Raffles Club - Raffles Jakarta",
       "property": "Raffles Club - Raffles Jakarta",
       "city": "Jakarta",
@@ -7352,7 +7365,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_482",
+      "id": "fnb_483",
       "brand": "Raffles Lounge - Raffles Macau",
       "property": "Raffles Lounge - Raffles Macau",
       "city": "Macau",
@@ -7365,7 +7378,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_483",
+      "id": "fnb_484",
       "brand": "Ritz-Carlton Club - The Ritz-Carlton, Bangkok",
       "property": "Ritz-Carlton Club - The Ritz-Carlton, Bangkok",
       "city": "Bangkok",
@@ -7378,7 +7391,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_484",
+      "id": "fnb_485",
       "brand": "Ritz-Carlton Club - The Ritz-Carlton, Half Moon Bay",
       "property": "Ritz-Carlton Club - The Ritz-Carlton, Half Moon Bay",
       "city": "San Francisco",
@@ -7391,7 +7404,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_485",
+      "id": "fnb_486",
       "brand": "Ritz-Carlton Club - The Ritz-Carlton, Harbin",
       "property": "Ritz-Carlton Club - The Ritz-Carlton, Harbin",
       "city": "Harbin",
@@ -7404,7 +7417,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_486",
+      "id": "fnb_487",
       "brand": "Ritz-Carlton Club - The Ritz-Carlton, Jakarta",
       "property": "Ritz-Carlton Club - The Ritz-Carlton, Jakarta",
       "city": "Jakarta",
@@ -7417,7 +7430,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_487",
+      "id": "fnb_488",
       "brand": "Ritz-Carlton Club - The Ritz-Carlton, Osaka",
       "property": "Ritz-Carlton Club - The Ritz-Carlton, Osaka",
       "city": "Osaka",
@@ -7430,7 +7443,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_488",
+      "id": "fnb_489",
       "brand": "Ritz-Carlton Club - The Ritz-Carlton, Pacific Place",
       "property": "Ritz-Carlton Club - The Ritz-Carlton, Pacific Place",
       "city": "Jakarta",
@@ -7443,7 +7456,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_489",
+      "id": "fnb_490",
       "brand": "Ritz-Carlton Club - The Ritz-Carlton, San Francisco",
       "property": "Ritz-Carlton Club - The Ritz-Carlton, San Francisco",
       "city": "San Francisco",
@@ -7456,7 +7469,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_490",
+      "id": "fnb_491",
       "brand": "Ritz-Carlton Club - The Ritz-Carlton, Singapore",
       "property": "Ritz-Carlton Club - The Ritz-Carlton, Singapore",
       "city": "Singapore",
@@ -7469,7 +7482,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_491",
+      "id": "fnb_492",
       "brand": "ROOF - The Shanghai EDITION",
       "property": "ROOF - The Shanghai EDITION",
       "city": "Shanghai",
@@ -7482,7 +7495,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_492",
+      "id": "fnb_493",
       "brand": "Sailendra - JW Marriott Jakarta",
       "property": "Sailendra - JW Marriott Jakarta",
       "city": "Jakarta",
@@ -7495,7 +7508,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_493",
+      "id": "fnb_494",
       "brand": "Salathip - Shangri-La Bangkok",
       "property": "Salathip - Shangri-La Bangkok",
       "city": "Bangkok",
@@ -7508,7 +7521,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_494",
+      "id": "fnb_495",
       "brand": "San Wu Tang - JEN Beijing",
       "property": "San Wu Tang - JEN Beijing",
       "city": "Beijing",
@@ -7521,7 +7534,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_495",
+      "id": "fnb_496",
       "brand": "Saryo Zeze - Shisui, A Luxury Collection Hotel, Nara",
       "property": "Saryo Zeze - Shisui, A Luxury Collection Hotel, Nara",
       "city": "Nara",
@@ -7534,7 +7547,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_496",
+      "id": "fnb_497",
       "brand": "Shenzhen Kitchen - JW Marriott Shenzhen Bao'an",
       "property": "Shenzhen Kitchen - JW Marriott Shenzhen Bao'an",
       "city": "Shenzhen",
@@ -7547,7 +7560,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_497",
+      "id": "fnb_498",
       "brand": "Sky Gallery Lounge Levita - The Prince Gallery Tokyo Kioicho",
       "property": "Sky Gallery Lounge Levita - The Prince Gallery Tokyo Kioicho",
       "city": "Tokyo",
@@ -7560,7 +7573,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_498",
+      "id": "fnb_499",
       "brand": "Social - The St. Regis Chengdu",
       "property": "Social - The St. Regis Chengdu",
       "city": "Chengdu",
@@ -7573,7 +7586,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_499",
+      "id": "fnb_500",
       "brand": "SoundScape - W Xiamen",
       "property": "SoundScape - W Xiamen",
       "city": "Xiamen",
@@ -7586,7 +7599,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_500",
+      "id": "fnb_501",
       "brand": "SPARK - W Chengdu",
       "property": "SPARK - W Chengdu",
       "city": "Chengdu",
@@ -7599,7 +7612,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_501",
+      "id": "fnb_502",
       "brand": "Spectrum - Fairmont Jakarta",
       "property": "Spectrum - Fairmont Jakarta",
       "city": "Jakarta",
@@ -7612,7 +7625,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_502",
+      "id": "fnb_503",
       "brand": "Spectrum - Hyatt Regency Sukhumvit",
       "property": "Spectrum - Hyatt Regency Sukhumvit",
       "city": "Bangkok",
@@ -7625,7 +7638,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_503",
+      "id": "fnb_504",
       "brand": "St. Regis Bar - The St. Regis Jakarta",
       "property": "St. Regis Bar - The St. Regis Jakarta",
       "city": "Jakarta",
@@ -7638,7 +7651,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_504",
+      "id": "fnb_505",
       "brand": "St. Regis Bar - The St. Regis Osaka",
       "property": "St. Regis Bar - The St. Regis Osaka",
       "city": "Osaka",
@@ -7651,18 +7664,20 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_505",
+      "id": "fnb_506",
       "brand": "Sundara - Four Seasons Bali at Jimbaran Bay",
       "property": "Sundara - Four Seasons Bali at Jimbaran Bay",
       "city": "Bali",
       "category": "F&B Destinations",
       "brandCategory": "",
       "type": "stay",
-      "instagramLinks": [],
+      "instagramLinks": [
+        "https://www.instagram.com/reel/DahQR1fSy5c/?igsh=MWx3Y2o4YXd0bDJ4NQ=="
+      ],
       "googleMaps": ""
     },
     {
-      "id": "fnb_506",
+      "id": "fnb_507",
       "brand": "Sushi Bar @ Library - The Hotel Seryu Kyot Kiyomizu",
       "property": "Sushi Bar @ Library - The Hotel Seryu Kyot Kiyomizu",
       "city": "Kyoto",
@@ -7675,7 +7690,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_507",
+      "id": "fnb_508",
       "brand": "Tam Chai Yu Chun - Galaxy Macau",
       "property": "Tam Chai Yu Chun - Galaxy Macau",
       "city": "Macau",
@@ -7688,7 +7703,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_508",
+      "id": "fnb_509",
       "brand": "Tapas Bar - Kowloon, Shangri-La Hong Kong",
       "property": "Tapas Bar - Kowloon, Shangri-La Hong Kong",
       "city": "Hong Kong",
@@ -7701,7 +7716,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_509",
+      "id": "fnb_510",
       "brand": "The Apron - Galaxy Macau",
       "property": "The Apron - Galaxy Macau",
       "city": "Macau",
@@ -7714,7 +7729,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_510",
+      "id": "fnb_511",
       "brand": "The Blue Room - The Tokyo EDITION, Toranomon",
       "property": "The Blue Room - The Tokyo EDITION, Toranomon",
       "city": "Tokyo",
@@ -7727,7 +7742,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_511",
+      "id": "fnb_512",
       "brand": "The BLVD - Beverly Wilshire, A Four Seasons Hotel",
       "property": "The BLVD - Beverly Wilshire, A Four Seasons Hotel",
       "city": "Los Angeles",
@@ -7740,7 +7755,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_512",
+      "id": "fnb_513",
       "brand": "The Courtyard - Fullerton Singapore",
       "property": "The Courtyard - Fullerton Singapore",
       "city": "Singapore",
@@ -7753,7 +7768,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_513",
+      "id": "fnb_514",
       "brand": "The Kitchen Table - W Shanghai",
       "property": "The Kitchen Table - W Shanghai",
       "city": "Shanghai",
@@ -7766,7 +7781,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_514",
+      "id": "fnb_515",
       "brand": "The Lobby Bar - The Tokyo EDITION, Toranomon",
       "property": "The Lobby Bar - The Tokyo EDITION, Toranomon",
       "city": "Tokyo",
@@ -7779,7 +7794,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_515",
+      "id": "fnb_516",
       "brand": "The Lounge - JW Marriott Shenzhen Bao'an",
       "property": "The Lounge - JW Marriott Shenzhen Bao'an",
       "city": "Shenzhen",
@@ -7792,7 +7807,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_516",
+      "id": "fnb_517",
       "brand": "The Lounge - The Ritz Carlton, San Francisco",
       "property": "The Lounge - The Ritz Carlton, San Francisco",
       "city": "San Francisco",
@@ -7805,7 +7820,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_517",
+      "id": "fnb_518",
       "brand": "The Lounge at FS - Four Seasons Kuala Lumpur",
       "property": "The Lounge at FS - Four Seasons Kuala Lumpur",
       "city": "Kuala Lumpur",
@@ -7818,7 +7833,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_518",
+      "id": "fnb_519",
       "brand": "The St. Regis Bar - The St. Regis Chengdu",
       "property": "The St. Regis Bar - The St. Regis Chengdu",
       "city": "Chengdu",
@@ -7831,7 +7846,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_519",
+      "id": "fnb_520",
       "brand": "The St. Regis Bar - The St. Regis Zhuhai",
       "property": "The St. Regis Bar - The St. Regis Zhuhai",
       "city": "Zhuhai",
@@ -7844,7 +7859,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_520",
+      "id": "fnb_521",
       "brand": "The Summit - Shangri-La Singapore Valley Wing",
       "property": "The Summit - Shangri-La Singapore Valley Wing",
       "city": "Singapore",
@@ -7857,7 +7872,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_521",
+      "id": "fnb_522",
       "brand": "THIRTY8 - Grand Hyatt Kuala Lumpur",
       "property": "THIRTY8 - Grand Hyatt Kuala Lumpur",
       "city": "Kuala Lumpur",
@@ -7870,7 +7885,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_522",
+      "id": "fnb_523",
       "brand": "Tian Jing Lou - InterContinental Bandung",
       "property": "Tian Jing Lou - InterContinental Bandung",
       "city": "Bandung",
@@ -7883,7 +7898,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_523",
+      "id": "fnb_524",
       "brand": "Top of The Mark - InterContinental Mark Hopkins San Francisco",
       "property": "Top of The Mark - InterContinental Mark Hopkins San Francisco",
       "city": "San Francisco",
@@ -7896,7 +7911,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_524",
+      "id": "fnb_525",
       "brand": "Town Restaurant - Fullerton Singapore",
       "property": "Town Restaurant - Fullerton Singapore",
       "city": "Singapore",
@@ -7909,7 +7924,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_525",
+      "id": "fnb_526",
       "brand": "Vida Rica Bar - Mandarin Oriental Macau",
       "property": "Vida Rica Bar - Mandarin Oriental Macau",
       "city": "Macau",
@@ -7922,7 +7937,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_526",
+      "id": "fnb_527",
       "brand": "W Lounge - W Bangkok",
       "property": "W Lounge - W Bangkok",
       "city": "Bangkok",
@@ -7935,7 +7950,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_527",
+      "id": "fnb_528",
       "brand": "WEI - W Xi'an",
       "property": "WEI - W Xi'an",
       "city": "Xi'an",
@@ -7948,7 +7963,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_528",
+      "id": "fnb_529",
       "brand": "Wet Deck - W Kuala Lumpur",
       "property": "Wet Deck - W Kuala Lumpur",
       "city": "Kuala Lumpur",
@@ -7961,7 +7976,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_529",
+      "id": "fnb_530",
       "brand": "WET Deck - W Shanghai",
       "property": "WET Deck - W Shanghai",
       "city": "Shanghai",
@@ -7974,7 +7989,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_530",
+      "id": "fnb_531",
       "brand": "WOOBAR - W Taipei",
       "property": "WOOBAR - W Taipei",
       "city": "Taipei",
@@ -7987,7 +8002,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_531",
+      "id": "fnb_532",
       "brand": "WooBar - W Xi'an",
       "property": "WooBar - W Xi'an",
       "city": "Xi'an",
@@ -8000,7 +8015,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_532",
+      "id": "fnb_533",
       "brand": "Writers Bar - Raffles Jakarta",
       "property": "Writers Bar - Raffles Jakarta",
       "city": "Jakarta",
@@ -8013,7 +8028,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_533",
+      "id": "fnb_534",
       "brand": "Writers Bar - Raffles Makati",
       "property": "Writers Bar - Raffles Makati",
       "city": "Manila",
@@ -8026,7 +8041,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_534",
+      "id": "fnb_535",
       "brand": "Yan Ting - The St. Regis Chengdu",
       "property": "Yan Ting - The St. Regis Chengdu",
       "city": "Chengdu",
@@ -8039,7 +8054,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_535",
+      "id": "fnb_536",
       "brand": "YEN - W Xi'an",
       "property": "YEN - W Xi'an",
       "city": "Xi'an",
@@ -8052,7 +8067,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_536",
+      "id": "fnb_537",
       "brand": "Yun Fu - The St. Regis Chengdu",
       "property": "Yun Fu - The St. Regis Chengdu",
       "city": "Chengdu",
@@ -8065,7 +8080,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_537",
+      "id": "fnb_538",
       "brand": "Yun House - Four Seasons Kuala Lumpur",
       "property": "Yun House - Four Seasons Kuala Lumpur",
       "city": "Kuala Lumpur",
@@ -8078,7 +8093,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_538",
+      "id": "fnb_539",
       "brand": "Yun Jing - Raffles Shezhen",
       "property": "Yun Jing - Raffles Shezhen",
       "city": "Shenzhen",
@@ -8091,7 +8106,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_539",
+      "id": "fnb_540",
       "brand": "ZING - W Chengdu",
       "property": "ZING - W Chengdu",
       "city": "Chengdu",
@@ -8104,7 +8119,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_540",
+      "id": "fnb_541",
       "brand": "% Arabica Kyoto",
       "property": "% Arabica Kyoto",
       "city": "Kyoto",
@@ -8117,7 +8132,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_541",
+      "id": "fnb_542",
       "brand": "% Arabica Roastery",
       "property": "% Arabica Roastery",
       "city": "Jakarta",
@@ -8130,7 +8145,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_542",
+      "id": "fnb_543",
       "brand": "71st Omakase",
       "property": "71st Omakase",
       "city": "Jakarta",
@@ -8143,7 +8158,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_543",
+      "id": "fnb_544",
       "brand": "Atsumaru Izakaya",
       "property": "Atsumaru Izakaya",
       "city": "Jakarta",
@@ -8156,7 +8171,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_544",
+      "id": "fnb_545",
       "brand": "Ayutthaya Grand River Cruise",
       "property": "Ayutthaya Grand River Cruise",
       "city": "Bangkok",
@@ -8169,7 +8184,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_545",
+      "id": "fnb_546",
       "brand": "BK Salon",
       "property": "BK Salon",
       "city": "Bangkok",
@@ -8182,7 +8197,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_546",
+      "id": "fnb_547",
       "brand": "Blackjack",
       "property": "Blackjack",
       "city": "Jakarta",
@@ -8195,7 +8210,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_547",
+      "id": "fnb_548",
       "brand": "Blue Bottle Kyoto",
       "property": "Blue Bottle Kyoto",
       "city": "Kyoto",
@@ -8208,7 +8223,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_548",
+      "id": "fnb_549",
       "brand": "Bouchon Jakarta",
       "property": "Bouchon Jakarta",
       "city": "Jakarta",
@@ -8221,7 +8236,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_549",
+      "id": "fnb_550",
       "brand": "Breman85",
       "property": "Breman85",
       "city": "Jakarta",
@@ -8234,18 +8249,20 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_550",
+      "id": "fnb_551",
       "brand": "Cafe Del Mar",
       "property": "Cafe Del Mar",
       "city": "Bali",
       "category": "F&B Destinations",
       "brandCategory": "",
       "type": "restaurant",
-      "instagramLinks": [],
+      "instagramLinks": [
+        "https://www.instagram.com/reel/DaiPjOcyT1R/?igsh=dDMxZjY4OHNzY3Ix"
+      ],
       "googleMaps": ""
     },
     {
-      "id": "fnb_551",
+      "id": "fnb_552",
       "brand": "Cafe Kissa",
       "property": "Cafe Kissa",
       "city": "Jakarta",
@@ -8258,7 +8275,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_552",
+      "id": "fnb_553",
       "brand": "Caffe Milano",
       "property": "Caffe Milano",
       "city": "Jakarta",
@@ -8271,7 +8288,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_553",
+      "id": "fnb_554",
       "brand": "Coriander Leaf",
       "property": "Coriander Leaf",
       "city": "Singapore",
@@ -8284,7 +8301,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_554",
+      "id": "fnb_555",
       "brand": "Cork & Screw Country Club",
       "property": "Cork & Screw Country Club",
       "city": "Jakarta",
@@ -8297,7 +8314,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_555",
+      "id": "fnb_556",
       "brand": "Coucou Authentic Swiss Restaurant",
       "property": "Coucou Authentic Swiss Restaurant",
       "city": "Singapore",
@@ -8310,7 +8327,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_556",
+      "id": "fnb_557",
       "brand": "Cuca",
       "property": "Cuca",
       "city": "Bali",
@@ -8323,7 +8340,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_557",
+      "id": "fnb_558",
       "brand": "D'RIM Korean Steak House",
       "property": "D'RIM Korean Steak House",
       "city": "Singapore",
@@ -8336,7 +8353,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_558",
+      "id": "fnb_559",
       "brand": "Dailah Sajian Nusantara",
       "property": "Dailah Sajian Nusantara",
       "city": "Jakarta",
@@ -8349,7 +8366,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_559",
+      "id": "fnb_560",
       "brand": "DWNTWN Plaju",
       "property": "DWNTWN Plaju",
       "city": "Jakarta",
@@ -8362,7 +8379,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_560",
+      "id": "fnb_561",
       "brand": "Goodtime Jakarta",
       "property": "Goodtime Jakarta",
       "city": "Jakarta",
@@ -8375,7 +8392,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_561",
+      "id": "fnb_562",
       "brand": "Greyhound Cafe",
       "property": "Greyhound Cafe",
       "city": "Jakarta",
@@ -8388,7 +8405,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_562",
+      "id": "fnb_563",
       "brand": "Gyukatsu Kyoto Katsugyu",
       "property": "Gyukatsu Kyoto Katsugyu",
       "city": "Jakarta",
@@ -8401,7 +8418,7 @@
       "googleMaps": ""
     },
     {
-      "id": "fnb_563",
+      "id": "fnb_564",
       "brand": "Gyushige",
       "property": "Gyushige",
       "city": "Jakarta",
@@ -8411,17 +8428,6 @@
       "instagramLinks": [
         "https://www.instagram.com/p/C9c4tkfyZns/"
       ],
-      "googleMaps": ""
-    },
-    {
-      "id": "fnb_564",
-      "brand": "Hedonist",
-      "property": "Hedonist",
-      "city": "Bali",
-      "category": "F&B Destinations",
-      "brandCategory": "",
-      "type": "restaurant",
-      "instagramLinks": [],
       "googleMaps": ""
     },
     {
@@ -8653,7 +8659,9 @@
       "category": "F&B Destinations",
       "brandCategory": "",
       "type": "restaurant",
-      "instagramLinks": [],
+      "instagramLinks": [
+        "https://www.instagram.com/reel/Dak6mwUyR6K/?igsh=MXFiMnhlc213aTExdw=="
+      ],
       "googleMaps": ""
     },
     {
@@ -9093,7 +9101,9 @@
       "category": "F&B Destinations",
       "brandCategory": "",
       "type": "restaurant",
-      "instagramLinks": [],
+      "instagramLinks": [
+        "https://www.instagram.com/reel/DahcksrSkTU/?igsh=MWkxdjV4ZHNtNW9vcg=="
+      ],
       "googleMaps": ""
     },
     {
@@ -10801,7 +10811,7 @@
     }
   ],
   "stats": {
-    "hotels": 328,
+    "hotels": 329,
     "cities": 62,
     "countries": 30
   }
