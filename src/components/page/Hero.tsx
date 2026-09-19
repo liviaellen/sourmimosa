@@ -23,7 +23,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-xl md:text-2xl text-gray-300 font-light tracking-widest uppercase"
         >
-          Luxury Travel Creator &amp; Hospitality Content Producer
+          Luxury Lifestyle Content Creator
         </motion.p>
       </div>
 
