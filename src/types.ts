@@ -17,9 +17,8 @@ export interface PortfolioItem {
 export interface PortfolioData {
   portfolio: PortfolioItem[];
   stats: {
-    totalItems: number;
     hotels: number;
-    fnb: number;
-    beyond: number;
+    cities: number;
+    countries: number;
   };
 }

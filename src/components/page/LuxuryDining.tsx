@@ -32,12 +32,13 @@ const LuxuryDining = () => {
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
           >
+            <span className="text-brand-gold uppercase tracking-[0.3em] text-xs font-bold mb-4 block">Luxury Hospitality</span>
             <h2 className="text-5xl md:text-7xl font-display uppercase leading-none mb-8">
-              <span className="block text-brand-gold">Luxury</span>
-              F&B Partners
+              Dining &amp;
+              <span className="block text-brand-gold">Culinary</span>
             </h2>
             <div className="w-24 h-1 bg-brand-gold mb-8" />
-            <h3 className="text-3xl font-bebas tracking-wide mb-6">Dining & Lifestyle</h3>
+            <h3 className="text-3xl font-bebas tracking-wide mb-6">F&B Partners</h3>
           </motion.div>
 
           <motion.div
@@ -48,10 +49,10 @@ const LuxuryDining = () => {
             className="text-gray-300 font-light text-lg space-y-6 leading-relaxed"
           >
             <p>
-              Expanding his focus from luxury travel to fine dining, Genta leverages his passion for the culinary arts to captivate and inspire his audience. What began as a personal love for food evolved into sharing his dining experiences, where his storytelling style quickly resonated with his followers. His content showcases specialty dishes, seasonal promotions, and dining recommendations, providing restaurants with valuable exposure to an affluent clientele.
+              Dining is where hospitality gets intimate — a few hours, a handful of dishes, a story worth remembering. It's a natural extension of the hotel work: the same eye and the same audience, brought to a sharper focus.
             </p>
             <p>
-              Genta has partnered with over 380 luxury dining establishments worldwide, including Michelin-starred restaurants and Asia’s Best 50 Restaurants and Bars. From Japan, The United States, China to the Philippines, Dubai, Singapore, Thailand, and Indonesia, he introduces his audience to world-class dining experiences while helping restaurants engage a high-end, discerning audience.
+              I've partnered with more than 380 restaurants, bars and culinary destinations worldwide, including Michelin-starred kitchens and honorees of Asia's 50 Best Restaurants and Bars, spanning Japan, the United States, China, the Philippines, Dubai, Singapore, Thailand and Indonesia.
             </p>
           </motion.div>
         </div>

@@ -17,14 +17,14 @@ const About = () => {
           >
             {/* "IT'S ME" Tag */}
             <div className="bg-brand-cream text-brand-dark font-display text-xl px-4 py-1 absolute -top-4 left-4 z-20 uppercase tracking-wide">
-              It's Me
+              Genta Mansyur
             </div>
 
             <div className="relative border-8 border-brand-cream/5 shadow-2xl bg-[#1a1a1a]">
               <div className="aspect-[3/4] overflow-hidden grayscale hover:grayscale-0 transition-all duration-700">
                 <img
                   src={`${import.meta.env.BASE_URL}images/profile.png`}
-                  alt="Genta"
+                  alt="Genta Mansyur, founder of SOURMIMOSA"
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -54,11 +54,14 @@ const About = () => {
             >
               {/* Bio Text */}
               <div className="space-y-4 font-light text-gray-400 text-sm leading-relaxed">
-                <p>
-                  With the rise of discerning luxury travelers in the post-pandemic era, Genta aims to inspire his audience by showcasing exceptional properties through authentic storytelling. His content provides travelers with curated options while helping hotels and resorts strengthen their brand visibility to high-value guests.
+                <p className="text-brand-gold text-xs uppercase tracking-widest font-bold">
+                  Founder &amp; Creator, SOURMIMOSA — Based in London
                 </p>
                 <p>
-                  From luxury travel to fine dining and lifestyle, Genta leverages his passion for the culinary arts to captivate his audience.
+                  I create visual stories for exceptional hotels, resorts and dining destinations. Over the years I've partnered with leading hospitality brands across Asia, Europe and beyond, combining the eye of a guest with the reach of an established luxury travel audience.
+                </p>
+                <p>
+                  My work splits into two parts: editorial storytelling published through SOURMIMOSA's own channels, and content production built for a property's own marketing. Both start from the same idea — a hotel's strongest asset is a guest who tells its story well.
                 </p>
               </div>
 
@@ -88,9 +91,9 @@ const About = () => {
               className="grid grid-cols-3 gap-2 md:gap-4 mt-12 border-t border-brand-cream/10 pt-8"
             >
               {[
-                { label: 'Collaborations', value: '230', sub: 'Hotels & Resorts' },
-                { label: 'Partnerships', value: '380+', sub: 'Worldwide' },
-                { label: 'Followers', value: '560K', sub: 'Audience' },
+                { label: 'Collaborations', value: '230+', sub: 'Hotels & Resorts' },
+                { label: 'Partnerships', value: '380+', sub: 'Dining & Culinary' },
+                { label: 'Audience', value: '560K+', sub: 'Worldwide' },
               ].map((stat, i) => (
                 <div key={i} className="flex flex-col items-center text-center group">
                   <div className="w-20 h-20 md:w-24 md:h-24 rounded-full border border-brand-gold/30 flex flex-col items-center justify-center bg-brand-dark/50 group-hover:border-brand-gold group-hover:bg-brand-gold/10 transition-all duration-500 mb-3 relative overflow-hidden">

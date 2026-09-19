@@ -4,8 +4,11 @@ import PortfolioGrid from '../components/portfolio/PortfolioGrid';
 import About from '../components/page/About';
 import LuxuryPartners from '../components/page/LuxuryPartners';
 import LuxuryDining from '../components/page/LuxuryDining';
+import CaseStudies from '../components/page/CaseStudies';
 import Navbar from '../components/layout/Navbar';
 import Testimonials from '../components/page/Testimonials';
+import { Link } from 'react-router-dom';
+import { ArrowRight } from 'lucide-react';
 
 // Example data populated from portfolio highlights
 const SECTIONS = [
@@ -50,10 +53,6 @@ const HomePage = () => {
       </div>
 
       <main>
-        <div id="about">
-          <About />
-        </div>
-
         {/* Hotel Block */}
         <LuxuryPartners />
         <CategorySection
@@ -81,16 +80,40 @@ const HomePage = () => {
           filterCategory="F&B Destinations"
         />
 
+        <CaseStudies />
+
+        <div id="about">
+          <About />
+        </div>
+
         <Testimonials />
         <PortfolioGrid
           title="Portfolio"
           subtitle="Explore a curated collection of luxury hotels, culinary destinations, and exclusive experiences."
         />
+
+        {/* Work With Genta CTA */}
+        <section className="py-24 bg-brand-gray border-t border-white/5 text-center">
+          <div className="container mx-auto px-4 max-w-2xl">
+            <span className="text-brand-gold uppercase tracking-[0.3em] text-xs font-bold mb-4 block">Hospitality Partnerships</span>
+            <h2 className="text-4xl md:text-6xl font-display uppercase text-brand-cream mb-6">Work With Genta</h2>
+            <p className="text-gray-400 font-light mb-10">
+              Editorial storytelling, content production, campaigns and long-term partnerships for hotels, resorts and dining destinations.
+            </p>
+            <Link
+              to="/work-with-genta"
+              className="group inline-flex items-center gap-2 px-8 py-4 bg-brand-gold text-brand-dark text-sm font-bold uppercase tracking-widest hover:bg-white transition-all rounded-sm"
+            >
+              Work With Genta
+              <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
+            </Link>
+          </div>
+        </section>
       </main>
 
       <footer className="py-20 text-center border-t border-white/10 bg-brand-gray">
         <h3 className="text-2xl font-bold mb-4 tracking-widest text-brand-gold">SOURMIMOSA</h3>
-        <p className="text-gray-500">by Genta</p>
+        <p className="text-gray-500">Genta Mansyur, Founder</p>
         <div className="mt-8 flex justify-center gap-6">
           <a href="https://instagram.com/sourmimosa" className="text-gray-400 hover:text-white transition-colors">Instagram</a>
           <a href="mailto:genta@sourmimosa.com" className="text-gray-400 hover:text-white transition-colors">Contact</a>

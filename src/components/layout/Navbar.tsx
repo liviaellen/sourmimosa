@@ -21,9 +21,9 @@ const Navbar = () => {
     { name: 'About', href: '#about' },
     { name: 'Hotel', href: '#hotel' },
     { name: 'F&B', href: '#fnb' },
-    { name: 'Restaurant', href: '#restaurant' },
+    { name: 'Portfolio', href: '/portfolio', isPage: true },
     { name: 'Contact', href: '/contact', isPage: true },
-    { name: 'Portfolio', href: '/portfolio', isPage: true, highlight: true },
+    { name: 'Work With Genta', href: '/work-with-genta', isPage: true, highlight: true },
   ];
 
   const handleNavClick = (link: { name: string; href: string; isPage?: boolean }) => {

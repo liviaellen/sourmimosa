@@ -24,7 +24,7 @@ const PortfolioPage = () => {
 
       <footer className="py-20 text-center border-t border-white/10 bg-brand-gray mt-20">
         <h3 className="text-2xl font-bold mb-4 tracking-widest text-brand-gold">SOURMIMOSA</h3>
-        <p className="text-gray-500">by Genta</p>
+        <p className="text-gray-500">Genta Mansyur, Founder</p>
       </footer>
     </div>
   );

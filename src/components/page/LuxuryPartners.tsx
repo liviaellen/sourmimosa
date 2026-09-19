@@ -32,9 +32,10 @@ const LuxuryPartners = () => {
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
           >
+            <span className="text-brand-gold uppercase tracking-[0.3em] text-xs font-bold mb-4 block">Luxury Hospitality</span>
             <h2 className="text-5xl md:text-7xl font-display uppercase leading-none mb-8">
-              <span className="block text-brand-gold">Luxury</span>
-              Properties
+              Hotels &amp;
+              <span className="block text-brand-gold">Resorts</span>
             </h2>
             <div className="w-24 h-1 bg-brand-gold mb-8" />
             <h3 className="text-3xl font-bebas tracking-wide mb-6">Partners</h3>
@@ -48,10 +49,10 @@ const LuxuryPartners = () => {
             className="text-gray-300 font-light text-lg space-y-6 leading-relaxed"
           >
             <p>
-              With the rise of discerning luxury travelers in the post-pandemic era, marked by the opening of new high-end hotels, more mindful spending, and guests who invest significant time researching online before booking, Genta aims to inspire his audience by showcasing exceptional properties through authentic storytelling. His content provides travelers with curated options while helping hotels and resorts strengthen their brand visibility to high-value guests.
+              A hotel is judged on how it makes people feel, and increasingly on how well that feeling comes across online. I work at that intersection — editorial storytelling that shows a property at its best, and production-grade content a hotel can put to work on its own channels.
             </p>
             <p>
-              Genta has partnered with over 70 luxury and premium brands, including major international hospitality groups, boutique hotel collections, and independent properties and villas, covering more than 280 destinations worldwide. He continues to expand his portfolio to include more countries and regions worldwide.
+              That's meant partnering with more than 70 luxury and premium hospitality groups, boutique collections and independent properties and villas, across 280+ destinations worldwide — and growing.
             </p>
           </motion.div>
         </div>

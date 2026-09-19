@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import Navbar from '../components/layout/Navbar';
-import { Mail, ArrowRight } from 'lucide-react';
+import { Mail, ArrowRight, Phone } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const ContactPage = () => {
@@ -25,11 +26,12 @@ const ContactPage = () => {
           >
             <h1 className="text-6xl md:text-8xl font-display uppercase text-brand-cream mb-6">Get in Touch</h1>
             <p className="text-xl text-gray-400 font-light max-w-2xl mx-auto mb-16">
-              For inquiries, collaborations, or just to say hello, feel free to reach out.
+              Planning a hotel campaign, launch, destination collaboration or content production project?
+              I'd love to hear about it.
             </p>
           </motion.div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-stretch">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-stretch">
             {/* Email Card */}
             <motion.a
               href="mailto:genta@sourmimosa.com"
@@ -44,7 +46,25 @@ const ContactPage = () => {
               </div>
               <div className="text-center relative z-10">
                 <h3 className="text-sm font-bold uppercase tracking-widest text-gray-500 mb-2">Email</h3>
-                <span className="text-2xl md:text-3xl font-display text-brand-cream block group-hover:text-white transition-colors">genta@sourmimosa.com</span>
+                <span className="text-lg sm:text-xl md:text-2xl font-display text-brand-cream block break-words group-hover:text-white transition-colors">genta@sourmimosa.com</span>
+              </div>
+            </motion.a>
+
+            {/* Phone Card */}
+            <motion.a
+              href="tel:+14156380329"
+              initial={{ opacity: 0, y: 30 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.8, delay: 0.3 }}
+              className="group bg-brand-gray border border-white/10 p-12 flex flex-col items-center justify-center gap-6 hover:border-brand-gold transition-all duration-500 rounded-sm relative overflow-hidden"
+            >
+              <div className="absolute inset-0 bg-gradient-to-br from-brand-gold/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+              <div className="w-16 h-16 rounded-full bg-brand-dark border border-brand-gold/30 flex items-center justify-center group-hover:scale-110 transition-transform duration-500">
+                <Phone className="w-8 h-8 text-brand-gold" />
+              </div>
+              <div className="text-center relative z-10">
+                <h3 className="text-sm font-bold uppercase tracking-widest text-gray-500 mb-2">Phone</h3>
+                <span className="text-lg sm:text-xl md:text-2xl font-display text-brand-cream block group-hover:text-white transition-colors">+1 (415) 638-0329</span>
               </div>
             </motion.a>
 
@@ -81,12 +101,27 @@ const ContactPage = () => {
               </div>
             </motion.a>
           </div>
+
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 0.8, delay: 0.6 }}
+            className="mt-12"
+          >
+            <Link
+              to="/work-with-genta"
+              className="inline-flex items-center gap-2 text-brand-gold uppercase tracking-widest text-sm hover:text-white transition-colors"
+            >
+              See how hotels and brands work with Genta
+              <ArrowRight className="w-4 h-4" />
+            </Link>
+          </motion.div>
         </div>
       </main>
 
       <footer className="py-20 text-center border-t border-white/10 bg-brand-gray">
         <h3 className="text-2xl font-bold mb-4 tracking-widest text-brand-gold">SOURMIMOSA</h3>
-        <p className="text-gray-500">by Genta</p>
+        <p className="text-gray-500">Genta Mansyur, Founder</p>
       </footer>
     </div>
   );
