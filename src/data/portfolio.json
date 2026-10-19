@@ -626,21 +626,6 @@
     {
       "id": "hotel_40",
       "brand": "",
-      "property": "Mandarin Orienta, Jakarta",
-      "city": "Jakarta",
-      "category": "Hotels & Resorts",
-      "brandCategory": "A Ultra Luxury",
-      "type": "hotel",
-      "instagramLinks": [
-        "https://www.instagram.com/p/Ddmbk7Wn9_Z/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
-        "https://www.instagram.com/stories/highlights/18090941693182679/",
-        "https://www.instagram.com/reel/DdmcTp_STvv/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
-      ],
-      "googleMaps": "https://maps.app.goo.gl/XNJC1tWWqRFhowp99"
-    },
-    {
-      "id": "hotel_41",
-      "brand": "",
       "property": "Mandarin Oriental Hyde Park, London 🗝️🗝️🗝️",
       "city": "London",
       "category": "Hotels & Resorts",
@@ -648,12 +633,15 @@
       "type": "hotel",
       "instagramLinks": [
         "https://www.instagram.com/p/DeR9tbTiJYB/?dlrf=Y3RyNXo2Y2o1dnho",
-        "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MTE4ODQzMzc4OTg3ODY2?dlrf=ZzhoZ210NDYzMGV0"
+        "https://www.instagram.com/p/DenXiaAiO3a/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MTE4ODQzMzc4OTg3ODY2?dlrf=ZzhoZ210NDYzMGV0",
+        "https://www.instagram.com/reel/DenWudvIEbT/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/reel/DenYGGpINR6/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
       ],
-      "googleMaps": "SOON"
+      "googleMaps": ""
     },
     {
-      "id": "hotel_42",
+      "id": "hotel_41",
       "brand": "",
       "property": "Mandarin Oriental Mayfair, London 🗝️🗝️",
       "city": "London",
@@ -666,10 +654,10 @@
         "https://www.instagram.com/reel/Deeh-RptQwx/?psln=aHYyNHdoaWFiYmNt",
         "https://www.instagram.com/reel/Deeid1cNy6b/?dlrf=MXduYmc4eDJtNTR4bQ=="
       ],
-      "googleMaps": "https://www.google.com/maps/place/Mandarin+Oriental+Mayfair,+London/@51.5132789,-0.1465628,850m/data=!3m1!1e3!4m11!3m10!1s0x487605510e42572b:0x7b70b04401869fac!5m2!4m1!1i2!8m2!3d51.5132756!4d-0.1439879!9m1!1b1!16s%2Fg%2F11sbt__yj3?authuser=1&entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D"
+      "googleMaps": "https://maps.app.goo.gl/uoeMYeomieh83A5K9"
     },
     {
-      "id": "hotel_43",
+      "id": "hotel_42",
       "brand": "",
       "property": "Mandarin Oriental, Bangkok 🗝️🗝️🗝️",
       "city": "Bangkok",
@@ -685,7 +673,7 @@
       "googleMaps": "https://maps.app.goo.gl/qJWoMxcnc4JEqJdXA"
     },
     {
-      "id": "hotel_44",
+      "id": "hotel_43",
       "brand": "",
       "property": "Mandarin Oriental, Hong Kong 🗝️",
       "city": "Hong Kong",
@@ -698,6 +686,21 @@
         "https://www.instagram.com/reel/DYhhMlQS9CX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
       ],
       "googleMaps": "https://maps.app.goo.gl/nV2uieNtEJrJv3A28"
+    },
+    {
+      "id": "hotel_44",
+      "brand": "",
+      "property": "Mandarin Oriental, Jakarta",
+      "city": "Jakarta",
+      "category": "Hotels & Resorts",
+      "brandCategory": "A Ultra Luxury",
+      "type": "hotel",
+      "instagramLinks": [
+        "https://www.instagram.com/p/Ddmbk7Wn9_Z/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/stories/highlights/18090941693182679/",
+        "https://www.instagram.com/reel/DdmcTp_STvv/?utm_source=ig_web_copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/XNJC1tWWqRFhowp99"
     },
     {
       "id": "hotel_45",
@@ -787,7 +790,7 @@
       "property": "The Connaught 🗝️🗝️🗝️",
       "city": "London",
       "category": "Hotels & Resorts",
-      "brandCategory": "",
+      "brandCategory": "A Ultra Luxury",
       "type": "hotel",
       "instagramLinks": [
         "https://www.instagram.com/p/DeR9tbTiJYB/?dlrf=Y3RyNXo2Y2o1dnho",
@@ -1129,7 +1132,7 @@
     {
       "id": "hotel_70",
       "brand": "",
-      "property": "The Ritz-Carlton, Fukuoka 🗝️",
+      "property": "The Ritz-Carlton, Fukuoka 🗝���",
       "city": "Fukuoka",
       "category": "Hotels & Resorts",
       "brandCategory": "A Ultra Luxury",
@@ -1496,7 +1499,7 @@
     {
       "id": "hotel_92",
       "brand": "",
-      "property": "The St. Regis on the Bund, Shanghai ",
+      "property": "The St. Regis on the Bund, Shanghai  🗝️",
       "city": "Shanghai",
       "category": "Hotels & Resorts",
       "brandCategory": "A Ultra Luxury",
@@ -1583,7 +1586,7 @@
       "property": "Waldorf Astoria Chengdu",
       "city": "Chengdu",
       "category": "Hotels & Resorts",
-      "brandCategory": "",
+      "brandCategory": "A Ultra Luxury",
       "type": "hotel",
       "instagramLinks": [],
       "googleMaps": "SOON"
@@ -2613,7 +2616,7 @@
       "property": "Conrad Hong Kong",
       "city": "Hong Kong",
       "category": "Hotels & Resorts",
-      "brandCategory": "",
+      "brandCategory": "C Lower Luxury",
       "type": "hotel",
       "instagramLinks": [],
       "googleMaps": "SOON"
