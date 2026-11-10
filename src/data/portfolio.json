@@ -6055,6 +6055,19 @@
     },
     {
       "id": "fnb_376",
+      "brand": "Duet by David Tautain ⭐️ - The Ritz-Carlton, Bangkok",
+      "property": "Duet by David Tautain ⭐️ - The Ritz-Carlton, Bangkok",
+      "city": "Bangkok",
+      "category": "F&B Destinations",
+      "brandCategory": "",
+      "type": "restaurant",
+      "instagramLinks": [
+        "https://www.instagram.com/reel/DLSUu8eJNge/?utm_source=ig_web_copy_link"
+      ],
+      "googleMaps": "https://maps.app.goo.gl/FQzi3CvgiW7HxQkM6"
+    },
+    {
+      "id": "fnb_377",
       "brand": "Elements, Inspired by Ciel Bleu ⭐️ - The Okura Prestige Bangkok",
       "property": "Elements, Inspired by Ciel Bleu ⭐️ - The Okura Prestige Bangkok",
       "city": "Bangkok",
@@ -6067,7 +6080,7 @@
       "googleMaps": "https://maps.app.goo.gl/jNAjJsER9Gru7rdY8?g_st=ic"
     },
     {
-      "id": "fnb_377",
+      "id": "fnb_378",
       "brand": "FRASSI ⭐️",
       "property": "FRASSI ⭐️",
       "city": "Taipei",
@@ -6080,7 +6093,7 @@
       "googleMaps": "https://maps.app.goo.gl/8MACUTqUvNyeAuuaA"
     },
     {
-      "id": "fnb_378",
+      "id": "fnb_379",
       "brand": "Frog by Adam Handling ⭐️",
       "property": "Frog by Adam Handling ⭐️",
       "city": "London",
@@ -6091,7 +6104,7 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "fnb_379",
+      "id": "fnb_380",
       "brand": "GAA ⭐️⭐️",
       "property": "GAA ⭐️⭐️",
       "city": "Bangkok",
@@ -6104,7 +6117,7 @@
       "googleMaps": "https://maps.app.goo.gl/puSmFDk3rmMiF56o7?g_st=ic"
     },
     {
-      "id": "fnb_380",
+      "id": "fnb_381",
       "brand": "Hélène Darroze at The Connaught ⭐️⭐️⭐️",
       "property": "Hélène Darroze at The Connaught ⭐️⭐️⭐️",
       "city": "London",
@@ -6117,7 +6130,7 @@
       "googleMaps": "https://www.google.com/maps/place/Hélène+Darroze+at+The+Connaught/"
     },
     {
-      "id": "fnb_381",
+      "id": "fnb_382",
       "brand": "Héritage by Kei Kobayashi ⭐️ - The Ritz-Carlton Tokyo",
       "property": "Héritage by Kei Kobayashi ⭐️ - The Ritz-Carlton Tokyo",
       "city": "Tokyo",
@@ -6130,7 +6143,7 @@
       "googleMaps": "https://maps.app.goo.gl/pKmYk3bECWfni3Ne6"
     },
     {
-      "id": "fnb_382",
+      "id": "fnb_383",
       "brand": "Hokklo ⭐️ - Waldorf Astoria Xiamen",
       "property": "Hokklo ⭐️ - Waldorf Astoria Xiamen",
       "city": "Xiamen",
@@ -6143,9 +6156,9 @@
       "googleMaps": "https://maps.app.goo.gl/w5YHWhu7GDPvDh3t9"
     },
     {
-      "id": "fnb_383",
-      "brand": "INDDEE ⭐️",
-      "property": "INDDEE ⭐️",
+      "id": "fnb_384",
+      "brand": "INDDEE ⭐️⭐️",
+      "property": "INDDEE ⭐️⭐️",
       "city": "Bangkok",
       "category": "F&B Destinations",
       "brandCategory": "",
@@ -6156,7 +6169,7 @@
       "googleMaps": "https://maps.app.goo.gl/AcUmuTiP67C3kN5o6?g_st=ic"
     },
     {
-      "id": "fnb_384",
+      "id": "fnb_385",
       "brand": "Jade Dragon ⭐️⭐️⭐️ - Morpheus City of Dreams",
       "property": "Jade Dragon ⭐️⭐️⭐️ - Morpheus City of Dreams",
       "city": "Macau",
@@ -6169,7 +6182,7 @@
       "googleMaps": "https://maps.app.goo.gl/epQ9R9PhNgoMrjYPA?g_st=ic"
     },
     {
-      "id": "fnb_385",
+      "id": "fnb_386",
       "brand": "Koki ⭐️ - Capella Hanoi",
       "property": "Koki ⭐️ - Capella Hanoi",
       "city": "Hanoi",
@@ -6182,7 +6195,7 @@
       "googleMaps": "https://maps.app.goo.gl/yxcLizATAZMRgsfG6"
     },
     {
-      "id": "fnb_386",
+      "id": "fnb_387",
       "brand": "La Baie ⭐️ - The Ritz-Carlton Osaka",
       "property": "La Baie ⭐️ - The Ritz-Carlton Osaka",
       "city": "Osaka",
@@ -6195,7 +6208,7 @@
       "googleMaps": "https://maps.app.goo.gl/WaPWDvz88bNt3MZg7"
     },
     {
-      "id": "fnb_387",
+      "id": "fnb_388",
       "brand": "Lai Heen ⭐️ - The Ritz-Carlton Macau",
       "property": "Lai Heen ⭐️ - The Ritz-Carlton Macau",
       "city": "Macau",
@@ -6208,7 +6221,7 @@
       "googleMaps": "https://maps.app.goo.gl/E68MFSF3wVGEG4rM7"
     },
     {
-      "id": "fnb_388",
+      "id": "fnb_389",
       "brand": "Maison Dunand ⭐️",
       "property": "Maison Dunand ⭐️",
       "city": "Bangkok",
@@ -6221,7 +6234,7 @@
       "googleMaps": "https://maps.app.goo.gl/bADnBggqaFmUDTaH7"
     },
     {
-      "id": "fnb_389",
+      "id": "fnb_390",
       "brand": "Man Ho ⭐️ - JW Marriott Hong Kong",
       "property": "Man Ho ⭐️ - JW Marriott Hong Kong",
       "city": "Hong Kong",
@@ -6234,7 +6247,7 @@
       "googleMaps": "https://maps.app.goo.gl/MupgpfoywytFTok38?g_st=ic"
     },
     {
-      "id": "fnb_390",
+      "id": "fnb_391",
       "brand": "Man Wah ⭐️ - Mandarin Oriental, Hong Kong",
       "property": "Man Wah ⭐️ - Mandarin Oriental, Hong Kong",
       "city": "Hong Kong",
@@ -6245,7 +6258,7 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "fnb_391",
+      "id": "fnb_392",
       "brand": "Mi Xun Teahouse ⭐️🍀 - The Upper House Chengdu",
       "property": "Mi Xun Teahouse ⭐️🍀 - The Upper House Chengdu",
       "city": "Chengdu",
@@ -6258,7 +6271,7 @@
       "googleMaps": "https://maps.app.goo.gl/wKtmRouPcwfeACBh6"
     },
     {
-      "id": "fnb_392",
+      "id": "fnb_393",
       "brand": "MUME ⭐️",
       "property": "MUME ⭐️",
       "city": "Taipei",
@@ -6271,7 +6284,7 @@
       "googleMaps": "https://maps.app.goo.gl/hiaW41cT9nf6QzMj6?g_st=ic"
     },
     {
-      "id": "fnb_393",
+      "id": "fnb_394",
       "brand": "Nawa ⭐️",
       "property": "Nawa ⭐️",
       "city": "Bangkok",
@@ -6284,7 +6297,7 @@
       "googleMaps": "https://maps.app.goo.gl/H4TYiAeu288ZfCex5"
     },
     {
-      "id": "fnb_394",
+      "id": "fnb_395",
       "brand": "Odette ⭐️⭐️⭐️",
       "property": "Odette ⭐️⭐️⭐️",
       "city": "Singapore",
@@ -6297,7 +6310,7 @@
       "googleMaps": "https://maps.app.goo.gl/xtEn9hzHwH3o4WqX6"
     },
     {
-      "id": "fnb_395",
+      "id": "fnb_396",
       "brand": "Palace Garden ⭐️ - Grand Lisboa Palace Resort",
       "property": "Palace Garden ⭐️ - Grand Lisboa Palace Resort",
       "city": "Macau",
@@ -6310,7 +6323,7 @@
       "googleMaps": "https://maps.app.goo.gl/bM8Dn9yumYNdFoEW9?g_st=ic"
     },
     {
-      "id": "fnb_396",
+      "id": "fnb_397",
       "brand": "Petrus ⭐️ - Island Shangri-La, Hong Kong",
       "property": "Petrus ⭐️ - Island Shangri-La, Hong Kong",
       "city": "Hong Kong",
@@ -6321,7 +6334,7 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "fnb_397",
+      "id": "fnb_398",
       "brand": "POTONG ⭐️",
       "property": "POTONG ⭐️",
       "city": "Bangkok",
@@ -6334,7 +6347,7 @@
       "googleMaps": "https://maps.app.goo.gl/ewZEPEeAum7PWCQV8?g_st=ic"
     },
     {
-      "id": "fnb_398",
+      "id": "fnb_399",
       "brand": "Selection by Du ⭐️⭐️",
       "property": "Selection by Du ⭐️⭐️",
       "city": "Shanghai",
@@ -6347,7 +6360,7 @@
       "googleMaps": "-"
     },
     {
-      "id": "fnb_399",
+      "id": "fnb_400",
       "brand": "Shang Palace ⭐️ - Kowloon, Shangri-La Hong Kong",
       "property": "Shang Palace ⭐️ - Kowloon, Shangri-La Hong Kong",
       "city": "Hong Kong",
@@ -6360,7 +6373,7 @@
       "googleMaps": "https://maps.app.goo.gl/jepj4CTYf2Kpprnd8"
     },
     {
-      "id": "fnb_400",
+      "id": "fnb_401",
       "brand": "Shang Palace ⭐️ - Shangri-La Singapore",
       "property": "Shang Palace ⭐️ - Shangri-La Singapore",
       "city": "Singapore",
@@ -6373,7 +6386,7 @@
       "googleMaps": "https://maps.app.goo.gl/nPUWGmUjBjYHtpTz8"
     },
     {
-      "id": "fnb_401",
+      "id": "fnb_402",
       "brand": "Shanghai Tavern ⭐️ - The Shanghai EDITION",
       "property": "Shanghai Tavern ⭐️ - The Shanghai EDITION",
       "city": "Shanghai",
@@ -6386,7 +6399,7 @@
       "googleMaps": "https://maps.app.goo.gl/XBTWVhnhS43oZJ5A6?g_st=ic"
     },
     {
-      "id": "fnb_402",
+      "id": "fnb_403",
       "brand": "Sollip ⭐️",
       "property": "Sollip ⭐️",
       "city": "London",
@@ -6397,7 +6410,7 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "fnb_403",
+      "id": "fnb_404",
       "brand": "Summer Palace ⭐️ Island Shangri-La, Hong Kong",
       "property": "Summer Palace ⭐️ Island Shangri-La, Hong Kong",
       "city": "Hong Kong",
@@ -6408,7 +6421,7 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "fnb_404",
+      "id": "fnb_405",
       "brand": "Sushi Kissho ⭐️ - Raffles at Galaxy Macau",
       "property": "Sushi Kissho ⭐️ - Raffles at Galaxy Macau",
       "city": "Macau",
@@ -6421,7 +6434,7 @@
       "googleMaps": "https://maps.app.goo.gl/shxAhbwPp6HAerjk9?g_st=ic"
     },
     {
-      "id": "fnb_405",
+      "id": "fnb_406",
       "brand": "T+T ⭐️",
       "property": "T+T ⭐️",
       "city": "Taipei",
@@ -6434,7 +6447,7 @@
       "googleMaps": "https://maps.app.goo.gl/Ncnxwp2q9LiF3oHY6?g_st=ic"
     },
     {
-      "id": "fnb_406",
+      "id": "fnb_407",
       "brand": "Tanimoto ⭐️",
       "property": "Tanimoto ⭐️",
       "city": "Tokyo",
@@ -6447,7 +6460,7 @@
       "googleMaps": "https://maps.app.goo.gl/mGWFxyPynwcYDqpo7"
     },
     {
-      "id": "fnb_407",
+      "id": "fnb_408",
       "brand": "TATE Dining Room ⭐️⭐️",
       "property": "TATE Dining Room ⭐️⭐️",
       "city": "Hong Kong",
@@ -6460,7 +6473,7 @@
       "googleMaps": "https://maps.app.goo.gl/7jiK7TVjG3RNzoiH9?g_st=ic"
     },
     {
-      "id": "fnb_408",
+      "id": "fnb_409",
       "brand": "The Lita ⭐️",
       "property": "The Lita ⭐️",
       "city": "London",
@@ -6471,7 +6484,7 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "fnb_409",
+      "id": "fnb_410",
       "brand": "Trivet ⭐️⭐️",
       "property": "Trivet ⭐️⭐️",
       "city": "London",
@@ -6482,7 +6495,7 @@
       "googleMaps": "SOON"
     },
     {
-      "id": "fnb_410",
+      "id": "fnb_411",
       "brand": "Ya Ge ⭐️ - Mandarin Oriental Taipei",
       "property": "Ya Ge ⭐️ - Mandarin Oriental Taipei",
       "city": "Taipei",
@@ -6495,7 +6508,7 @@
       "googleMaps": "https://maps.app.goo.gl/cU8emKCQD2mpuxRLA"
     },
     {
-      "id": "fnb_411",
+      "id": "fnb_412",
       "brand": "Yong Fu (Hongkou) ⭐️",
       "property": "Yong Fu (Hongkou) ⭐️",
       "city": "Shanghai",
@@ -6508,7 +6521,7 @@
       "googleMaps": "-"
     },
     {
-      "id": "fnb_412",
+      "id": "fnb_413",
       "brand": "Zijin Mansion ⭐️ - Waldorf Astoria Beijing",
       "property": "Zijin Mansion ⭐️ - Waldorf Astoria Beijing",
       "city": "Beijing",
@@ -6521,7 +6534,7 @@
       "googleMaps": "https://maps.app.goo.gl/RWdmPnVMFcYwcmY99?g_st=ic"
     },
     {
-      "id": "fnb_413",
+      "id": "fnb_414",
       "brand": "85TD",
       "property": "85TD",
       "city": "Taipei",
@@ -6534,7 +6547,7 @@
       "googleMaps": "https://maps.app.goo.gl/KRZy1TnwvBRrHDq67?g_st=ic"
     },
     {
-      "id": "fnb_414",
+      "id": "fnb_415",
       "brand": "Akara Sky Hanuman",
       "property": "Akara Sky Hanuman",
       "city": "Bangkok",
@@ -6547,7 +6560,7 @@
       "googleMaps": "https://maps.app.goo.gl/99a6bryCDZd8fKST8"
     },
     {
-      "id": "fnb_415",
+      "id": "fnb_416",
       "brand": "AMUZ Gourmet",
       "property": "AMUZ Gourmet",
       "city": "Jakarta",
@@ -6560,7 +6573,7 @@
       "googleMaps": "https://maps.app.goo.gl/ftdGD47oa3LXsQb19?g_st=ic"
     },
     {
-      "id": "fnb_416",
+      "id": "fnb_417",
       "brand": "ANTE",
       "property": "ANTE",
       "city": "Jakarta",
@@ -6573,7 +6586,7 @@
       "googleMaps": "https://maps.app.goo.gl/9JiLtWMumPJHoCk16?g_st=ic"
     },
     {
-      "id": "fnb_417",
+      "id": "fnb_418",
       "brand": "FirePlay",
       "property": "FirePlay",
       "city": "Taipei",
@@ -6586,7 +6599,7 @@
       "googleMaps": "https://maps.app.goo.gl/MTFyy7PwSyBBE77i6?g_st=ic"
     },
     {
-      "id": "fnb_418",
+      "id": "fnb_419",
       "brand": "GALA Bangkok",
       "property": "GALA Bangkok",
       "city": "Bangkok",
@@ -6599,7 +6612,7 @@
       "googleMaps": "https://maps.app.goo.gl/r8JAbrvTpGicuzY28?g_st=ic"
     },
     {
-      "id": "fnb_419",
+      "id": "fnb_420",
       "brand": "Ho Lee Fuk",
       "property": "Ho Lee Fuk",
       "city": "Hong Kong",
@@ -6612,7 +6625,7 @@
       "googleMaps": "https://maps.app.goo.gl/6KLSBsnoG9JNLpZ57?g_st=ic"
     },
     {
-      "id": "fnb_420",
+      "id": "fnb_421",
       "brand": "HOME by Chef Wayan",
       "property": "HOME by Chef Wayan",
       "city": "Bali",
@@ -6625,7 +6638,7 @@
       "googleMaps": "https://maps.app.goo.gl/spUXSTV5JDwVYSuR6"
     },
     {
-      "id": "fnb_421",
+      "id": "fnb_422",
       "brand": "Lahnyai by Nusara",
       "property": "Lahnyai by Nusara",
       "city": "Bangkok",
@@ -6638,7 +6651,7 @@
       "googleMaps": "https://maps.app.goo.gl/ReKXnT9GR3KV2LSj7?g_st=ic"
     },
     {
-      "id": "fnb_422",
+      "id": "fnb_423",
       "brand": "Lapo Porsea",
       "property": "Lapo Porsea",
       "city": "Jakarta",
@@ -6651,7 +6664,7 @@
       "googleMaps": "https://maps.app.goo.gl/e8RuoUFGUVz6hduE9?g_st=ic"
     },
     {
-      "id": "fnb_423",
+      "id": "fnb_424",
       "brand": "Le Café at Louis Vuitton Boat Shanghai",
       "property": "Le Café at Louis Vuitton Boat Shanghai",
       "city": "Shanghai",
@@ -6664,7 +6677,7 @@
       "googleMaps": "https://maps.app.goo.gl/cBXYrjBW47ssix6q8"
     },
     {
-      "id": "fnb_424",
+      "id": "fnb_425",
       "brand": "Scilla",
       "property": "Scilla",
       "city": "Shanghai",
@@ -6677,7 +6690,7 @@
       "googleMaps": "-"
     },
     {
-      "id": "fnb_425",
+      "id": "fnb_426",
       "brand": "Syrco BASÈ",
       "property": "Syrco BASÈ",
       "city": "Bali",
@@ -6690,7 +6703,7 @@
       "googleMaps": "https://maps.app.goo.gl/zcgzMjRU2VbCkMxr7?g_st=ic"
     },
     {
-      "id": "fnb_426",
+      "id": "fnb_427",
       "brand": "The Long Table at John Hardy Boutique & Gallery",
       "property": "The Long Table at John Hardy Boutique & Gallery",
       "city": "Bali",
@@ -6703,7 +6716,7 @@
       "googleMaps": "https://maps.app.goo.gl/NebJZHVLh7zXzGzK8"
     },
     {
-      "id": "fnb_427",
+      "id": "fnb_428",
       "brand": "1945 - Fairmont Jakarta",
       "property": "1945 - Fairmont Jakarta",
       "city": "Jakarta",
@@ -6716,7 +6729,7 @@
       "googleMaps": "https://maps.app.goo.gl/RrW698tMKyFiXbXb9?g_st=ic"
     },
     {
-      "id": "fnb_428",
+      "id": "fnb_429",
       "brand": "Apéritif Restaurant - Viceroy Bali",
       "property": "Apéritif Restaurant - Viceroy Bali",
       "city": "Bali",
@@ -6729,7 +6742,7 @@
       "googleMaps": "https://maps.app.goo.gl/dR7xKGwWKXrvSB5D6?g_st=ic"
     },
     {
-      "id": "fnb_429",
+      "id": "fnb_430",
       "brand": "Astor Grill - The St. Regis Singapore",
       "property": "Astor Grill - The St. Regis Singapore",
       "city": "Singapore",
@@ -6742,7 +6755,7 @@
       "googleMaps": "https://maps.app.goo.gl/qCg3pqFWZALm3v6B9?g_st=ic"
     },
     {
-      "id": "fnb_430",
+      "id": "fnb_431",
       "brand": "Bel Étage - The St. Regis Jakarta",
       "property": "Bel Étage - The St. Regis Jakarta",
       "city": "Jakarta",
@@ -6755,7 +6768,7 @@
       "googleMaps": "https://maps.app.goo.gl/Wey2FWBJ7BKXpY2u6?g_st=ic"
     },
     {
-      "id": "fnb_431",
+      "id": "fnb_432",
       "brand": "Celestial Court - The St. Regis Beijing",
       "property": "Celestial Court - The St. Regis Beijing",
       "city": "Beijing",
@@ -6768,7 +6781,7 @@
       "googleMaps": "https://maps.app.goo.gl/j46bfiWe2gD6HzWe6"
     },
     {
-      "id": "fnb_432",
+      "id": "fnb_433",
       "brand": "China Blue - The Peninsula London",
       "property": "China Blue - The Peninsula London",
       "city": "London",
@@ -6777,19 +6790,6 @@
       "type": "stay",
       "instagramLinks": [],
       "googleMaps": "SOON"
-    },
-    {
-      "id": "fnb_433",
-      "brand": "Duet by David Tautain - The Ritz-Carlton, Bangkok",
-      "property": "Duet by David Tautain - The Ritz-Carlton, Bangkok",
-      "city": "Bangkok",
-      "category": "F&B Destinations",
-      "brandCategory": "",
-      "type": "stay",
-      "instagramLinks": [
-        "https://www.instagram.com/reel/DLSUu8eJNge/?utm_source=ig_web_copy_link"
-      ],
-      "googleMaps": "https://maps.app.goo.gl/FQzi3CvgiW7HxQkM6"
     },
     {
       "id": "fnb_434",
