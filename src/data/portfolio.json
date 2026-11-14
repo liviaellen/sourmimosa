@@ -582,8 +582,12 @@
       "category": "Hotels & Resorts",
       "brandCategory": "A Ultra Luxury",
       "type": "hotel",
-      "instagramLinks": [],
-      "googleMaps": "SOON"
+      "instagramLinks": [
+        "https://www.instagram.com/p/De-aDNViGHj/?mdxt=ZXRtcmZ1eWszaG5w",
+        "https://www.instagram.com/stories/highlights/18036785549845991/",
+        "https://www.instagram.com/reel/De-aVZ_I8iA/?utm_source=ig_web_copy_link&cplk=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/d9FdmiHBujs8HTYS7"
     },
     {
       "id": "hotel_38",
@@ -638,7 +642,7 @@
         "https://www.instagram.com/reel/DenWudvIEbT/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA==",
         "https://www.instagram.com/reel/DenYGGpINR6/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
       ],
-      "googleMaps": ""
+      "googleMaps": "https://maps.app.goo.gl/uoeMYeomieh83A5K9"
     },
     {
       "id": "hotel_41",
@@ -654,7 +658,7 @@
         "https://www.instagram.com/reel/Deeh-RptQwx/?psln=aHYyNHdoaWFiYmNt",
         "https://www.instagram.com/reel/Deeid1cNy6b/?dlrf=MXduYmc4eDJtNTR4bQ=="
       ],
-      "googleMaps": "https://maps.app.goo.gl/uoeMYeomieh83A5K9"
+      "googleMaps": ""
     },
     {
       "id": "hotel_42",
@@ -781,8 +785,13 @@
       "category": "Hotels & Resorts",
       "brandCategory": "A Ultra Luxury",
       "type": "hotel",
-      "instagramLinks": [],
-      "googleMaps": "SOON"
+      "instagramLinks": [
+        "https://www.instagram.com/p/DeusR4Cjazy/?utm_source=ig_web_copy_link&cplk=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/stories/highlights/18376384591242246/",
+        "https://www.instagram.com/reel/Deurx_vtfBv/?utm_source=ig_web_copy_link&cplk=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/reel/Deuo4Puosyw/?utm_source=ig_web_copy_link&obrf=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://maps.app.goo.gl/eUAc3EpckszLgWeS6"
     },
     {
       "id": "hotel_50",
@@ -4323,7 +4332,7 @@
         "https://www.instagram.com/reel/DeiREW5IGgJ/?rpxt=aGgyemUxZjBpMmNi",
         "https://www.instagram.com/reel/DeiRQSDIzDU/?rpxt=aGY2Z2x2YjB0OTVu"
       ],
-      "googleMaps": "https://www.google.com/maps/contrib/117016178934992842533/place/ChIJPTReYyUFdkgRXxrDPxjNGsM/@51.5171333,-0.1192482,13600m/data=!3m1!1e3!4m6!1m5!8m4!1e1!2s117016178934992842533!3m1!1e1?authuser=1&entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D"
+      "googleMaps": "https://maps.app.goo.gl/NQxQJ3Dd2Ejb4k9x6"
     },
     {
       "id": "hotel_264",
