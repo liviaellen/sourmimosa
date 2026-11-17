@@ -3107,8 +3107,12 @@
       "category": "Hotels & Resorts",
       "brandCategory": "C Lower Luxury",
       "type": "hotel",
-      "instagramLinks": [],
-      "googleMaps": "SOON"
+      "instagramLinks": [
+        "https://www.instagram.com/p/DfGkO8un5wP/?utm_source=ig_web_copy_link&cplk=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==",
+        "https://www.instagram.com/stories/highlights/18072532262768401/",
+        "https://www.instagram.com/reel/DfGldQHyXBv/?utm_source=ig_web_copy_link&vrfl=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA=="
+      ],
+      "googleMaps": "https://www.google.com/maps/place/Pan+Pacific+London/@51.5164657,-0.0830486,17z/data=!4m15!1m2!2m1!1span+pacific!3m11!1s0x48761cb2ebe2537b:0x286b76747986da9!5m2!4m1!1i2!8m2!3d51.516429!4d-0.0803845!9m1!1b1!15sCgtwYW4gcGFjaWZpYyIDiAEBWg0iC3BhbiBwYWNpZmljkgEFaG90ZWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTkNNVkJMZG5wQlJSQULgAQD6AQUI4AcQQw!16s%2Fg%2F11g72803gj?authuser=1&entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": "hotel_190",
